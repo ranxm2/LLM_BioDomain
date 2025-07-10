@@ -75,64 +75,127 @@ def get_root_paths(go_id):
     return paths
 
 
-# --- Loop and assign Biodomains
+# # --- Loop and assign Biodomains
 
-for go_index in tqdm(range(100), desc="Assigning Biodomains testing"):
-# for go_index in tqdm(range(len(df_go)), desc="Assigning Biodomains"):
+# for go_index in tqdm(range(len(df_go)), desc="Assigning Biodomains testing"):
+#     go_term = df_go.iloc[go_index]['node']
+#     go_id = df_go.iloc[go_index]['nodeID']
+#     go_def = term = graph.nodes[go_id]
+#     go_root = df_go.iloc[go_index]['root node']
+#     go_term = format_pathway(go_term)
+
+#     go_structure = graph.nodes[go_id].get('structure', 'Unknown')
+#     # get all root‐paths
+#     paths = get_root_paths(go_id)
+
+#     # turn each path into a “GO:0000000 (Name) -> … -> Root” string
+#     structure_lines = []
+#     for path in paths:
+#         names = [f"{nid} ({graph.nodes[nid]['name']})" for nid in path]
+#         structure_lines.append(" -> ".join(names))
+
+#     # join multiple paths with newlines (or use '; ' if you prefer)
+#     go_structure_text = "\n".join(structure_lines)
+
+
+
+#     prompt = f"""
+# You are a biomedical ontology expert.  
+# Below is a GO term and its context.  From the list of Biodomains, choose **only** the single best label—or 'Unknown'—that fits this term.
+
+# **Biodomain options:**
+# {domains_str}
+
+# **GO Term:** { go_term }  
+# **Definition:** {go_def}  
+# **Root ontology term:** {go_root} 
+# **GO Structure:** {go_structure_text}
+
+# Please respond with exactly one item from the Biodomain list (or 'Unknown').
+# """
+
+#     try:
+#         resp = client.chat.completions.create(
+#             model="gpt-4o-mini",
+#             messages=[
+#                 {"role": "system", "content": "You are a biomedical ontology expert. Infer only the most appropriate Biodomain or 'unknown'."},
+#                 {"role": "user",   "content": prompt}
+#             ],
+#             temperature=0
+#         )
+#         bd = resp.choices[0].message.content.strip()
+#     except Exception as e:
+#         bd = f"ERROR: {e}"
+
+#     df_go.loc[go_index, 'biodomain'] = bd
+#     print(f"Pathway: {go_term } -> Biodomain: {bd}\n")
+#     time.sleep(1)
+
+
+# df_go.to_csv("biodomain_results_name_structure_0630.csv", index=False)
+
+
+
+
+# --- Loop and assign top-5 Biodomains
+for go_index in tqdm(range(len(df_go)), desc="Assigning top-5 Biodomains"):
     go_term = df_go.iloc[go_index]['node']
-    go_id = df_go.iloc[go_index]['nodeID']
-    go_def = term = graph.nodes[go_id]
+    go_id   = df_go.iloc[go_index]['nodeID']
+    go_def  = graph.nodes[go_id].get('definition', 'No definition available')
     go_root = df_go.iloc[go_index]['root node']
     go_term = format_pathway(go_term)
 
-    go_structure = graph.nodes[go_id].get('structure', 'Unknown')
-    # get all root‐paths
+    # Build GO structure text from all root paths
     paths = get_root_paths(go_id)
-
-    # turn each path into a “GO:0000000 (Name) -> … -> Root” string
     structure_lines = []
     for path in paths:
         names = [f"{nid} ({graph.nodes[nid]['name']})" for nid in path]
         structure_lines.append(" -> ".join(names))
-
-    # join multiple paths with newlines (or use '; ' if you prefer)
-    go_structure_text = "\n".join(structure_lines)
-
-
+    go_structure_text = "\n".join(structure_lines) or "No structure available"
 
     prompt = f"""
 You are a biomedical ontology expert.  
-Below is a GO term and its context.  From the list of Biodomains, choose **only** the single best label—or 'Unknown'—that fits this term.
+Below is a GO term with its definition and full ontology paths.
+From the list of Biodomains, choose the **top 5** labels that best fit this term—ranked most-to-least appropriate.  
+**Do not** ever reply “Unknown,” and **do not** return more or fewer than five.  
+**List only** the domain names, **without** any numbering, bullets, or additional text.
 
 **Biodomain options:**
 {domains_str}
 
-**GO Term:** { go_term }  
+**GO Term:** {go_term}  
 **Definition:** {go_def}  
-**Root ontology term:** {go_root} 
-**GO Structure:** {go_structure_text}
+**Root ontology term:** {go_root}  
+**GO Structure (all root paths):**
+{go_structure_text}
 
-Please respond with exactly one item from the Biodomain list (or 'Unknown').
+Please respond with exactly five items, separated by commas, in descending order of relevance.
 """
 
     try:
         resp = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
-                {"role": "system", "content": "You are a biomedical ontology expert. Infer only the most appropriate Biodomain or 'unknown'."},
-                {"role": "user",   "content": prompt}
+                {
+                    "role": "system",
+                    "content": (
+                        "You are a biomedical ontology expert. "
+                        "Always return exactly five ranked Biodomains—never 'Unknown'—for any GO term."
+                    )
+                },
+                {"role": "user", "content": prompt}
             ],
             temperature=0
         )
-        bd = resp.choices[0].message.content.strip()
+        top5 = resp.choices[0].message.content.strip()
     except Exception as e:
-        bd = f"ERROR: {e}"
+        top5 = f"ERROR: {e}"
 
-    df_go.loc[go_index, 'biodomain'] = bd
-    print(f"Pathway: {go_term } -> Biodomain: {bd}\n")
+    df_go.at[go_index, 'biodomain'] = top5
+    print(f"{go_term} -> Top-5 Biodomains: {top5}")
+
     time.sleep(1)
 
-
-df_go.to_csv("biodomain_results_name_structure_0609.csv", index=False)
-
-
+# Save results
+df_go.to_csv("biodomain_results_top5_with_structure_0630.csv", index=False)
+# df_go.to_csv("biodomain_results_top5_with_structure_demo.csv", index=False)

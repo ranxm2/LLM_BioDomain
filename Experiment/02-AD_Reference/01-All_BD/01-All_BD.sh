@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=BD_Name_OBO
+#SBATCH --job-name=BD_AD
 #SBATCH --output=./logs/%A_out.txt
 #SBATCH --error=./logs/%A_err.txt
 #SBATCH --array=1
@@ -11,8 +11,9 @@
 #SBATCH --mail-type=BEGIN,END,FAIL
 #SBATCH --partition=day-long-cpu,month-long-cpu,week-long-cpu,largemem,encore,encore-gpu
 
-cd /projects/compbio/users/xran2/wen/JX/02-AI-BioDomain/git_folder/Experiment/01-Refernce_free/02-Name_structure
-conda init
+cd /projects/compbio/users/xran2/wen/JX/02-AI-BioDomain/git_folder/Experiment/02-AD_Reference/01-All_BD 
+
+# conda init
 conda activate openai
 
-python 02-Name_structure.py 
+python 01-All_BD.py 

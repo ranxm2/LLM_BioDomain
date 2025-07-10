@@ -87,90 +87,155 @@ def get_ancestors(go_id):
 # load the similarity matrix
 df_similarity = pd.read_csv("../../../data/go_jaccard_long_filtered.csv")
 
+df_sim = pd.concat([
+    df_similarity.rename(columns={"GO_ID1":"A", "GO_ID2":"B", "Jaccard_distance":"sim"}),
+    df_similarity.rename(columns={"GO_ID2":"A", "GO_ID1":"B", "Jaccard_distance":"sim"})
+], ignore_index=True).set_index(["A","B"])["sim"]
 
 
+# ——— 2) Define your AD to GOID map ———
+AD_BioDomain_GOID_map = {
+    'Synapse': 'GO:0045202',
+    'Immune Response': 'GO:0006955',
+    'Mitochondrial Metabolism': None,
+    'Structural Stabilization': None,
+    'Proteostasis': None,
+    "Lipid Metabolism": 'GO:0006629',
+    'Vasculature': None,
+    'Endolysosome': 'GO:0036019',
+    'Cell Cycle': 'GO:0007049',
+    'Apoptosis': 'GO:0006915',
+    'Oxidative Stress': None,
+    'Myelination': 'GO:0042552',
+    'Metal Binding and Homeostasis': None,
+    'Autophagy': 'GO:0006914',
+    'Epigenetic': None,
+    'APP Metabolism': 'GO:0042982',
+    'DNA Repair': 'GO:0006281',
+    'RNA Spliceosome': None,
+    'Tau Homeostasis': None,
+}
+import pandas as pd
+import time
+from tqdm import tqdm
+
+# ——— 1) Load your similarity matrix ———
+df_similarity = pd.read_csv("../../../data/go_jaccard_long_filtered.csv")
+df_sim = pd.concat([
+    df_similarity.rename(columns={"GO_ID1":"A", "GO_ID2":"B", "Jaccard_distance":"sim"}),
+    df_similarity.rename(columns={"GO_ID2":"A", "GO_ID1":"B", "Jaccard_distance":"sim"})
+], ignore_index=True).set_index(["A","B"])["sim"]
+
+# ——— 2) AD→GO map ———
+AD_BioDomain_GOID_map = {
+    'Synapse': 'GO:0045202',
+    'Immune Response': 'GO:0006955',
+    'Mitochondrial Metabolism': None,
+    'Structural Stabilization': None,
+    'Proteostasis': None,
+    "Lipid Metabolism": 'GO:0006629',
+    'Vasculature': None,
+    'Endolysosome': 'GO:0036019',
+    'Cell Cycle': 'GO:0007049',
+    'Apoptosis': 'GO:0006915',
+    'Oxidative Stress': None,
+    'Myelination': 'GO:0042552',
+    'Metal Binding and Homeostasis': None,
+    'Autophagy': 'GO:0006914',
+    'Epigenetic': None,
+    'APP Metabolism': 'GO:0042982',
+    'DNA Repair': 'GO:0006281',
+    'RNA Spliceosome': None,
+    'Tau Homeostasis': None,
+}
 
 
-# --- Loop and assign Biodomains
-go_index=0
-for go_index in tqdm(range(100), desc="Assigning Biodomains testing"):
-# for go_index in tqdm(range(len(df_go)), desc="Assigning Biodomains"):
-    go_term = df_go.iloc[go_index]['node']
-    go_id = df_go.iloc[go_index]['nodeID']
-    go_def = term = graph.nodes[go_id]
-    go_root = df_go.iloc[go_index]['root node']
-    go_term = format_pathway(go_term)
-    
-    #-----------------------------------
-    # get the GO structure
-    #-----------------------------------
+# ——— 3) Loop ———
+for idx in tqdm(range(len(df_go)), desc="Assigning top-5 Biodomains"):
+    go_id   = df_go.at[idx, 'nodeID']
+    go_term = format_pathway(df_go.at[idx, 'node'])
+    go_def  = graph.nodes[go_id].get('definition', 'No definition available')
+    go_root = df_go.at[idx, 'root node']
+
+    # build paths & structure text
     paths = get_root_paths(go_id)
-    structure_lines = []
+    structure_lines = [" -> ".join(f"{nid} ({graph.nodes[nid]['name']})" for nid in path)
+                       for path in paths]
+    go_structure_text = "\n".join(structure_lines) or "No structure available"
+
+    # — Similarity to each AD‐Biodomain GOID (fill N/A with 1.0) —
+    sim_lines = []
+    for domain, bd_goid in AD_BioDomain_GOID_map.items():
+        sim = df_sim.get((go_id, bd_goid), 1.0) if bd_goid else 1.0
+        # df_go.at[idx, f"sim_to_{domain.replace(' ','_')}"] = sim
+        sim_lines.append(f"{domain}: {sim:.3f}")
+    sim_text = "\n".join(sim_lines)
+
+    # — Similarity along each path (term→ancestors) —
+    path_sim_lines = []
     for path in paths:
-        names = [f"{nid} ({graph.nodes[nid]['name']})" for nid in path]
-        structure_lines.append(" -> ".join(names))
+        entries = []
+        for nid in path:
+            sim = df_sim.get((go_id, nid), 1.0)
+            name = graph.nodes[nid]['name']
+            entries.append(f"{nid} ({name}): {sim:.3f}")
+        path_sim_lines.append(" → ".join(entries))
+    path_sim_text = "\n\n".join(path_sim_lines) or "No paths available"
 
-    # join multiple paths with newlines (or use '; ' if you prefer)
-    go_structure_text = "\n".join(structure_lines)
-
-    #-----------------------------------
-    # get the GO similarity
-    #-----------------------------------
-    ancestors = get_ancestors(go_id)
-    go_ancestors = [go_id] + list(ancestors)
-    go_similarities = df_similarity.loc[go_ancestors, go_ancestors].values
-
-    # build the mask
-    mask = (
-        df_similarity['GO_ID1'].isin( go_ancestors) &
-        df_similarity['GO_ID2'].isin( go_ancestors)
-    )
-
-    # filter and (if you plan to modify) make a copy to avoid any warnings
-    df_filtered = df_similarity.loc[mask].copy()
-
-    # convert the similarity values to a string
-    
-
-
-
-
-
-
-
+    # — Build prompt —
     prompt = f"""
-You are a biomedical ontology expert.  
-Below is a GO term and its context.  From the list of Biodomains, choose **only** the single best label—or 'Unknown'—that fits this term.
+You are a biomedical ontology expert.
+Below is a GO term with its definition, full ontology paths, and Jaccard distances.
+**Note:** smaller distance ⇒ greater similarity.
 
 **Biodomain options:**
 {domains_str}
 
-**GO Term:** { go_term }  
-**Definition:** {go_def}  
-**Root ontology term:** {go_root} 
-**GO Structure:** {go_structure_text}
+**GO Term:** {go_term}
+**Definition:** {go_def}
+**Root ontology term:** {go_root}
 
-Please respond with exactly one item from the Biodomain list (or 'Unknown').
+**GO Structure (all root paths):**
+{go_structure_text}
+
+**Similarity to AD‐Biodomain GOIDs** (missing filled as 1.0):
+{sim_text}
+
+**Similarity along each GO path** (term → ancestors):
+{path_sim_text}
+
+From the list of Biodomains, choose the **top 5** labels that best fit this term—ranked most-to-least appropriate.
+Do **not** reply “Unknown,” and return **exactly five** domain names, **without** numbering or bullets.
+Please respond with five comma-separated items only.
 """
 
     try:
         resp = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
-                {"role": "system", "content": "You are a biomedical ontology expert. Infer only the most appropriate Biodomain or 'unknown'."},
-                {"role": "user",   "content": prompt}
+                {
+                    "role": "system",
+                    "content": (
+                        "You are a biomedical ontology expert. "
+                        "Always return exactly five ranked Biodomains—never 'Unknown'."
+                    )
+                },
+                {"role": "user", "content": prompt}
             ],
             temperature=0
         )
-        bd = resp.choices[0].message.content.strip()
+        top5 = resp.choices[0].message.content.strip()
     except Exception as e:
-        bd = f"ERROR: {e}"
+        top5 = f"ERROR: {e}"
 
-    df_go.loc[go_index, 'biodomain'] = bd
-    print(f"Pathway: {go_term } -> Biodomain: {bd}\n")
+    df_go.at[idx, 'biodomain'] = top5
+    print(f"[{idx}] {go_term} → Top-5: {top5}")
+
     time.sleep(1)
 
+# ——— 4) Save ———
+# df_go.to_csv("biodomain_results_top5_with_similarity_demo.csv", index=False)
 
-df_go.to_csv("biodomain_results_name_structure_0609.csv", index=False)
 
-
+# ——— 4) Save your enriched DataFrame ———
+df_go.to_csv("biodomain_results_top5_with_similarity_0630.csv", index=False)
