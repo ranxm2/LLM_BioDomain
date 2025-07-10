@@ -14,21 +14,27 @@ uv run python -m baselines.eval eval \
   --leaderboard_path './Experiment/00-Baselines/random/seed_2025_leaderboard.csv' \
   --method_name 'random_seed_2025'
 
-  # Graph Traversal
-  uv run python -m baselines.graph_traversal main --seed 42
-  uv run python -m baselines.eval eval \
+# Graph Traversal
+uv run python -m baselines.graph_traversal main --seed 42
+uv run python -m baselines.eval eval \
   --result_path './Experiment/00-Baselines/graph_traversal/seed_42.json' \
   --leaderboard_path './Experiment/00-Baselines/graph_traversal/seed_42_leaderboard.csv' \
   --method_name 'random_seed_42'
 
-  uv run python -m baselines.graph_traversal main --seed 27
-  uv run python -m baselines.eval eval \
+uv run python -m baselines.graph_traversal main --seed 27
+uv run python -m baselines.eval eval \
   --result_path './Experiment/00-Baselines/graph_traversal/seed_27.json' \
   --leaderboard_path './Experiment/00-Baselines/graph_traversal/seed_27_leaderboard.csv' \
   --method_name 'random_seed_27'
 
-  uv run python -m baselines.graph_traversal main --seed 2025
-  uv run python -m baselines.eval eval \
+uv run python -m baselines.graph_traversal main --seed 2025
+uv run python -m baselines.eval eval \
   --result_path './Experiment/00-Baselines/graph_traversal/seed_2025.json' \
   --leaderboard_path './Experiment/00-Baselines/graph_traversal/seed_2025_leaderboard.csv' \
   --method_name 'random_seed_2025'
+
+uv run python -m baselines.graph_traversal main --seed 2022
+uv run python -m baselines.eval eval \
+  --result_path './Experiment/00-Baselines/graph_traversal/seed_2022.json' \
+  --leaderboard_path './Experiment/00-Baselines/graph_traversal/seed_2022_leaderboard.csv' \
+  --method_name 'random_seed_2022'
