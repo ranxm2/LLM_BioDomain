@@ -60,37 +60,85 @@ def format_pathway(pw: str) -> str:
 
 # --- Loop and assign Biodomains
 
-for go_index in tqdm(range(100), desc="Assigning Biodomains testing"):
-# for go_index in tqdm(range(len(df_go)), desc="Assigning Biodomains"):
-    go_term = df_go.iloc[go_index]['node']
-    go_id = df_go.iloc[go_index]['nodeID']
-    go_def = term = graph.nodes[go_id]
-    go_root = df_go.iloc[go_index]['root node']
+# for go_index in tqdm(range(100), desc="Assigning Biodomains testing"):
+# # for go_index in tqdm(range(len(df_go)), desc="Assigning Biodomains"):
+#     go_term = df_go.iloc[go_index]['node']
+#     go_id = df_go.iloc[go_index]['nodeID']
+#     go_def = term = graph.nodes[go_id]
+#     go_root = df_go.iloc[go_index]['root node']
 
     
+#     go_term = format_pathway(go_term)
+
+
+
+#     prompt = f"""
+# You are a biomedical ontology expert.  
+# Below is a GO term and its context.  From the list of Biodomains, choose **only** the single best label—or 'Unknown'—that fits this term.
+
+# **Biodomain options:**
+# {domains_str}
+
+# **GO Term:** { go_term }  
+# **Definition:** {go_def}  
+# **Root ontology term:** {go_root} 
+
+# Please respond with exactly one item from the Biodomain list (or 'Unknown').
+# """
+
+#     try:
+#         resp = client.chat.completions.create(
+#             model="gpt-4o-mini",
+#             messages=[
+#                 {"role": "system", "content": "You are a biomedical ontology expert. Infer only the most appropriate Biodomain or 'unknown'."},
+#                 {"role": "user",   "content": prompt}
+#             ],
+#             temperature=0
+#         )
+#         bd = resp.choices[0].message.content.strip()
+#     except Exception as e:
+#         bd = f"ERROR: {e}"
+
+#     df_go.loc[go_index, 'biodomain'] = bd
+#     print(f"Pathway: {go_term } -> Biodomain: {bd}\n")
+#     time.sleep(1)
+
+
+# df_go.to_csv("biodomain_results_name_0609.csv", index=False)
+
+
+
+
+for go_index in tqdm(range(len(df_go)), desc="Assigning top-5 Biodomains"):
+    go_term = df_go.iloc[go_index]['node']
+    go_id = df_go.iloc[go_index]['nodeID']
+    go_def = graph.nodes[go_id]
+    go_root = df_go.iloc[go_index]['root node']
+
     go_term = format_pathway(go_term)
-
-
 
     prompt = f"""
 You are a biomedical ontology expert.  
-Below is a GO term and its context.  From the list of Biodomains, choose **only** the single best label—or 'Unknown'—that fits this term.
+Below is a GO term with its definition and full ontology paths.  
+From the list of Biodomains, choose the **top 5** labels that best fit this term—ranked most-to-least appropriate.  
+**Do not** ever reply “Unknown,” and **do not** return more or fewer than five.  
+**List only** the domain names, **without** any numbering, bullets, or additional text.
 
 **Biodomain options:**
 {domains_str}
 
-**GO Term:** { go_term }  
+**GO Term:** {go_term}  
 **Definition:** {go_def}  
-**Root ontology term:** {go_root} 
+**Root ontology term:** {go_root}
 
-Please respond with exactly one item from the Biodomain list (or 'Unknown').
+Please respond with exactly 5 items, separated by commas, in descending order of relevance.
 """
 
     try:
         resp = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
-                {"role": "system", "content": "You are a biomedical ontology expert. Infer only the most appropriate Biodomain or 'unknown'."},
+                {"role": "system", "content": "You are a biomedical ontology expert. Always return exactly five ranked Biodomains—never 'Unknown'—for any GO term."},
                 {"role": "user",   "content": prompt}
             ],
             temperature=0
@@ -100,10 +148,8 @@ Please respond with exactly one item from the Biodomain list (or 'Unknown').
         bd = f"ERROR: {e}"
 
     df_go.loc[go_index, 'biodomain'] = bd
-    print(f"Pathway: {go_term } -> Biodomain: {bd}\n")
+    print(f"Pathway: {go_term} -> Biodomain: {bd}\n")
     time.sleep(1)
 
-
-df_go.to_csv("biodomain_results_name_0609.csv", index=False)
-
-
+df_go.to_csv("biodomain_results_top5_0630.csv", index=False)
+# df_go.to_csv("biodomain_results_top5_demo.csv", index=False)
