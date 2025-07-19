@@ -47,3 +47,6 @@ uv run python -m baselines.eval eval \
   --result_path './Experiment/00-Baselines/SapBERT/seed_42.json' \
   --leaderboard_path './Experiment/00-Baselines/SapBERT/seed_42.csv' \
   --method_name 'SapBERT_seed_42'
+
+# Qwen3-0.6B
+nohup uv run -m baselines.Qwen main > Qwen3-0.6B.log 2>&1 &
