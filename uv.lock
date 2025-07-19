@@ -595,7 +595,7 @@ requires-dist = [
     { name = "fire", specifier = ">=0.7.0" },
     { name = "obonet", specifier = ">=1.1.1" },
     { name = "polars", specifier = ">=1.30.0" },
-    { name = "pybiomedlink", specifier = ">=0.1.1" },
+    { name = "pybiomedlink", specifier = ">=0.2.0.post1" },
     { name = "ranx", specifier = ">=0.3.20" },
 ]
 
@@ -1300,7 +1300,7 @@ wheels = [
 
 [[package]]
 name = "pybiomedlink"
-version = "0.1.1"
+version = "0.2.0.post1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "accelerate" },
@@ -1308,9 +1308,9 @@ dependencies = [
     { name = "torch" },
     { name = "transformers" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/70/fd/36d98da07ce8756e8431535eec2d6a54f3ad1cf71867b32340e5e8098d1a/pybiomedlink-0.1.1.tar.gz", hash = "sha256:a50e1715c4f8fb48884a1a0de864ded07de57e134b41b9405ef4e01b0b8cfc67", size = 13253, upload-time = "2025-07-19T01:41:58.9Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/65/59/39b9325e7238f8986ede6e59cc3eb4137850de38b415ec97abd51b5665c0/pybiomedlink-0.2.0.post1.tar.gz", hash = "sha256:cfbbc4bd1455b1912a7380f03041f30fbb7834d50f5fd0063bcffec24a284ea7", size = 13435, upload-time = "2025-07-19T19:06:04.967Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/27/2e/ee90136f7a8c38e44cc4bb549c1567e44f32387b6d2ca3e5882b1c490c1b/pybiomedlink-0.1.1-py3-none-any.whl", hash = "sha256:ff5250e1a9e0dc72cb0fd591b681848011129b40f05bb393cb5b39dda61bec05", size = 14006, upload-time = "2025-07-19T01:41:57.781Z" },
+    { url = "https://files.pythonhosted.org/packages/2f/29/f1c9be7a0727b494aaec746d32191f874cf9bc81418f79480d4d5be89473/pybiomedlink-0.2.0.post1-py3-none-any.whl", hash = "sha256:5f0ae1904e649a75199472637e7612afeb50d05a1fc7abba37abbbdf2d93d8d4", size = 14185, upload-time = "2025-07-19T19:06:03.867Z" },
 ]
 
 [[package]]

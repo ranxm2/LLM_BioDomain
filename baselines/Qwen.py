@@ -16,6 +16,7 @@ def main(
     seed: int = 42,
     dataset_path: str = './data/AD_Biological_Domain_GO_annotate.csv',
     topk: int = 5,
+    thinking_mode: bool = True,
 ):
     random.seed(seed)
     AD_BioDomains = list(AD_BioDomain_GOID_map.keys())
@@ -37,7 +38,11 @@ def main(
         ground_truth = row['Biodomain_true']
         row['Biodomain_true'] = {p: 1.0 for p in ground_truth}
         # predict
-        pred_score_results = linker.predict_aux(row['GOterm_Name'], topk)
+        pred_score_results = linker.predict_aux(
+            row['GOterm_Name'],
+            topk,
+            enable_thinking=thinking_mode,
+            )
         # add predictions to the row
         preds = {p: s for p, s in zip(pred_score_results['labels'], pred_scores_template)}
         row['Biodomain_pred'] = preds
