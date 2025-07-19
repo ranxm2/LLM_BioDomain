@@ -3,36 +3,38 @@ import json
 from typing import List
 
 import numpy as np
+from tqdm.auto import tqdm
 import fire
 import polars as pl
+from pybiomedlink.linker import TransformerEmbLinker
 
 from .meta_data import AD_BioDomain_GOID_map
 
-
 def main(
-    output_dir: str = './Experiment/00-Baselines/random/',
+    output_dir: str = './Experiment/00-Baselines/SapBERT',
     seed: int = 42,
     dataset_path: str = './data/AD_Biological_Domain_GO_annotate.csv',
     topk: int = 5,
 ):
     random.seed(seed)
     AD_BioDomains = list(AD_BioDomain_GOID_map.keys())
+    linker = TransformerEmbLinker(AD_BioDomains, model_name="cambridgeltl/SapBERT-from-PubMedBERT-fulltext")
     # load the dataset
     df = pl.read_csv(
         dataset_path,
         infer_schema_length=10000
-    ).group_by('GO_ID').agg(pl.col('Biodomain').alias('Biodomain_true'))
+    ).group_by(['GO_ID', 'GOterm_Name']).agg(pl.col('Biodomain').alias('Biodomain_true'))
     df_dicts = df.to_dicts()
-    # create a template for predicted scores
-    # [0.9, 0.7, 0.5, 0.3, 0.1] for topk=5
-    pred_scores_template = list(np.linspace(0.9, 0.1, num=topk))
-    for row in df_dicts:
+    for row in tqdm(df_dicts):
         # assign gold scores: all 1.0
         ground_truth = row['Biodomain_true']
         row['Biodomain_true'] = {p: 1.0 for p in ground_truth}
-        # radonmly predict
-        preds: List = random.sample(AD_BioDomains, k=topk)
-        row['Biodomain_pred'] = {p: s for p, s in zip(preds, pred_scores_template)}
+        # predict
+        pred_score_results = linker.predict_aux(row['GOterm_Name'], topk)
+        #print(f'Predicted scores for GO term {row["GO_ID"]}, {row["GOterm_Name"]}: {pred_score_results}')
+        # add predictions to the row
+        preds = {p: s for p, s in zip(pred_score_results['labels'], pred_score_results['scores'])}
+        row['Biodomain_pred'] = preds
     # save the results
     with open(f'{output_dir}/seed_{seed}.json', 'w') as fwrite:
         json.dump(df_dicts, fwrite, indent=2)

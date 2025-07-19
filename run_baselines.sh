@@ -32,3 +32,18 @@ uv run python -m baselines.eval eval \
   --result_path './Experiment/00-Baselines/graph_traversal/seed_2025.json' \
   --leaderboard_path './Experiment/00-Baselines/graph_traversal/seed_2025_leaderboard.csv' \
   --method_name 'random_seed_2025'
+
+
+# Edit Distance
+uv run -m baselines.LevED main
+uv run python -m baselines.eval eval \
+  --result_path './Experiment/00-Baselines/LevEditDist/seed_42.json' \
+  --leaderboard_path './Experiment/00-Baselines/LevEditDist/seed_42.csv' \
+  --method_name 'LevED_seed_42'
+
+# SapBERT
+uv run -m baselines.SapBERT main
+uv run python -m baselines.eval eval \
+  --result_path './Experiment/00-Baselines/SapBERT/seed_42.json' \
+  --leaderboard_path './Experiment/00-Baselines/SapBERT/seed_42.csv' \
+  --method_name 'SapBERT_seed_42'
