@@ -1,0 +1,7 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Traceback (most recent call last):
+  File "./source/deepseek/deepseek_biodomain_FXS_temp_v2.py", line 7, in <module>
+    import obonet
+ModuleNotFoundError: No module named 'obonet'

@@ -1,0 +1,505 @@
+Running with TEMP=0.5, sub_array_index=10
+Changed working directory to: /panfs/compbio/users/xran2/wen/JX/02-AI-BioDomain/git_folder
+Processing array index 10: rows 4500 to 4999
+GO Term: Regulation Of Skeletal Muscle Contraction By Calcium Ion Signaling -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Autophagy, Oxidative Stress
+GO Term: Regulation Of Skeletal Muscle Contraction By Modulation Of Calcium Ion Sensitivity Of Myofibril -> Biodomain: Synapse, Proteostasis, Metal Binding and Homeostasis, Structural Stabilization, Autophagy
+GO Term: Regulation Of The Force Of Skeletal Muscle Contraction -> Biodomain: Structural Stabilization, Synapse, Proteostasis, Autophagy, Endolysosome
+GO Term: Spectrin-Associated Cytoskeleton -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Endolysosome, Lipid Metabolism
+GO Term: Skeletal Muscle Atrophy -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Autophagy, Apoptosis
+GO Term: Regulation Of Skeletal Muscle Adaptation -> Biodomain: Structural Stabilization, Synapse, Proteostasis, Oxidative Stress, Autophagy
+GO Term: Skeletal Muscle Hypertrophy -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Autophagy, Cell Cycle
+GO Term: Negative Regulation Of Muscle Atrophy -> Biodomain: Synapse, Proteostasis, Apoptosis, Autophagy, Structural Stabilization
+GO Term: Positive Regulation Of Muscle Atrophy -> Biodomain: Synapse, Proteostasis, Apoptosis, Autophagy, Oxidative Stress
+GO Term: Positive Regulation Of Muscle Hyperplasia -> Biodomain: Structural Stabilization, Proteostasis, Autophagy, Cell Cycle, Synapse
+GO Term: Negative Regulation Of Muscle Hyperplasia -> Biodomain: Synapse, Proteostasis, Autophagy, Apoptosis, Structural Stabilization
+GO Term: Negative Regulation Of Muscle Hypertrophy -> Biodomain: Proteostasis, Cell Cycle, RNA Spliceosome, Epigenetic, Mitochondrial Metabolism
+GO Term: Longitudinal Sarcoplasmic Reticulum -> Biodomain: Metal Binding and Homeostasis, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Terminal Cisterna -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Mitochondrial Metabolism
+GO Term: Terminal Cisterna Lumen -> Biodomain: Metal Binding and Homeostasis, Proteostasis, Structural Stabilization, Synapse, Autophagy
+GO Term: Smooth Muscle Adaptation -> Biodomain: Structural Stabilization, Proteostasis, Mitochondrial Metabolism, Autophagy, Vasculature
+GO Term: Smooth Muscle Hyperplasia -> Biodomain: Synapse, Cell Cycle, Structural Stabilization, Proteostasis, Vasculature
+GO Term: Regulation Of Somitogenesis -> Biodomain: Epigenetic, Structural Stabilization, Cell Cycle, Autophagy, Proteostasis
+GO Term: Release Of Sequestered Calcium Ion Into Cytosol By Sarcoplasmic Reticulum -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Metal Binding and Homeostasis, Endolysosome
+GO Term: Regulation Of Skeletal Muscle Contraction By Regulation Of Release Of Sequestered Calcium Ion -> Biodomain: Metal Binding and Homeostasis, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Positive Regulation Of Skeletal Muscle Contraction By Regulation Of Release Of Sequestered Calcium Ion -> Biodomain: ERROR: Error code: 400 - {'error': {'message': "The length of your prompt exceeds the model's max input limit 65536. Please reduce the length of your prompt and try again.", 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+GO Term: Muscle Cell Migration -> Biodomain: Structural Stabilization, Cell Cycle, Proteostasis, Autophagy, Endolysosome
+GO Term: Skeletal Muscle Satellite Cell Commitment -> Biodomain: Cell Cycle, Proteostasis, Epigenetic, Structural Stabilization, Synapse
+GO Term: Skeletal Muscle Satellite Cell Differentiation -> Biodomain: Synapse, Structural Stabilization, Cell Cycle, Proteostasis, Autophagy
+GO Term: Regulation Of Skeletal Muscle Contraction -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Oxidative Stress
+GO Term: Tonic Smooth Muscle Contraction -> Biodomain: Vasculature, Structural Stabilization, Proteostasis, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: Detection Of Wounding -> Biodomain: Immune Response, Oxidative Stress, Apoptosis, Autophagy, Proteostasis
+GO Term: Response To Activity -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Mitochondrial Metabolism, Autophagy
+GO Term: Artery Smooth Muscle Contraction -> Biodomain: Vasculature, Structural Stabilization, Proteostasis, Oxidative Stress, Lipid Metabolism
+GO Term: Vein Smooth Muscle Contraction -> Biodomain: Vasculature, Structural Stabilization, Proteostasis, Lipid Metabolism, Oxidative Stress
+GO Term: Intestine Smooth Muscle Contraction -> Biodomain: Structural Stabilization, Proteostasis, Autophagy, Cell Cycle, Endolysosome
+GO Term: Vascular Associated Smooth Muscle Contraction -> Biodomain: Vasculature, Proteostasis, Structural Stabilization, Oxidative Stress, Mitochondrial Metabolism
+GO Term: Urinary Bladder Smooth Muscle Contraction -> Biodomain: Synapse, Proteostasis, Autophagy, Oxidative Stress, Structural Stabilization
+GO Term: Skeletal Muscle Satellite Cell Maintenance Involved In Skeletal Muscle Regeneration -> Biodomain: Synapse, Structural Stabilization, Cell Cycle, Autophagy, Epigenetic
+GO Term: Myoblast Differentiation Involved In Skeletal Muscle Regeneration -> Biodomain: Proteostasis, Cell Cycle, Structural Stabilization, Autophagy, Synapse
+GO Term: Myoblast Migration Involved In Skeletal Muscle Regeneration -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Cell Cycle, Autophagy
+GO Term: Skeletal Muscle Satellite Cell Proliferation -> Biodomain: Cell Cycle, Structural Stabilization, Proteostasis, Autophagy, Endolysosome
+GO Term: Regulation Of Skeletal Muscle Satellite Cell Proliferation -> Biodomain: Synapse, Cell Cycle, Proteostasis, Autophagy, Structural Stabilization
+GO Term: Growth Factor Dependent Regulation Of Skeletal Muscle Satellite Cell Proliferation -> Biodomain: Cell Cycle, Proteostasis, Synapse, Epigenetic, Autophagy
+GO Term: Esophagus Smooth Muscle Contraction -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Autophagy, Structural Stabilization
+GO Term: Response To Muscle Activity -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Mitochondrial Metabolism, Structural Stabilization
+GO Term: Regulation Of Excitatory Postsynaptic Membrane Potential Involved In Skeletal Muscle Contraction -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Cell Cycle, Autophagy
+GO Term: Response To Inactivity -> Biodomain: Synapse, Autophagy, Proteostasis, Epigenetic, Mitochondrial Metabolism
+GO Term: Skeletal Muscle Cell Proliferation -> Biodomain: Synapse, Proteostasis, Cell Cycle, Structural Stabilization, Autophagy
+GO Term: Regulation Of Skeletal Muscle Cell Proliferation -> Biodomain: Synapse, Structural Stabilization, Cell Cycle, Proteostasis, Autophagy
+GO Term: Positive Regulation Of Skeletal Muscle Cell Proliferation -> Biodomain: Synapse, Proteostasis, Cell Cycle, Structural Stabilization, Autophagy
+GO Term: Negative Regulation Of Skeletal Muscle Cell Proliferation -> Biodomain: Synapse, Proteostasis, Cell Cycle, Apoptosis, Autophagy
+GO Term: Regulation Of Skeletal Muscle Contraction Via Regulation Of Action Potential -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Endolysosome
+GO Term: Skeletal Myofibril Assembly -> Biodomain: Structural Stabilization, Proteostasis, Cell Cycle, Cell Differentiation, Synapse
+GO Term: Response To Muscle Inactivity -> Biodomain: Synapse, Proteostasis, Autophagy, Apoptosis, Oxidative Stress
+GO Term: Response To Muscle Activity Involved In Regulation Of Muscle Adaptation -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Autophagy, Lipid Metabolism
+GO Term: Response To Injury Involved In Regulation Of Muscle Adaptation -> Biodomain: Proteostasis, Autophagy, Oxidative Stress, Mitochondrial Metabolism, Apoptosis
+GO Term: Response To Electrical Stimulus Involved In Regulation Of Muscle Adaptation -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Cell Cycle
+GO Term: Transition Between Fast And Slow Fiber -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Structural Stabilization
+GO Term: Transition Between Slow And Fast Fiber -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Muscle Atrophy -> Biodomain: Proteostasis, Autophagy, Apoptosis, Structural Stabilization, Synapse
+GO Term: Striated Muscle Atrophy -> Biodomain: Proteostasis, Autophagy, Structural Stabilization, Apoptosis, Synapse
+GO Term: Response To Denervation Involved In Regulation Of Muscle Adaptation -> Biodomain: Synapse, Proteostasis, Autophagy, Structural Stabilization, Cell Cycle
+GO Term: Smooth Muscle Hypertrophy -> Biodomain: Structural Stabilization, Vasculature, Mitochondrial Metabolism, Lipid Metabolism, Proteostasis
+GO Term: Muscle Hypertrophy -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Apoptosis
+GO Term: Cardiac Muscle Hypertrophy In Response To Stress -> Biodomain: Oxidative Stress, Proteostasis, Structural Stabilization, Metal Binding and Homeostasis, Autophagy
+GO Term: Satellite Cell Activation Involved In Skeletal Muscle Regeneration -> Biodomain: Cell Cycle, Structural Stabilization, Proteostasis, Autophagy, Apoptosis
+GO Term: Myotube Differentiation -> Biodomain: Structural Stabilization, Cell Cycle, Autophagy, Proteostasis, Mitochondrial Metabolism
+GO Term: Myotube Cell Development -> Biodomain: Cell Cycle, Proteostasis, Structural Stabilization, Autophagy, Synapse
+GO Term: Myoblast Fusion Involved In Skeletal Muscle Regeneration -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Cell Cycle, Autophagy
+GO Term: Myotube Cell Development Involved In Skeletal Muscle Regeneration -> Biodomain: Structural Stabilization, Cell Cycle, Proteostasis, Autophagy, Synapse
+GO Term: Myotube Differentiation Involved In Skeletal Muscle Regeneration -> Biodomain: Cell Cycle, Structural Stabilization, Proteostasis, Autophagy, Synapse
+GO Term: Smooth Muscle Cell Migration -> Biodomain: Vasculature, Structural Stabilization, Cell Cycle, Proteostasis, Synapse
+GO Term: Regulation Of Smooth Muscle Cell Migration -> Biodomain: Synapse, Vasculature, Structural Stabilization, Proteostasis, Cell Cycle
+GO Term: Positive Regulation Of Smooth Muscle Cell Migration -> Biodomain: Vasculature, Structural Stabilization, Proteostasis, Autophagy, Apoptosis
+GO Term: Negative Regulation Of Smooth Muscle Cell Migration -> Biodomain: Synapse, Structural Stabilization, Vasculature, Proteostasis, Cell Cycle
+GO Term: Regulation Of Lung Blood Pressure -> Biodomain: Vasculature, Structural Stabilization, Proteostasis, Oxidative Stress, Immune Response
+GO Term: Heparan Sulfate Proteoglycan Biosynthetic Process -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Structural Stabilization, Endolysosome
+GO Term: Heparan Sulfate N-Sulfotransferase Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Structural Stabilization
+GO Term: Galactosylgalactosylxylosylprotein 3-Beta-Glucuronosyltransferase Activity -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Lipid Metabolism, Cell Cycle
+GO Term: Heparan-Alpha-Glucosaminide N-Acetyltransferase Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Epigenetic
+GO Term: Glucuronosyltransferase Activity -> Biodomain: Lipid Metabolism, Oxidative Stress, Proteostasis, Autophagy, Synapse
+GO Term: Glucuronate-2-Sulfatase Activity -> Biodomain: Synapse, Endolysosome, Proteostasis, Structural Stabilization, Lipid Metabolism
+GO Term: Coreceptor Activity -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Epigenetic, Cell Cycle
+GO Term: Cajal Body -> Biodomain: RNA Spliceosome, Synapse, Epigenetic, Proteostasis, Structural Stabilization
+GO Term: Protein Transport -> Biodomain: Synapse, Endolysosome, Autophagy, Proteostasis, Structural Stabilization
+GO Term: Protein-Disulfide Reductase Activity -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Autophagy, Endolysosome
+GO Term: Disulfide Oxidoreductase Activity -> Biodomain: Proteostasis, Oxidative Stress, Synapse, Autophagy, Mitochondrial Metabolism
+GO Term: Glutathione Disulfide Oxidoreductase Activity -> Biodomain: Oxidative Stress, Proteostasis, Synapse, Mitochondrial Metabolism, Autophagy
+GO Term: Beta3-Adrenergic Receptor Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Epigenetic, Oxidative Stress
+GO Term: Gastrin Receptor Activity -> Biodomain: Synapse, Proteostasis, Epigenetic, Endolysosome, Structural Stabilization
+GO Term: Secretin Receptor Activity -> Biodomain: Synapse, Signaling Receptor, Neurodevelopment, Peptide Hormone, Neuroscience
+GO Term: Corticotrophin-Releasing Factor Receptor Activity -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Epigenetic, Immune Response
+GO Term: Thrombin-Activated Receptor Activity -> Biodomain: Synapse, Vasculature, Immune Response, Proteostasis, Apoptosis
+GO Term: Amidinotransferase Activity -> Biodomain: Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Autophagy, Cell Cycle
+GO Term: Glycine Amidinotransferase Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Apoptosis
+GO Term: Dna Integration -> Biodomain: DNA Repair, Epigenetic, Cell Cycle, Proteostasis, Autophagy
+GO Term: Monoatomic Ion Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Metal Binding and Homeostasis, Endolysosome
+GO Term: Proton Transmembrane Transporter Activity -> Biodomain: Endolysosome, Proteostasis, Autophagy, Synapse, Oxidative Stress
+GO Term: Potassium Ion Transmembrane Transporter Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Proteostasis, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Silver Ion Transmembrane Transporter Activity -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Proteostasis, Endolysosome, Synapse
+GO Term: Sodium Ion Transmembrane Transporter Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Oxidative Stress, Proteostasis, Endolysosome
+GO Term: Calcium Ion Transmembrane Transporter Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Proteostasis, Structural Stabilization, Oxidative Stress
+GO Term: Cadmium Ion Transmembrane Transporter Activity -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Proteostasis, Autophagy, Endolysosome
+GO Term: Cobalt Ion Transmembrane Transporter Activity -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Mitochondrial Metabolism, Synapse, Proteostasis
+GO Term: Ferrous Iron Transmembrane Transporter Activity -> Biodomain: Metal Binding and Homeostasis, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse
+GO Term: Lead Ion Transmembrane Transporter Activity -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Proteostasis, Synapse, Autophagy
+GO Term: Magnesium Ion Transmembrane Transporter Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Mitochondrial Metabolism, Proteostasis, Oxidative Stress
+GO Term: Molybdate Ion Transmembrane Transporter Activity -> Biodomain: Metal Binding and Homeostasis, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Structural Stabilization
+GO Term: Nickel Cation Transmembrane Transporter Activity -> Biodomain: Metal Binding and Homeostasis, Proteostasis, Oxidative Stress, Mitochondrial Metabolism, Synapse
+GO Term: Vanadium Ion Transmembrane Transporter Activity -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Proteostasis, Synapse, Mitochondrial Metabolism
+GO Term: Organic Cation Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Metal Binding and Homeostasis, Lipid Metabolism
+GO Term: Bicarbonate Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Oxidative Stress, Mitochondrial Metabolism
+GO Term: Chloride Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Epigenetic, Oxidative Stress, Autophagy
+GO Term: Iodide Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Endolysosome, Metal Binding and Homeostasis
+GO Term: Nitrate Transmembrane Transporter Activity -> Biodomain: Synapse, Oxidative Stress, Mitochondrial Metabolism, Proteostasis, Metal Binding and Homeostasis
+GO Term: Sulfate Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Structural Stabilization
+GO Term: Thiosulfate Transmembrane Transporter Activity -> Biodomain: Oxidative Stress, Mitochondrial Metabolism, Proteostasis, Endolysosome, Autophagy
+GO Term: Bile Acid Transmembrane Transporter Activity -> Biodomain: Lipid Metabolism, Proteostasis, Endolysosome, Oxidative Stress, Mitochondrial Metabolism
+GO Term: Canalicular Bile Acid Transmembrane Transporter Activity -> Biodomain: Lipid Metabolism, Proteostasis, Endolysosome, Oxidative Stress, Mitochondrial Metabolism
+GO Term: Bilirubin Transmembrane Transporter Activity -> Biodomain: Proteostasis, Oxidative Stress, Synapse, Endolysosome, Lipid Metabolism
+GO Term: Lactate Transmembrane Transporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Mevalonate Transmembrane Transporter Activity -> Biodomain: Lipid Metabolism, Structural Stabilization, Proteostasis, Autophagy, Endolysosome
+GO Term: Oxaloacetate Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Prostaglandin Transmembrane Transporter Activity -> Biodomain: Lipid Metabolism, Immune Response, Synapse, Proteostasis, Endolysosome
+GO Term: Sialic Acid Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Structural Stabilization
+GO Term: Citrate Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Fumarate Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Alpha-Ketoglutarate Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Malate Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Proteostasis, Synapse
+GO Term: Succinate Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Tricarboxylic Acid Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Synapse
+GO Term: Urate Transmembrane Transporter Activity -> Biodomain: Oxidative Stress, Proteostasis, Synapse, Mitochondrial Metabolism, Endolysosome
+GO Term: Carbohydrate Transmembrane Transporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Pentose Transmembrane Transporter Activity -> Biodomain: Oxidative Stress, Mitochondrial Metabolism, Lipid Metabolism, Synapse, Proteostasis
+GO Term: Hexose Transmembrane Transporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Fucose Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Cell Cycle
+GO Term: Alpha-Glucoside Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Synapse, Endolysosome, Autophagy, Oxidative Stress
+GO Term: Glucose-6-Phosphate Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Synapse, Lipid Metabolism, Proteostasis
+GO Term: Glucuronoside Transmembrane Transporter Activity -> Biodomain: Endolysosome, Proteostasis, Autophagy, Lipid Metabolism, Synapse
+GO Term: Pyrimidine Nucleotide-Sugar Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Structural Stabilization
+GO Term: Polyol Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Metal Binding and Homeostasis
+GO Term: Glycerol Transmembrane Transporter Activity -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Synapse, Autophagy, Proteostasis
+GO Term: Amino Acid Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Structural Stabilization, Metal Binding and Homeostasis
+GO Term: Acidic Amino Acid Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Oxidative Stress
+GO Term: Aromatic Amino Acid Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Oxidative Stress
+GO Term: Basic Amino Acid Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Mitochondrial Metabolism
+GO Term: Neutral L-Amino Acid Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Oxidative Stress, Endolysosome
+GO Term: L-Amino Acid Transmembrane Transporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Oxidative Stress
+GO Term: L-Alanine Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Autophagy, Lipid Metabolism
+GO Term: L-Asparagine Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Autophagy, Mitochondrial Metabolism, Lipid Metabolism
+GO Term: L-Aspartate Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Mitochondrial Metabolism
+GO Term: L-Cystine Transmembrane Transporter Activity -> Biodomain: Oxidative Stress, Synapse, Proteostasis, Endolysosome, Metal Binding and Homeostasis
+GO Term: Gamma-Aminobutyric Acid Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Oxidative Stress, Mitochondrial Metabolism
+GO Term: L-Glutamine Transmembrane Transporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Lipid Metabolism
+GO Term: Glycine Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Autophagy
+GO Term: L-Isoleucine Transmembrane Transporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: L-Lysine Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Autophagy
+GO Term: L-Leucine Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress
+GO Term: L-Methionine Transmembrane Transporter Activity -> Biodomain: Synapse, Epigenetic, Proteostasis, Oxidative Stress, Lipid Metabolism
+GO Term: L-Phenylalanine Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Structural Stabilization
+GO Term: L-Proline Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Oxidative Stress
+GO Term: L-Serine Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Oxidative Stress
+GO Term: L-Threonine Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Metal Binding and Homeostasis
+GO Term: L-Tryptophan Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Immune Response
+GO Term: Amino-Acid Betaine Transmembrane Transporter Activity -> Biodomain: Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism, Endolysosome
+GO Term: Methylammonium Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Metal Binding and Homeostasis
+GO Term: Polyamine Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Metal Binding and Homeostasis, Endolysosome, Lipid Metabolism
+GO Term: Urea Transmembrane Transporter Activity -> Biodomain: Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Synapse, Endolysosome
+GO Term: Nucleobase Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Epigenetic, Lipid Metabolism
+GO Term: Adenine Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Lipid Metabolism, Synapse
+GO Term: Guanine Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Epigenetic
+GO Term: Uracil Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Purine Nucleoside Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Endolysosome
+GO Term: Cytidine Transmembrane Transporter Activity -> Biodomain: Synapse, Lipid Metabolism, Proteostasis, Endolysosome, RNA Spliceosome
+GO Term: Uridine Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Endolysosome, Lipid Metabolism
+GO Term: Pyrimidine Nucleoside Transmembrane Transporter Activity -> Biodomain: Synapse, RNA Spliceosome, Proteostasis, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: Nucleotide Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress
+GO Term: Purine Nucleotide Transmembrane Transporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, RNA Spliceosome
+GO Term: Adp Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Synapse, Oxidative Stress, Proteostasis, Endolysosome
+GO Term: Pyrimidine Nucleotide Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Cell Cycle, DNA Repair
+GO Term: Choline Transmembrane Transporter Activity -> Biodomain: Synapse, Lipid Metabolism, Proteostasis, Autophagy, Endolysosome
+GO Term: Biotin Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Carnitine Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Oxidative Stress, Synapse
+GO Term: O-Acyl-L-Carnitine Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Synapse, Oxidative Stress
+GO Term: Coenzyme A Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Synapse, Oxidative Stress
+GO Term: L-Ascorbic Acid Transmembrane Transporter Activity -> Biodomain: Oxidative Stress, Mitochondrial Metabolism, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Fad Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Heme Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Metal Binding and Homeostasis, Oxidative Stress, Proteostasis, Synapse
+GO Term: Pantothenate Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Synapse, Endolysosome
+GO Term: Thiamine Transmembrane Transporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Fatty Acid Transmembrane Transporter Activity -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Mitochondrial Metabolism
+GO Term: Aminophospholipid Flippase Activity -> Biodomain: Synapse, Lipid Metabolism, Endolysosome, Proteostasis, Autophagy
+GO Term: Water Channel Activity -> Biodomain: Synapse, Oxidative Stress, Proteostasis, Autophagy, Endolysosome
+GO Term: Proton Channel Activity -> Biodomain: Synapse, Oxidative Stress, Endolysosome, Mitochondrial Metabolism, Metal Binding and Homeostasis
+GO Term: Glycerol Channel Activity -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Synapse, Oxidative Stress
+GO Term: Methylammonium Channel Activity -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Oxidative Stress, Metal Binding and Homeostasis
+GO Term: Urea Channel Activity -> Biodomain: Synapse, Oxidative Stress, Proteostasis, Structural Stabilization, Lipid Metabolism
+GO Term: Channel Activity -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Mitochondrial Metabolism, Endolysosome
+GO Term: Calcium-Activated Potassium Channel Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Proteostasis, Structural Stabilization, Oxidative Stress
+GO Term: Outward Rectifier Potassium Channel Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Proteostasis, Structural Stabilization, Lipid Metabolism
+GO Term: Atp-Activated Inward Rectifier Potassium Channel Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Metal Binding and Homeostasis
+GO Term: Stretch-Activated, Monoatomic Cation-Selective, Calcium Channel Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Structural Stabilization, Proteostasis, Endolysosome
+GO Term: Ligand-Gated Monoatomic Ion Channel Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Proteostasis, Oxidative Stress, Structural Stabilization
+GO Term: Kainate Selective Glutamate Receptor Activity -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Metal Binding and Homeostasis, Oxidative Stress
+GO Term: Intracellularly Gated Calcium Channel Activity -> Biodomain: Synapse, Oxidative Stress, Proteostasis, Structural Stabilization, Apoptosis
+GO Term: Store-Operated Calcium Channel Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Proteostasis, Oxidative Stress, Structural Stabilization
+GO Term: Ligand-Gated Sodium Channel Activity -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Metal Binding and Homeostasis, Endolysosome
+GO Term: Porin Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Apoptosis, Synapse
+GO Term: Secondary Active Transmembrane Transporter Activity -> Biodomain: Synapse, Endolysosome, Proteostasis, Metal Binding and Homeostasis, Lipid Metabolism
+GO Term: Uniporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Metal Binding and Homeostasis
+GO Term: Symporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Metal Binding and Homeostasis, Lipid Metabolism
+GO Term: Solute:Proton Symporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Lipid Metabolism
+GO Term: Monoatomic Anion:Monoatomic Cation Symporter Activity -> Biodomain: Synapse, Proteostasis, Apoptosis, Mitochondrial Metabolism, Metal Binding and Homeostasis
+GO Term: Antiporter Activity -> Biodomain: Synapse, Oxidative Stress, Mitochondrial Metabolism, Proteostasis, Metal Binding and Homeostasis
+GO Term: D-Glucose Uniporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Monoamine:Proton Antiporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Oxidative Stress
+GO Term: Polyamine:Proton Antiporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Metal Binding and Homeostasis, Endolysosome
+GO Term: Phosphate:Proton Symporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Endolysosome
+GO Term: Cystine:Glutamate Antiporter Activity -> Biodomain: Synapse, Oxidative Stress, Proteostasis, Endolysosome, Autophagy
+GO Term: Peptide:Proton Symporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Lipid Metabolism
+GO Term: Sodium-Independent Organic Anion Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Autophagy
+GO Term: Thyroid Hormone Transmembrane Transporter Activity -> Biodomain: Synapse, Myelination, Proteostasis, Endolysosome, Lipid Metabolism
+GO Term: Methotrexate Transmembrane Transporter Activity -> Biodomain: Proteostasis, Synapse, Epigenetic, APP Metabolism, Endolysosome
+GO Term: Secondary Active Monocarboxylate Transmembrane Transporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Low-Affinity Sodium:Dicarboxylate Symporter Activity -> Biodomain: Mitochondrial Metabolism, Synapse, Lipid Metabolism, Metal Binding and Homeostasis, Proteostasis
+GO Term: High-Affinity Sodium:Dicarboxylate Symporter Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Metal Binding and Homeostasis
+GO Term: Oxoglutarate:Malate Antiporter Activity -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Lipid Metabolism, Synapse
+GO Term: Calcium:Monoatomic Cation Antiporter Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Oxidative Stress, Proteostasis, Mitochondrial Metabolism
+GO Term: Calcium:Proton Antiporter Activity -> Biodomain: Mitochondrial Metabolism, Synapse, Metal Binding and Homeostasis, Endolysosome, Proteostasis
+GO Term: Solute:Sodium Symporter Activity -> Biodomain: Synapse, Structural Stabilization, Metal Binding and Homeostasis, Oxidative Stress, Proteostasis
+GO Term: Galactose:Sodium Symporter Activity -> Biodomain: Mitochondrial Metabolism, Metal Binding and Homeostasis, Lipid Metabolism, Endolysosome, Proteostasis
+GO Term: Monoatomic Anion:Sodium Symporter Activity -> Biodomain: Synapse, Proteostasis, Metal Binding and Homeostasis, Endolysosome, Oxidative Stress
+GO Term: Neutral, Basic Amino Acid:Sodium:Chloride Symporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Metal Binding and Homeostasis, Endolysosome
+GO Term: Glycine:Sodium Symporter Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Proteostasis, Lipid Metabolism, Structural Stabilization
+GO Term: Chloride:Monoatomic Cation Symporter Activity -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Metal Binding and Homeostasis, Endolysosome
+GO Term: Sodium:Chloride Symporter Activity -> Biodomain: Synapse, Structural Stabilization, Metal Binding and Homeostasis, Proteostasis, Autophagy
+GO Term: Potassium:Chloride Symporter Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Structural Stabilization, Proteostasis, Oxidative Stress
+GO Term: Sodium:Sulfate Symporter Activity -> Biodomain: Synapse, Proteostasis, Metal Binding and Homeostasis, Structural Stabilization, Endolysosome
+GO Term: Sulfate:Bicarbonate Antiporter Activity -> Biodomain: Synapse, Endolysosome, Oxidative Stress, Mitochondrial Metabolism, Proteostasis
+GO Term: Sodium:Proton Antiporter Activity -> Biodomain: Synapse, Endolysosome, Proteostasis, Metal Binding and Homeostasis, Mitochondrial Metabolism
+GO Term: Potassium:Proton Antiporter Activity -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Metal Binding and Homeostasis
+GO Term: Pyrimidine- And Adenosine-Specific:Sodium Symporter Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Proteostasis, Structural Stabilization, Lipid Metabolism
+GO Term: Purine-Specific Nucleoside:Sodium Symporter Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Proteostasis, Lipid Metabolism, Epigenetic
+GO Term: Abc-Type Manganese Transporter Activity -> Biodomain: Metal Binding and Homeostasis, Proteostasis, Synapse, Oxidative Stress, Autophagy
+GO Term: Abc-Type Taurine Transporter Transporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Structural Stabilization
+GO Term: Abc-Type Polyamine Transporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Abc-Type Vitamin B12 Transporter Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Endolysosome, Synapse
+GO Term: Abc-Type Oligopeptide Transporter Activity -> Biodomain: Endolysosome, Autophagy, Proteostasis, Synapse, Immune Response
+GO Term: Abc-Type Glutathione S-Conjugate Transporter Activity -> Biodomain: Oxidative Stress, Proteostasis, Synapse, Endolysosome, Metal Binding and Homeostasis
+GO Term: Abc-Type Bile Acid Transporter Activity -> Biodomain: Lipid Metabolism, Proteostasis, Endolysosome, Mitochondrial Metabolism, Synapse
+GO Term: Abc-Type Peptide Antigen Transporter Activity -> Biodomain: Immune Response, Proteostasis, Endolysosome, Synapse, Autophagy
+GO Term: Abc-Type Heme Transporter Activity -> Biodomain: Mitochondrial Metabolism, Synapse, Oxidative Stress, Proteostasis, Metal Binding and Homeostasis
+GO Term: Abc-Type Peptide Transporter Activity -> Biodomain: Synapse, Proteostasis, Autophagy, Endolysosome, Mitochondrial Metabolism
+GO Term: P-Type Magnesium Transporter Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Mitochondrial Metabolism, Proteostasis, Oxidative Stress
+GO Term: Protein-Transporting Atpase Activity -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Mitochondrial Metabolism
+GO Term: Potassium Channel Regulator Activity -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Oxidative Stress, Mitochondrial Metabolism
+GO Term: Acetylcholine Receptor Activity -> Biodomain: Synapse, Signal Transduction, Cognitive, Neurotransmission, Epigenetic
+GO Term: G-Protein Activated Inward Rectifier Potassium Channel Activity -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Metal Binding and Homeostasis, Epigenetic
+GO Term: Cholesterol Binding -> Biodomain: Synapse, Lipid Metabolism, Proteostasis, Endolysosome, Autophagy
+GO Term: Putrescine Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Epigenetic, Autophagy, Lipid Metabolism
+GO Term: Gamma-Aminobutyric Acid:Proton Symporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Endolysosome, Proteostasis
+GO Term: Pantothenate:Sodium Symporter Activity -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Synapse, Oxidative Stress
+GO Term: Formate Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Synapse
+GO Term: Glutamate:Sodium Symporter Activity -> Biodomain: Synapse, Oxidative Stress, Proteostasis, Autophagy, Metal Binding and Homeostasis
+GO Term: Galactose:Proton Symporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Endolysosome, Lipid Metabolism
+GO Term: Sialic Acid:Proton Symporter Activity -> Biodomain: Endolysosome, Proteostasis, Autophagy, Lipid Metabolism, Synapse
+GO Term: Propionate Transmembrane Transporter Activity -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Synapse, Oxidative Stress
+GO Term: Efflux Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Metal Binding and Homeostasis, Autophagy
+GO Term: Abc-Type Putrescine Transporter Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Synapse, Proteostasis
+GO Term: Organophosphate Ester Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress
+GO Term: Spermidine Transmembrane Transporter Activity -> Biodomain: Synapse, Autophagy, Proteostasis, Epigenetic, Metal Binding and Homeostasis
+GO Term: Abc-Type Fatty-Acyl-Coa Transporter Activity -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Autophagy, Oxidative Stress, Proteostasis
+GO Term: Dna Translocase Activity -> Biodomain: DNA Repair, Epigenetic, Cell Cycle, Proteostasis, Structural Stabilization
+GO Term: Actin Cytoskeleton -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Endolysosome, Autophagy
+GO Term: Microtubule Cytoskeleton -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Cell Cycle
+GO Term: Tubulin Binding -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Cell Cycle
+GO Term: Short-Chain Fatty Acid Transmembrane Transporter Activity -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Toxic Substance Binding -> Biodomain: Oxidative Stress, Proteostasis, Metal Binding and Homeostasis, Synapse, Lipid Metabolism
+GO Term: Fatty Acid Ligase Activity -> Biodomain: Lipid Metabolism, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Synapse
+GO Term: Peptidoglycan Transmembrane Transporter Activity -> Biodomain: Immune Response, Endolysosome, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Lactate:Proton Symporter Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Quaternary Ammonium Group Transmembrane Transporter Activity -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Lipid Metabolism, Endolysosome
+GO Term: Alanine:Sodium Symporter Activity -> Biodomain: Synapse, Proteostasis, Metal Binding and Homeostasis, Mitochondrial Metabolism, Structural Stabilization
+GO Term: Branched-Chain Amino Acid:Sodium Symporter Activity -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Metal Binding and Homeostasis
+GO Term: Branched-Chain Amino Acid Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Proteostasis, Synapse, Lipid Metabolism, Autophagy
+GO Term: P-Type Ion Transporter Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Mitochondrial Metabolism, Proteostasis, Oxidative Stress
+GO Term: Carbon Dioxide Transport -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Autophagy
+GO Term: Oxygen Transport -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Structural Stabilization
+GO Term: Nickel Cation Transport -> Biodomain: Metal Binding and Homeostasis, Proteostasis, Oxidative Stress, Mitochondrial Metabolism, Synapse
+GO Term: Vanadium Ion Transport -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Proteostasis, Synapse, Mitochondrial Metabolism
+GO Term: Copper Ion Import -> Biodomain: Metal Binding and Homeostasis, Synapse, Oxidative Stress, Mitochondrial Metabolism, Proteostasis
+GO Term: Plasma Membrane Copper Ion Transport -> Biodomain: Metal Binding and Homeostasis, Synapse, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Molybdate Ion Transport -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Metal Binding and Homeostasis, Proteostasis, Lipid Metabolism
+GO Term: Lead Ion Transport -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Proteostasis, Endolysosome, Synapse
+GO Term: Magnesium Ion Transport -> Biodomain: Metal Binding and Homeostasis, Synapse, Proteostasis, Oxidative Stress, Mitochondrial Metabolism
+GO Term: Mercury Ion Transport -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Proteostasis, Synapse, Endolysosome
+GO Term: Organic Cation Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Oxidative Stress
+GO Term: Quaternary Ammonium Group Transport -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Autophagy
+GO Term: Inorganic Anion Transport -> Biodomain: Synapse, Proteostasis, Metal Binding and Homeostasis, Oxidative Stress, Endolysosome
+GO Term: Bicarbonate Transport -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Endolysosome, Metal Binding and Homeostasis
+GO Term: Iodide Transport -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Metal Binding and Homeostasis
+GO Term: Nitrate Transmembrane Transport -> Biodomain: Oxidative Stress, Synapse, Proteostasis, Mitochondrial Metabolism, Immune Response
+GO Term: Nitrite Transport -> Biodomain: Synapse, Oxidative Stress, Proteostasis, Metal Binding and Homeostasis, Autophagy
+GO Term: Thiosulfate Transport -> Biodomain: Oxidative Stress, Metal Binding and Homeostasis, Proteostasis, Mitochondrial Metabolism, Synapse
+GO Term: Organic Anion Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Autophagy
+GO Term: Monocarboxylic Acid Transport -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Bile Acid And Bile Salt Transport -> Biodomain: Lipid Metabolism, Proteostasis, Oxidative Stress, Mitochondrial Metabolism, Apoptosis
+GO Term: Canalicular Bile Acid Transport -> Biodomain: Lipid Metabolism, Endolysosome, Proteostasis, Autophagy, Oxidative Stress
+GO Term: Bilirubin Transport -> Biodomain: Oxidative Stress, Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Endolysosome
+GO Term: Formate Transport -> Biodomain: Epigenetic, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism
+GO Term: Lactate Transport -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Oxidative Stress
+GO Term: Mevalonate Transport -> Biodomain: Lipid Metabolism, Synapse, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Oxaloacetate Transport -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy, Lipid Metabolism
+GO Term: Propanoate Transmembrane Transport -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Autophagy, Synapse
+GO Term: Prostaglandin Transport -> Biodomain: Lipid Metabolism, Immune Response, Endolysosome, Proteostasis, Synapse
+GO Term: Taurine Transmembrane Transport -> Biodomain: Synapse, Structural Stabilization, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Sialic Acid Transport -> Biodomain: Synapse, Endolysosome, Lipid Metabolism, Proteostasis, Autophagy
+GO Term: C4-Dicarboxylate Transport -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Autophagy, Proteostasis
+GO Term: Fumarate Transport -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Alpha-Ketoglutarate Transport -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Autophagy
+GO Term: Succinate Transport -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Synapse, Proteostasis, Autophagy
+GO Term: Citrate Transport -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Synapse
+GO Term: Urate Transport -> Biodomain: Oxidative Stress, Endolysosome, Lipid Metabolism, Proteostasis, Metal Binding and Homeostasis
+GO Term: Organophosphate Ester Transport -> Biodomain: Synapse, Lipid Metabolism, Proteostasis, Endolysosome, Mitochondrial Metabolism
+GO Term: Pentose Transmembrane Transport -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Metal Binding and Homeostasis
+GO Term: Fructose Transmembrane Transport -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Endolysosome
+GO Term: Fucose Transmembrane Transport -> Biodomain: Lipid Metabolism, Endolysosome, Proteostasis, Synapse, Autophagy
+GO Term: Galactose Transmembrane Transport -> Biodomain: Synapse, Lipid Metabolism, Mitochondrial Metabolism, Endolysosome, Proteostasis
+GO Term: Glucose-6-Phosphate Transport -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy, Lipid Metabolism
+GO Term: Mannose Transmembrane Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Lipid Metabolism
+GO Term: Sucrose Transport -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Mitochondrial Metabolism, Endolysosome
+GO Term: Polysaccharide Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Lipid Metabolism
+GO Term: Glucuronoside Transport -> Biodomain: Endolysosome, Proteostasis, Lipid Metabolism, Oxidative Stress, Autophagy
+GO Term: Nucleotide-Sugar Transmembrane Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Autophagy
+GO Term: Cmp-N-Acetylneuraminate Transmembrane Transport -> Biodomain: Synapse, Lipid Metabolism, Proteostasis, Endolysosome, Structural Stabilization
+GO Term: Udp-Glucose Transmembrane Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: Udp-Glucuronate Transmembrane Transport -> Biodomain: Lipid Metabolism, Endolysosome, Proteostasis, Autophagy, Mitochondrial Metabolism
+GO Term: Udp-N-Acetylgalactosamine Transmembrane Transport -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Autophagy
+GO Term: Udp-Xylose Transmembrane Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Structural Stabilization
+GO Term: Polyol Transmembrane Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Autophagy
+GO Term: Glycerol Transmembrane Transport -> Biodomain: Lipid Metabolism, Proteostasis, Mitochondrial Metabolism, Synapse, Autophagy
+GO Term: Mannitol Transmembrane Transport -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Synapse
+GO Term: Myo-Inositol Transport -> Biodomain: Synapse, Lipid Metabolism, Proteostasis, Endolysosome, Oxidative Stress
+GO Term: Acidic Amino Acid Transport -> Biodomain: Synapse, Oxidative Stress, Proteostasis, Endolysosome, Lipid Metabolism
+GO Term: Aromatic Amino Acid Transport -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Autophagy
+GO Term: Basic Amino Acid Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Lipid Metabolism
+GO Term: Branched-Chain Amino Acid Transport -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress
+GO Term: Neutral Amino Acid Transport -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Autophagy
+GO Term: S-Adenosyl-L-Methionine Transport -> Biodomain: Epigenetic, Lipid Metabolism, Proteostasis, Autophagy, Oxidative Stress
+GO Term: L-Amino Acid Transport -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Mitochondrial Metabolism
+GO Term: L-Alanine Transport -> Biodomain: Synapse, Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Autophagy
+GO Term: Aspartate Transmembrane Transport -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: L-Cystine Transport -> Biodomain: Oxidative Stress, Proteostasis, Lipid Metabolism, Synapse, Endolysosome
+GO Term: Gamma-Aminobutyric Acid Transport -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Lipid Metabolism
+GO Term: L-Glutamate Transmembrane Transport -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Glycine Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Histidine Transport -> Biodomain: Proteostasis, Synapse, Lipid Metabolism, Metal Binding and Homeostasis, Endolysosome
+GO Term: Isoleucine Transport -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Lysine Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Autophagy
+GO Term: L-Leucine Transport -> Biodomain: Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Autophagy, Synapse
+GO Term: Methionine Transport -> Biodomain: Synapse, Proteostasis, Epigenetic, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: Ornithine Transport -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Lipid Metabolism, Synapse
+GO Term: Phenylalanine Transport -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Oxidative Stress
+GO Term: Proline Transport -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Mitochondrial Metabolism, Metal Binding and Homeostasis
+GO Term: L-Serine Transport -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Lipid Metabolism, Endolysosome
+GO Term: Threonine Transport -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Autophagy
+GO Term: Tryptophan Transport -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Oxidative Stress
+GO Term: Tyrosine Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Oxidative Stress, Autophagy
+GO Term: Valine Transport -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Autophagy
+GO Term: Peptide Transport -> Biodomain: Proteostasis, Synapse, Endolysosome, Autophagy, Lipid Metabolism
+GO Term: Peptidoglycan Transport -> Biodomain: Immune Response, Endolysosome, Autophagy, Proteostasis, Apoptosis
+GO Term: Amine Transport -> Biodomain: Synapse, Proteostasis, Autophagy, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: Amino-Acid Betaine Transport -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Lipid Metabolism, Autophagy
+GO Term: Urea Transport -> Biodomain: Proteostasis, Endolysosome, Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress
+GO Term: Aminergic Neurotransmitter Loading Into Synaptic Vesicle -> Biodomain: Synapse, Proteostasis, Endolysosome, Epigenetic, Autophagy
+GO Term: Methylammonium Transport -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Lipid Metabolism, Endolysosome
+GO Term: Monoamine Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Oxidative Stress
+GO Term: Putrescine Transport -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Cell Cycle, Oxidative Stress
+GO Term: Spermidine Transport -> Biodomain: Synapse, Autophagy, Proteostasis, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Organic Acid Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Autophagy
+GO Term: Organic Hydroxy Compound Transport -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Lipid Metabolism, Metal Binding and Homeostasis
+GO Term: Nucleobase Transport -> Biodomain: Synapse, Proteostasis, Epigenetic, RNA Spliceosome, DNA Repair
+GO Term: Adenine Transport -> Biodomain: Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Synapse, Endolysosome
+GO Term: Guanine Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Mitochondrial Metabolism
+GO Term: Pyrimidine Nucleobase Transport -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Epigenetic, Lipid Metabolism
+GO Term: Nucleoside Transport -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Epigenetic
+GO Term: Purine Nucleoside Transmembrane Transport -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Oxidative Stress
+GO Term: Cytidine Transport -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Lipid Metabolism, Endolysosome
+GO Term: Uridine Transmembrane Transport -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Mitochondrial Metabolism, Epigenetic
+GO Term: Pyrimidine Nucleoside Transport -> Biodomain: Synapse, Epigenetic, Proteostasis, RNA Spliceosome, Mitochondrial Metabolism
+GO Term: Purine Nucleotide Transport -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Autophagy
+GO Term: Adp Transport -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Epigenetic, Autophagy
+GO Term: Atp Transport -> Biodomain: Mitochondrial Metabolism, Synapse, Proteostasis, Oxidative Stress, Autophagy
+GO Term: Acetylcholine Transport -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Lipid Metabolism, Endolysosome
+GO Term: Choline Transport -> Biodomain: Synapse, Lipid Metabolism, Proteostasis, Mitochondrial Metabolism, Endolysosome
+GO Term: Dopamine Transport -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Epigenetic
+GO Term: Norepinephrine Transport -> Biodomain: Synapse, Proteostasis, Autophagy, Oxidative Stress, Endolysosome
+GO Term: Acetyl-Coa Transport -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Epigenetic, Proteostasis, Synapse
+GO Term: Biotin Transport -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Mitochondrial Metabolism, Endolysosome
+GO Term: Carnitine Transport -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Oxidative Stress, Synapse
+GO Term: Creatine Transmembrane Transport -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Lipid Metabolism
+GO Term: L-Ascorbic Acid Transmembrane Transport -> Biodomain: Oxidative Stress, Mitochondrial Metabolism, Synapse, Lipid Metabolism, Proteostasis
+GO Term: Folic Acid Transport -> Biodomain: Epigenetic, DNA Repair, Proteostasis, Synapse, Oxidative Stress
+GO Term: Heme Transport -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Mitochondrial Metabolism, Proteostasis, Autophagy
+GO Term: Pantothenate Transmembrane Transport -> Biodomain: Mitochondrial Metabolism, Endolysosome, Synapse, Lipid Metabolism, Proteostasis
+GO Term: Thiamine Transport -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Cobalamin Transport -> Biodomain: Epigenetic, Mitochondrial Metabolism, Lipid Metabolism, Synapse, Metal Binding and Homeostasis
+GO Term: Siderophore Transport -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Synapse, Proteostasis, Endolysosome
+GO Term: Tetracycline Transmembrane Transport -> Biodomain: Synapse, Proteostasis, Autophagy, Endolysosome, Immune Response
+GO Term: Fatty Acid Transport -> Biodomain: Lipid Metabolism, Synapse, Endolysosome, Proteostasis, Autophagy
+GO Term: Long-Chain Fatty Acid Transport -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Long-Chain Fatty Acid Import Into Peroxisome -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Synapse, Autophagy
+GO Term: Long-Chain Fatty Acid Import Across Plasma Membrane -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Short-Chain Fatty Acid Transport -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Mitochondrial Metabolism
+GO Term: Short-Chain Fatty Acid Transmembrane Transport -> Biodomain: Lipid Metabolism, Proteostasis, Synapse, Endolysosome, Mitochondrial Metabolism
+GO Term: Phospholipid Transport -> Biodomain: Lipid Metabolism, Synapse, Endolysosome, Autophagy, Proteostasis
+GO Term: Fatty-Acyl-Coa Transport -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Synapse, Proteostasis, Endolysosome
+GO Term: Aminophospholipid Transport -> Biodomain: Synapse, Lipid Metabolism, Proteostasis, Endolysosome, Structural Stabilization
+GO Term: Sterol Transport -> Biodomain: Lipid Metabolism, Endolysosome, Proteostasis, Synapse, Autophagy
+GO Term: Peroxisomal Membrane Transport -> Biodomain: Lipid Metabolism, Oxidative Stress, Mitochondrial Metabolism, Proteostasis, Autophagy
+GO Term: Lipopolysaccharide Transport -> Biodomain: Immune Response, Lipid Metabolism, Endolysosome, Proteostasis, Oxidative Stress
+GO Term: Mannosidase Activity -> Biodomain: Proteostasis, Endolysosome, Autophagy, Synapse, Lipid Metabolism
+GO Term: Glucosidase Activity -> Biodomain: Endolysosome, Proteostasis, Autophagy, Lipid Metabolism, Synapse
+GO Term: Hexosaminidase Activity -> Biodomain: Lipid Metabolism, Endolysosome, Synapse, Autophagy, Proteostasis
+GO Term: Nucleobase-Containing Compound Transport -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Epigenetic, Metal Binding and Homeostasis
+GO Term: Nucleobase-Containing Compound Transmembrane Transporter Activity -> Biodomain: Synapse, RNA Spliceosome, Proteostasis, Epigenetic, Cell Cycle
+GO Term: Large Ribosomal Subunit -> Biodomain: Proteostasis, Synapse, RNA Spliceosome, Epigenetic, Cell Cycle
+GO Term: Small Ribosomal Subunit -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Epigenetic, Mitochondrial Metabolism
+GO Term: Coenzyme A Metabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Synapse
+GO Term: Coenzyme A Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Synapse
+GO Term: Coenzyme A Catabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Oxidative Stress, Autophagy
+GO Term: Pantothenate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Synapse
+GO Term: Formate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Proteostasis, Epigenetic
+GO Term: Formate Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Nucleobase-Containing Small Molecule Interconversion -> Biodomain: Epigenetic, Proteostasis, Synapse, RNA Spliceosome, Cell Cycle
+GO Term: Diadenosine Polyphosphate Catabolic Process -> Biodomain: Proteostasis, Synapse, Oxidative Stress, Autophagy, Mitochondrial Metabolism
+GO Term: Diadenosine Triphosphate Catabolic Process -> Biodomain: Proteostasis, Synapse, Mitochondrial Metabolism, Oxidative Stress, Autophagy
+GO Term: Diadenosine Tetraphosphate Biosynthetic Process -> Biodomain: Proteostasis, Mitochondrial Metabolism, Autophagy, Oxidative Stress, Endolysosome
+GO Term: Energy Derivation By Oxidation Of Organic Compounds -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Autophagy
+GO Term: Proton Motive Force-Driven Atp Synthesis -> Biodomain: Mitochondrial Metabolism, Proteostasis, Synapse, Oxidative Stress, Autophagy
+GO Term: Electron Transport Coupled Proton Transport -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Autophagy
+GO Term: Phospholipase Activator Activity -> Biodomain: Synapse, Lipid Metabolism, Proteostasis, Endolysosome, Autophagy
+GO Term: Phospholipase A2 Activator Activity -> Biodomain: Lipid Metabolism, Synapse, Immune Response, Proteostasis, Autophagy
+GO Term: Dystrophin-Associated Glycoprotein Complex -> Biodomain: Structural Stabilization, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Dystroglycan Complex -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Cell Cycle, Lipid Metabolism
+GO Term: Sarcoglycan Complex -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Endolysosome, Lipid Metabolism
+GO Term: Syntrophin Complex -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Endolysosome, Oxidative Stress
+GO Term: Morphogen Activity -> Biodomain: Synapse, Proteostasis, Epigenetic, Structural Stabilization, Cell Cycle
+GO Term: Cyclosporin A Binding -> Biodomain: Proteostasis, Synapse, Immune Response, Autophagy, Apoptosis
+GO Term: Peptidoglycan Immune Receptor Activity -> Biodomain: Immune Response, Endolysosome, Proteostasis, Autophagy, Epigenetic
+GO Term: Membrane -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Lipid Metabolism
+GO Term: Cdp-Diacylglycerol Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Trna Import Into Mitochondrion -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Synapse, Autophagy
+GO Term: Viral Process -> Biodomain: Immune Response, Endolysosome, Proteostasis, Apoptosis, Autophagy
+GO Term: Maleylacetoacetate Isomerase Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Endolysosome
+GO Term: Zeta Dna Polymerase Complex -> Biodomain: DNA Repair, Cell Cycle, Proteostasis, Structural Stabilization, Apoptosis
+GO Term: Cellular Response To Phosphate Starvation -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Absorption Of Visible Light -> Biodomain: Synapse, Oxidative Stress, Proteostasis, Mitochondrial Metabolism, Endolysosome
+GO Term: Lipid Catabolic Process -> Biodomain: Lipid Metabolism, Synapse, Endolysosome, Autophagy, Proteostasis
+GO Term: Detection Of Bacterium -> Biodomain: Immune Response, Proteostasis, Endolysosome, Autophagy, Apoptosis
+GO Term: Detection Of Fungus -> Biodomain: Immune Response, Response to Stimulus, Synapse, Endolysosome, Proteostasis
+GO Term: Detection Of Temperature Stimulus -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Endolysosome, Apoptosis
+GO Term: Vesicle Organization -> Biodomain: Synapse, Endolysosome, Proteostasis, Autophagy, Lipid Metabolism
+GO Term: Carbohydrate Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Synapse, Proteostasis
+GO Term: Carbohydrate Catabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Lipid Metabolism, Autophagy
+GO Term: Wnt Signaling Pathway -> Biodomain: Synapse, Epigenetic, Proteostasis, Structural Stabilization, Cell Cycle
+GO Term: G Protein-Coupled Opsin Signaling Pathway -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Epigenetic, Endolysosome
+GO Term: Immunoglobulin Mediated Immune Response -> Biodomain: Immune Response, Epigenetic, Proteostasis, Autophagy, Endolysosome
+GO Term: Type I Hypersensitivity -> Biodomain: Immune Response, Oxidative Stress, Proteostasis, Endolysosome, Autophagy
+GO Term: Rna Metabolic Process -> Biodomain: Synapse, RNA Spliceosome, Proteostasis, Epigenetic, Autophagy
+GO Term: Mrna Metabolic Process -> Biodomain: Synapse, RNA Spliceosome, Proteostasis, Epigenetic, DNA Repair
+GO Term: Rrna Metabolic Process -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Mitochondrial Metabolism, Epigenetic
+GO Term: Snrna Metabolic Process -> Biodomain: Synapse, RNA Spliceosome, Proteostasis, Epigenetic, Cell Cycle
+GO Term: Sno(S)Rna Metabolic Process -> Biodomain: Epigenetic, RNA Spliceosome, Proteostasis, Synapse, DNA Repair
+GO Term: Rrna Catabolic Process -> Biodomain: Synapse, RNA Spliceosome, Proteostasis, Autophagy, Mitochondrial Metabolism
+GO Term: Snrna Catabolic Process -> Biodomain: RNA Spliceosome, Proteostasis, Autophagy, Synapse, Epigenetic
+GO Term: Sno(S)Rna Catabolic Process -> Biodomain: Proteostasis,Synapse,RNA Spliceosome,Epigenetic,Autophagy
+GO Term: Trna Decay -> Biodomain: Proteostasis, RNA Spliceosome, Mitochondrial Metabolism, Synapse, Oxidative Stress
+GO Term: Synaptic Vesicle Exocytosis -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Lipid Metabolism
+GO Term: Synaptic Vesicle Targeting -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Autophagy, Endolysosome
+GO Term: Synaptic Vesicle Docking -> Biodomain: Synapse, Proteostasis, Autophagy, Endolysosome, Structural Stabilization
+GO Term: Synaptic Vesicle Priming -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Cell Cycle, Autophagy
+GO Term: Polyprenol Biosynthetic Process -> Biodomain: Lipid Metabolism, Proteostasis, Synapse, Mitochondrial Metabolism, Endolysosome
+GO Term: Polyprenol Catabolic Process -> Biodomain: Lipid Metabolism, Proteostasis, Mitochondrial Metabolism, Synapse, Autophagy
+GO Term: Monoterpenoid Metabolic Process -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse
+GO Term: Diterpenoid Metabolic Process -> Biodomain: Lipid Metabolism, Proteostasis, Synapse, Autophagy, Mitochondrial Metabolism
+GO Term: Triterpenoid Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Oxidative Stress, Autophagy
+GO Term: Carotenoid Metabolic Process -> Biodomain: Synapse, Lipid Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Carotene Metabolic Process -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Carotene Catabolic Process -> Biodomain: Lipid Metabolism, Oxidative Stress, Mitochondrial Metabolism, Proteostasis, Autophagy
+GO Term: Xanthophyll Metabolic Process -> Biodomain: Lipid Metabolism, Oxidative Stress, Synapse, Proteostasis, Mitochondrial Metabolism
+GO Term: Xanthophyll Catabolic Process -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse
+GO Term: Sterol Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Oxidative Stress, Endolysosome
+GO Term: Sterol Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Glycoside Catabolic Process -> Biodomain: Mitochondrial Metabolism, Endolysosome, Autophagy, Lipid Metabolism, Oxidative Stress
+GO Term: Translation Release Factor Activity, Codon Specific -> Biodomain: Synapse, Proteostasis, Epigenetic, RNA Spliceosome, Autophagy
+GO Term: Translation Release Factor Activity, Codon Nonspecific -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Epigenetic, DNA Repair
+GO Term: Nickel Cation Binding -> Biodomain: Metal Binding and Homeostasis, Proteostasis, Oxidative Stress, Synapse, Endolysosome
+GO Term: Urocanate Hydratase Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Pyrimidine-Nucleoside Phosphorylase Activity -> Biodomain: Mitochondrial Metabolism, Proteostasis, Synapse, Oxidative Stress, Cell Cycle
+GO Term: Formyltetrahydrofolate Dehydrogenase Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Epigenetic, Proteostasis, Lipid Metabolism
+GO Term: 3-Phytase Activity -> Biodomain: Lipid Metabolism, Proteostasis, Synapse, Endolysosome, Oxidative Stress
+GO Term: Amylase Activity -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Endolysosome
+GO Term: Linoleate 13S-Lipoxygenase Activity -> Biodomain: Lipid Metabolism, Oxidative Stress, Apoptosis, Proteostasis, Synapse
+Saved results to: Experiment/DeepSeek/01-Reference_free/05-FXS/Temp_0.5/go_biodomain_results_part_10.csv
+Logged runtime to: Experiment/DeepSeek/01-Reference_free/05-FXS/Temp_0.5/runtime_log.csv

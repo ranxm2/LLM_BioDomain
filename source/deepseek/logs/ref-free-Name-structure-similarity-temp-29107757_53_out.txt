@@ -1,0 +1,577 @@
+Running with TEMP=0.1, sub_array_index=13
+Changed working directory to: /panfs/compbio/users/xran2/wen/JX/02-AI-BioDomain/git_folder
+Processing array index 13: rows 6000 to 6499
+GO Term: Neuronal-Glial Interaction Involved In Hindbrain Glial-Mediated Radial Cell Migration -> Biodomain: Synapse, Structural Stabilization, Myelination, Lipid Metabolism, Autophagy
+GO Term: Central Nervous System Projection Neuron Axonogenesis -> Biodomain: Synapse, Structural Stabilization, Myelination, Cell Cycle, Proteostasis
+GO Term: Central Nervous System Neuron Differentiation -> Biodomain: Synapse, Myelination, Cell Cycle, Epigenetic, RNA Spliceosome
+GO Term: Central Nervous System Neuron Development -> Biodomain: Synapse, Myelination, Cell Cycle, Structural Stabilization, Autophagy
+GO Term: Central Nervous System Neuron Axonogenesis -> Biodomain: Synapse, Structural Stabilization, Cell Cycle, Myelination, Tau Homeostasis
+GO Term: Central Nervous System Interneuron Axonogenesis -> Biodomain: Synapse, Structural Stabilization, Cell Cycle, Autophagy, Proteostasis
+GO Term: Corticospinal Tract Morphogenesis -> Biodomain: Structural Stabilization  
+Synapse  
+Myelination  
+Cell Cycle  
+Autophagy
+GO Term: Anterior Commissure Morphogenesis -> Biodomain: Synapse, Structural Stabilization, Myelination, Cell Cycle, Autophagy
+GO Term: Spinal Cord Ventral Commissure Morphogenesis -> Biodomain: Synapse, Structural Stabilization, Myelination, Cell Development, Neuron Differentiation
+GO Term: Corticospinal Neuron Axon Guidance -> Biodomain: Synapse, Structural Stabilization, Myelination, Cell Cycle, Epigenetic
+GO Term: Corticospinal Neuron Axon Guidance Through Spinal Cord -> Biodomain: ERROR: Error code: 400 - {'error': {'message': "The length of your prompt exceeds the model's max input limit 65536. Please reduce the length of your prompt and try again.", 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+GO Term: Telencephalon Regionalization -> Biodomain: Synapse, Myelination, Structural Stabilization, Tau Homeostasis, Vasculature
+GO Term: Hypothalamus Cell Differentiation -> Biodomain: Cell Cycle  
+Epigenetic  
+Structural Stabilization  
+Synapse  
+Myelination
+GO Term: Pituitary Gland Development -> Biodomain: Structural Stabilization  
+Cell Cycle  
+Epigenetic  
+Proteostasis  
+Vasculature
+GO Term: Adenohypophysis Development -> Biodomain: Endocrine System Development, Nervous System Development, Structural Stabilization, Vasculature, Epigenetic
+GO Term: Neurohypophysis Development -> Biodomain: Structural Stabilization, Vasculature, Endolysosome, Synapse, Immune Response
+GO Term: Habenula Development -> Biodomain: Synapse, Structural Stabilization, Epigenetic, Cell Cycle, Autophagy
+GO Term: Cerebral Cortex Development -> Biodomain: Synapse, Myelination, Structural Stabilization, Cell Cycle, Autophagy
+GO Term: Olfactory Lobe Development -> Biodomain: Synapse, Structural Stabilization, Myelination, Cell Cycle, Proteostasis
+GO Term: Olfactory Cortex Development -> Biodomain: Synapse, Structural Stabilization, Myelination, Endolysosome, Autophagy
+GO Term: Initiation Of Neural Tube Closure -> Biodomain: Neurogenesis and Nervous System  
+Embryonic Development  
+Morphogenesis  
+Tissue Morphogenesis  
+Cell Differentiation
+GO Term: Neural Plate Axis Specification -> Biodomain: Structural Stabilization, Synapse, Epigenetic, Cell Cycle, Vasculature
+GO Term: Neural Plate Mediolateral Regionalization -> Biodomain: Structural Stabilization, Synapse, Myelination, Cell Cycle, Epigenetic
+GO Term: Neural Plate Anterior/Posterior Regionalization -> Biodomain: Structural Stabilization, Epigenetic, Cell Cycle, Autophagy, Synapse
+GO Term: Midbrain-Hindbrain Boundary Maturation During Brain Development -> Biodomain: Structural Stabilization, Myelination, Synapse, Cell Cycle, Autophagy
+GO Term: Convergent Extension Involved In Neural Plate Elongation -> Biodomain: Structural Stabilization  
+Synapse  
+Proteostasis  
+Autophagy  
+Cell Cycle
+GO Term: Neurogenesis -> Biodomain: Synapse, Cell Cycle, Structural Stabilization, Autophagy, Proteostasis
+GO Term: Central Nervous System Vasculogenesis -> Biodomain: Vasculature, Structural Stabilization, Lipid Metabolism, Endolysosome, Cell Cycle
+GO Term: Central Nervous System Myelination -> Biodomain: Myelination  
+Cell Development  
+Cell Differentiation  
+Nervous System Development  
+Structural Stabilization
+GO Term: Myelination In Peripheral Nervous System -> Biodomain: Myelination, Glial Cells, Lipid Metabolism, Nervous System Development, Structural Stabilization
+GO Term: Pallium Cell Proliferation In Forebrain -> Biodomain: Cell Cycle, Structural Stabilization, Synapse, Myelination, Epigenetic
+GO Term: Lateral Ganglionic Eminence Cell Proliferation -> Biodomain: Cell Cycle, Structural Stabilization, Myelination, Synapse, Epigenetic
+GO Term: Interkinetic Nuclear Migration -> Biodomain: Cell Cycle, Structural Stabilization, Synapse, Proteostasis, Autophagy
+GO Term: Tangential Migration From The Subventricular Zone To The Olfactory Bulb -> Biodomain: Synapse, Myelination, Cell Cycle, Structural Stabilization, Autophagy
+GO Term: Telencephalon Cell Migration -> Biodomain: Synapse, Structural Stabilization, Myelination, Cell Cycle, Proteostasis
+GO Term: Metencephalon Development -> Biodomain: Myelination, Synapse, Structural Stabilization, Cell Cycle, Lipid Metabolism
+GO Term: Corpus Callosum Development -> Biodomain: Myelination  
+Synapse  
+Structural Stabilization  
+Cell Cycle  
+Lipid Metabolism
+GO Term: Regulation Of Opsin-Mediated Signaling Pathway -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Autophagy, Structural Stabilization
+GO Term: Negative Adaptation Of Signaling Pathway -> Biodomain: Signal Transduction, Cellular Response, Regulatory Process, Cellular Communication, Response to Stimulus
+GO Term: Hair Cycle Process -> Biodomain: Structural Stabilization, Cell Cycle, Apoptosis, Lipid Metabolism, Proteostasis
+GO Term: Membrane Docking -> Biodomain: Synapse, Endolysosome, Autophagy, Structural Stabilization, Proteostasis
+GO Term: Regulation Of Cell-Cell Adhesion -> Biodomain: Structural Stabilization, Vasculature, Synapse, Immune Response, Cell Cycle
+GO Term: Negative Regulation Of Cell-Cell Adhesion -> Biodomain: Structural Stabilization, Apoptosis, Immune Response, Cell Cycle, Vasculature
+GO Term: Positive Regulation Of Cell-Cell Adhesion -> Biodomain: Structural Stabilization, Synapse, Immune Response, Vasculature, Cell Cycle
+GO Term: Circadian Sleep/Wake Cycle Process -> Biodomain: Synapse, Epigenetic, Proteostasis, Autophagy, Mitochondrial Metabolism
+GO Term: Reproductive Process -> Biodomain: Cell Cycle, Epigenetic, Lipid Metabolism, DNA Repair, RNA Spliceosome
+GO Term: Digestive System Process -> Biodomain: Lipid Metabolism, Proteostasis, Endolysosome, Autophagy, Mitochondrial Metabolism
+GO Term: Ovulation Cycle Process -> Biodomain: Reproductive Process, Rhythmic Process, Lipid Metabolism, Epigenetic, Vasculature
+GO Term: Regulation Of Anatomical Structure Morphogenesis -> Biodomain: Structural Stabilization, Synapse, Vasculature, Myelination, Cell Cycle
+GO Term: Regulation Of Cell Morphogenesis -> Biodomain: Structural Stabilization, Cell Cycle, Synapse, Lipid Metabolism, Tau Homeostasis
+GO Term: Mammalian Oogenesis Stage -> Biodomain: Cell Cycle, Epigenetic, DNA Repair, Autophagy, Proteostasis
+GO Term: Cellular Component Assembly -> Biodomain: Structural Stabilization, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Cell Cycle
+GO Term: Gland Morphogenesis -> Biodomain: Structural Stabilization, Vasculature, Immune Response, Proteostasis, Autophagy
+GO Term: Ribonucleoprotein Complex Biogenesis -> Biodomain: RNA Spliceosome, Proteostasis, Structural Stabilization, Epigenetic, Autophagy
+GO Term: Membrane To Membrane Docking -> Biodomain: Synapse, Endolysosome, Proteostasis, Vasculature, Autophagy
+GO Term: Protein To Membrane Docking -> Biodomain: Structural Stabilization, Proteostasis, Endolysosome, Autophagy, Synapse
+GO Term: Dna Strand Elongation -> Biodomain: DNA Repair, Cell Cycle, Epigenetic, Proteostasis, Structural Stabilization
+GO Term: Extracellular Matrix Disassembly -> Biodomain: Structural Stabilization, Vasculature, Immune Response, Proteostasis, Apoptosis
+GO Term: Protein-Rna Complex Assembly -> Biodomain: Proteostasis, RNA Spliceosome, Cell Cycle, Synapse, Structural Stabilization
+GO Term: Proteasome Accessory Complex -> Biodomain: Proteostasis, Immune Response, Cell Cycle, DNA Repair, Oxidative Stress
+GO Term: Cytosolic Large Ribosomal Subunit -> Biodomain: Proteostasis, RNA Spliceosome, Structural Stabilization, Autophagy, Endolysosome
+GO Term: Cytosolic Ribosome -> Biodomain: Proteostasis, Autophagy, Endolysosome, Cellular Processes, Cell Cycle
+GO Term: Cytosolic Small Ribosomal Subunit -> Biodomain: Proteostasis, Structural Stabilization, RNA Spliceosome, Cell Cycle, Autophagy
+GO Term: Transmitter-Gated Monoatomic Ion Channel Activity -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Autophagy, Apoptosis
+GO Term: Wide Pore Channel Activity -> Biodomain: Mitochondrial Metabolism, Vasculature, Endolysosome, Lipid Metabolism, Structural Stabilization
+GO Term: Voltage-Gated Channel Activity -> Biodomain: Synapse, Vasculature, Immune Response, Myelination, Metal Binding and Homeostasis
+GO Term: Ligand-Gated Channel Activity -> Biodomain: Synapse, Vasculature, Immune Response, Proteostasis, Structural Stabilization
+GO Term: Gated Channel Activity -> Biodomain: Structural Stabilization, Proteostasis, Synapse, Vasculature, Mitochondrial Metabolism
+GO Term: Monoatomic Ion-Gated Channel Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Vasculature, Myelination, Immune Response
+GO Term: Leak Channel Activity -> Biodomain: Metal Binding and Homeostasis, Proteostasis, Synapse, Vasculature, Oxidative Stress
+GO Term: Potassium Ion Leak Channel Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Vasculature, Apoptosis, Cell Cycle
+GO Term: Voltage-Gated Monoatomic Cation Channel Activity -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Oxidative Stress, Metal Binding and Homeostasis
+GO Term: Acetylcholine-Gated Monoatomic Cation-Selective Channel Activity -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Endolysosome, Metal Binding and Homeostasis
+GO Term: Glutamate-Gated Calcium Ion Channel Activity -> Biodomain: Synapse, Metal Binding and Homeostasis, Vasculature, Structural Stabilization, Proteostasis
+GO Term: Serotonin-Gated Monoatomic Cation Channel Activity -> Biodomain: Synapse, Receptor, Ion Channel, Transporter, Neurotransmission
+GO Term: Gaba-Gated Chloride Ion Channel Activity -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Apoptosis
+GO Term: Glycine-Gated Chloride Ion Channel Activity -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Autophagy, Apoptosis
+GO Term: Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Endolysosome, Lipid Metabolism, Proteostasis, Oxidative Stress
+GO Term: Alanine Transmembrane Transporter Activity -> Biodomain: Proteostasis, Autophagy, Endolysosome, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Zinc Efflux Transmembrane Transporter Activity -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Proteostasis, Endolysosome, Autophagy
+GO Term: Macromolecule Transmembrane Transporter Activity -> Biodomain: Proteostasis, Endolysosome, Autophagy, Mitochondrial Metabolism, Lipid Metabolism
+GO Term: Inorganic Cation Transmembrane Transporter Activity -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Endolysosome, Synapse, Mitochondrial Metabolism
+GO Term: Intermediate Conductance Calcium-Activated Potassium Channel Activity -> Biodomain: Metal Binding and Homeostasis, Structural Stabilization, Vasculature, Synapse, Oxidative Stress
+GO Term: Regulation Of Transmembrane Transporter Activity -> Biodomain: Proteostasis, Endolysosome, Mitochondrial Metabolism, Lipid Metabolism, Synapse
+GO Term: Electron Transport Chain -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Metal Binding and Homeostasis, Autophagy
+GO Term: Respiratory Electron Transport Chain -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Autophagy, Apoptosis, Lipid Metabolism
+GO Term: Signal Transduction Involved In Regulation Of Gene Expression -> Biodomain: Epigenetic, RNA Spliceosome, Immune Response, Cell Cycle, Proteostasis
+GO Term: Termination Of Signal Transduction -> Biodomain: Proteostasis, Autophagy, Apoptosis, Immune Response, Cell Cycle
+GO Term: Mhc Class I Protein Complex Binding -> Biodomain: Immune Response, Proteostasis, Endolysosome, Apoptosis, Structural Stabilization
+GO Term: Mhc Class Ib Protein Complex Binding -> Biodomain: Immune Response, Proteostasis, Structural Stabilization, Endolysosome, Autophagy
+GO Term: Mhc Class Ii Protein Complex Binding -> Biodomain: Immune Response, Proteostasis, Endolysosome, Autophagy, Apoptosis
+GO Term: Mhc Class Ib Protein Binding -> Biodomain: Immune Response, Proteostasis, Endolysosome, Autophagy, Apoptosis
+GO Term: Mhc Class Ib Protein Binding, Via Antigen Binding Groove -> Biodomain: Immune Response, Proteostasis, Synapse, Autophagy, Endolysosome
+GO Term: Cd40 Signaling Pathway -> Biodomain: Immune Response, Apoptosis, Vasculature, Cell Cycle, Autophagy
+GO Term: Neuronal Signal Transduction -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Autophagy, Apoptosis
+GO Term: Regulation Of Signaling -> Biodomain: Signaling, Immune Response, Apoptosis, Cell Cycle, Autophagy
+GO Term: Signaling -> Biodomain: Proteostasis, Autophagy, Apoptosis, Cell Cycle, Immune Response
+GO Term: Positive Regulation Of Signaling -> Biodomain: Immune Response, Synapse, Autophagy, Apoptosis, Oxidative Stress
+GO Term: Negative Regulation Of Signaling -> Biodomain: Immune Response, Cell Cycle, Apoptosis, Synapse, Epigenetic
+GO Term: Signal Release -> Biodomain: Synapse, Vasculature, Immune Response, Proteostasis, Endolysosome
+GO Term: Metal Ion Transport -> Biodomain: Metal Binding and Homeostasis, Endolysosome, Oxidative Stress, Proteostasis, Mitochondrial Metabolism
+GO Term: Intracellular Monoatomic Cation Homeostasis -> Biodomain: Metal Binding and Homeostasis, Mitochondrial Metabolism, Endolysosome, Autophagy, Proteostasis
+GO Term: Intracellular Potassium Ion Homeostasis -> Biodomain: Metal Binding and Homeostasis  
+Cellular Homeostasis  
+Ion Homeostasis  
+Membrane Potential Regulation  
+Signal Transduction
+GO Term: Trapp Complex -> Biodomain: Endolysosome, Proteostasis, Synapse, Lipid Metabolism, Autophagy
+GO Term: Establishment Of Cell Polarity -> Biodomain: Cell Cycle, Structural Stabilization, Synapse, Immune Response, Myelination
+GO Term: Maintenance Of Cell Polarity -> Biodomain: Structural Stabilization, Proteostasis, Cell Cycle, Autophagy, Apoptosis
+GO Term: Ccr4-Not Complex -> Biodomain: RNA Spliceosome, Proteostasis, Autophagy, Epigenetic, Cell Cycle
+GO Term: Ccr4-Not Core Complex -> Biodomain: Proteostasis, RNA Spliceosome, Autophagy, Epigenetic, DNA Repair
+GO Term: Myofibril -> Biodomain: Structural Stabilization, Proteostasis, Mitochondrial Metabolism, Apoptosis, Autophagy
+GO Term: Sarcomere -> Biodomain: Structural Stabilization, Proteostasis, Mitochondrial Metabolism, Autophagy, Cell Cycle
+GO Term: Z Disc -> Biodomain: Structural Stabilization, Proteostasis, Autophagy, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Extracellular Matrix Structural Constituent Conferring Tensile Strength -> Biodomain: Structural Stabilization, Vasculature, Proteostasis, Metal Binding and Homeostasis, Apoptosis
+GO Term: Extracellular Matrix Structural Constituent Conferring Compression Resistance -> Biodomain: Structural Stabilization, Vasculature, Proteostasis, Lipid Metabolism, Endolysosome
+GO Term: Extracellular Matrix Constituent Conferring Elasticity -> Biodomain: Structural Stabilization, Extracellular Matrix Organization, Vasculature, Proteostasis, Tissue Development
+GO Term: Intracellular Manganese Ion Homeostasis -> Biodomain: Metal Binding and Homeostasis, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Lamellipodium -> Biodomain: Structural Stabilization, Proteostasis, Vasculature, Cell Cycle, Synapse
+GO Term: Actin Filament-Based Process -> Biodomain: Structural Stabilization, Cell Cycle, Synapse, Immune Response, Vasculature
+GO Term: Cell Projection Organization -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Cell Cycle
+GO Term: Cell Projection Assembly -> Biodomain: Structural Stabilization, Synapse, Tau Homeostasis, Proteostasis, Myelination
+GO Term: Lamellipodium Assembly -> Biodomain: Structural Stabilization, Cell Cycle, Immune Response, Proteostasis, Autophagy
+GO Term: Microvillus Assembly -> Biodomain: Structural Stabilization, Proteostasis, Lipid Metabolism, Cell Cycle, Endolysosome
+GO Term: Microvillar Actin Bundle Assembly -> Biodomain: Structural Stabilization, Proteostasis, Endolysosome, Autophagy, Cell Cycle
+GO Term: Microspike Assembly -> Biodomain: Structural Stabilization, Proteostasis, Synapse, Autophagy, Endolysosome
+GO Term: Actin Cytoskeleton Organization -> Biodomain: Structural Stabilization, Proteostasis, Cell Cycle, Autophagy, Endolysosome
+GO Term: Contractile Actin Filament Bundle Assembly -> Biodomain: Structural Stabilization, Cell Cycle, Vasculature, Synapse, Proteostasis
+GO Term: Actin Filament Polymerization -> Biodomain: Structural Stabilization, Proteostasis, Cell Adhesion and Migration, Signal Transduction, Cell Cycle
+GO Term: Actin Filament Depolymerization -> Biodomain: Structural Stabilization, Proteostasis, Autophagy, Endolysosome, Cell Cycle
+GO Term: Actin Filament Fragmentation -> Biodomain: Structural Stabilization, Cytoskeleton Organization, Proteostasis, Cellular Structure, Protein Complex Disassembly
+GO Term: Parallel Actin Filament Bundle Assembly -> Biodomain: Structural Stabilization, Proteostasis, Autophagy, Cell Cycle, Synapse
+GO Term: Actin Modification -> Biodomain: Proteostasis, Structural Stabilization, Cell Cycle, Autophagy, Synapse
+GO Term: Actin Filament-Based Movement -> Biodomain: Cell Cycle, Immune Response, Structural Stabilization, Autophagy, Synapse
+GO Term: Muscle Filament Sliding -> Biodomain: Structural Stabilization, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Vasculature
+GO Term: Vesicle Transport Along Actin Filament -> Biodomain: Endolysosome, Proteostasis, Autophagy, Synapse, Structural Stabilization
+GO Term: Cell Junction -> Biodomain: Structural Stabilization, Synapse, Vasculature, Immune Response, Cell Cycle
+GO Term: Cell-Substrate Junction -> Biodomain: Structural Stabilization, Vasculature, Immune Response, Endolysosome, Proteostasis
+GO Term: Hemidesmosome -> Biodomain: Structural Stabilization, Vasculature, Proteostasis, Cell Cycle, Autophagy
+GO Term: Desmosome -> Biodomain: Structural Stabilization, Synapse, Metal Binding and Homeostasis, Apoptosis, Proteostasis
+GO Term: L-Malate Dehydrogenase (Nad+) Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Metal Binding and Homeostasis, Autophagy
+GO Term: Mitochondrial Crista -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy, Structural Stabilization
+GO Term: Insulin Processing -> Biodomain: Proteostasis, Endolysosome, Autophagy, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: Regulation Of Mitotic Metaphase/Anaphase Transition -> Biodomain: Cell Cycle, DNA Repair, Proteostasis, Structural Stabilization, Epigenetic
+GO Term: Peptide Hormone Secretion -> Biodomain: Proteostasis, Endolysosome, Vasculature, Immune Response, Synapse
+GO Term: Insulin Secretion -> Biodomain: Proteostasis, Metal Binding and Homeostasis, Lipid Metabolism, Autophagy, Cell Cycle
+GO Term: Protein Repair -> Biodomain: Proteostasis, Oxidative Stress, Autophagy, Mitochondrial Metabolism, Lipid Metabolism
+GO Term: Hemopoiesis -> Biodomain: Immune Response, Cell Cycle, Apoptosis, Endolysosome, Proteostasis
+GO Term: Lymphocyte Differentiation -> Biodomain: Immune Response, Apoptosis, Cell Cycle, Epigenetic, Autophagy
+GO Term: Myeloid Cell Differentiation -> Biodomain: Immune Response, Cell Cycle, Apoptosis, Epigenetic, Endolysosome
+GO Term: Regulation Of Endocytosis -> Biodomain: Endolysosome, Proteostasis, Autophagy, Synapse, Vasculature
+GO Term: Natural Killer Cell Activation -> Biodomain: Immune Response, Apoptosis, Cell Cycle, Proteostasis, Autophagy
+GO Term: Vasopressin Secretion -> Biodomain: Vasculature, Proteostasis, Epigenetic, Metal Binding and Homeostasis, Immune Response
+GO Term: Hla-A Specific Inhibitory Mhc Class I Receptor Activity -> Biodomain: Immune Response, Signaling Receptor, MHC Class I Receptor Activity, Regulation of Immune Response, Antigen Presentation
+GO Term: Hla-A Specific Activating Mhc Class I Receptor Activity -> Biodomain: Immune Response, Proteostasis, Apoptosis, Autophagy, Cell Cycle
+GO Term: Hla-B Specific Inhibitory Mhc Class I Receptor Activity -> Biodomain: Immune Response, Synapse, Proteostasis, Autophagy, Vasculature
+GO Term: Hla-C Specific Inhibitory Mhc Class I Receptor Activity -> Biodomain: Immune Response, MHC Class I, Receptor Activity, Signaling Receptor, Inhibitory Receptor
+GO Term: Regulation Of Wnt Signaling Pathway -> Biodomain: Proteostasis, Autophagy, Cell Cycle, Apoptosis, Epigenetic
+GO Term: Glial Cell-Derived Neurotrophic Factor Receptor Binding -> Biodomain: Synapse, Proteostasis, Autophagy, Mitochondrial Metabolism, Structural Stabilization
+GO Term: Membrane Coat -> Biodomain: Proteostasis, Endolysosome, Autophagy, APP Metabolism, Structural Stabilization
+GO Term: Clathrin Coat -> Biodomain: Endolysosome, Proteostasis, Autophagy, Structural Stabilization, Synapse
+GO Term: Ap-Type Membrane Coat Adaptor Complex -> Biodomain: Proteostasis, Endolysosome, Autophagy, Synapse, Structural Stabilization
+GO Term: Vesicle Coat -> Biodomain: Endolysosome, Autophagy, Proteostasis, Structural Stabilization, Synapse
+GO Term: Ap-1 Adaptor Complex -> Biodomain: Endolysosome, Proteostasis, Autophagy, Structural Stabilization, Lipid Metabolism
+GO Term: Ap-2 Adaptor Complex -> Biodomain: Endolysosome, Synapse, Proteostasis, APP Metabolism, Autophagy
+GO Term: Ap-3 Adaptor Complex -> Biodomain: Endolysosome, Proteostasis, Autophagy, Lipid Metabolism, Structural Stabilization
+GO Term: Ap-4 Adaptor Complex -> Biodomain: Endolysosome, Proteostasis, Autophagy, Synapse, Myelination
+GO Term: Clathrin Vesicle Coat -> Biodomain: Endolysosome, Proteostasis, Autophagy, Synapse, Lipid Metabolism
+GO Term: Copi Vesicle Coat -> Biodomain: Proteostasis, Endolysosome, Structural Stabilization, Lipid Metabolism, Autophagy
+GO Term: Copii Vesicle Coat -> Biodomain: Proteostasis, Endolysosome, Autophagy, Lipid Metabolism, Structural Stabilization
+GO Term: Clathrin Coat Of Trans-Golgi Network Vesicle -> Biodomain: Endolysosome, Proteostasis, Autophagy, APP Metabolism, Synapse
+GO Term: Clathrin Adaptor Complex -> Biodomain: Endolysosome, Proteostasis, Autophagy, APP Metabolism, Synapse
+GO Term: Clathrin Coat Of Coated Pit -> Biodomain: Endolysosome, Proteostasis, Structural Stabilization, Synapse, APP Metabolism
+GO Term: Transport Vesicle -> Biodomain: Endolysosome, Proteostasis, Autophagy, Lipid Metabolism, APP Metabolism
+GO Term: Copii-Coated Er To Golgi Transport Vesicle -> Biodomain: Proteostasis, Autophagy, Endolysosome, Structural Stabilization, Lipid Metabolism
+GO Term: Coated Vesicle -> Biodomain: Endolysosome, Proteostasis, Autophagy, APP Metabolism, Lipid Metabolism
+GO Term: Clathrin-Coated Vesicle -> Biodomain: Endolysosome, Proteostasis, Autophagy, Synapse, APP Metabolism
+GO Term: Copi-Coated Vesicle -> Biodomain: Endolysosome, Proteostasis, Structural Stabilization, Autophagy, Lipid Metabolism
+GO Term: Endocytic Vesicle -> Biodomain: Endolysosome, Proteostasis, Autophagy, Lipid Metabolism, Immune Response
+GO Term: Trans-Golgi Network Transport Vesicle -> Biodomain: Endolysosome, Proteostasis, Autophagy, Lipid Metabolism, APP Metabolism
+GO Term: Secretory Granule -> Biodomain: Synapse, Immune Response, Proteostasis, APP Metabolism, Endolysosome
+GO Term: Alpha-1,6-Mannosylglycoprotein 6-Beta-N-Acetylglucosaminyltransferase Activity -> Biodomain: Proteostasis, Endolysosome, Lipid Metabolism, Immune Response, APP Metabolism
+GO Term: Manganese Ion Binding -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Mitochondrial Metabolism, Proteostasis, Lipid Metabolism
+GO Term: Sphingolipid Biosynthetic Process -> Biodomain: Lipid Metabolism, Structural Stabilization, Endolysosome, Autophagy, Apoptosis
+GO Term: Sphingolipid Catabolic Process -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Endolysosome, Autophagy, Proteostasis
+GO Term: Protein Import Into Mitochondrial Matrix -> Biodomain: Mitochondrial Metabolism, Proteostasis, Structural Stabilization, Autophagy, Apoptosis
+GO Term: Molybdenum Ion Binding -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism
+GO Term: Cell Differentiation -> Biodomain: Developmental Processes, Cellular Processes, Epigenetic, Cell Cycle, DNA Repair
+GO Term: Regulation Of Cell Adhesion -> Biodomain: Structural Stabilization, Vasculature, Synapse, Immune Response, Proteostasis
+GO Term: Benzodiazepine Receptor Binding -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Apoptosis, Proteostasis
+GO Term: Pancreatic Juice Secretion -> Biodomain: Proteostasis, Lipid Metabolism, Autophagy, Endolysosome, Structural Stabilization
+GO Term: Protein Xylosyltransferase Activity -> Biodomain: Proteostasis, Structural Stabilization, Lipid Metabolism, Vasculature, Immune Response
+GO Term: Signaling Receptor Complex Adaptor Activity -> Biodomain: Proteostasis, Synapse, Immune Response, Structural Stabilization, Autophagy
+GO Term: Synaptic Receptor Adaptor Activity -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Immune Response, Autophagy
+GO Term: Regulation Of Proteolysis -> Biodomain: Proteostasis, Autophagy, Endolysosome, Apoptosis, Oxidative Stress
+GO Term: Protein Catabolic Process -> Biodomain: Proteostasis, Autophagy, Endolysosome, Apoptosis, APP Metabolism
+GO Term: Pdz Domain Binding -> Biodomain: Proteostasis, Synapse, Structural Stabilization, Cell Cycle, Immune Response
+GO Term: Proteoglycan Biosynthetic Process -> Biodomain: Proteostasis, Structural Stabilization, Vasculature, Lipid Metabolism, Immune Response
+GO Term: Proteoglycan Catabolic Process -> Biodomain: Proteostasis, Endolysosome, Autophagy, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: Platelet Activation -> Biodomain: Vasculature, Immune Response, Structural Stabilization, Apoptosis, Oxidative Stress
+GO Term: Low-Density Lipoprotein Particle Binding -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Vasculature
+GO Term: Pyridoxal Phosphate Binding -> Biodomain: Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Metal Binding and Homeostasis, Oxidative Stress
+GO Term: Voltage-Gated Proton Channel Activity -> Biodomain: Mitochondrial Metabolism, Immune Response, Endolysosome, Oxidative Stress, Autophagy
+GO Term: Troponin C Binding -> Biodomain: Structural Stabilization, Metal Binding and Homeostasis, Proteostasis, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: Regulation Of Dna-Templated Dna Replication Initiation -> Biodomain: DNA Repair, Cell Cycle, Epigenetic, Proteostasis, Autophagy
+GO Term: Filopodium -> Biodomain: Structural Stabilization, Synapse, Proteostasis, Vasculature, Immune Response
+GO Term: Positive Regulation Of Wnt Signaling Pathway -> Biodomain: Cell Cycle, Structural Stabilization, Synapse, Autophagy, Apoptosis
+GO Term: Negative Regulation Of Wnt Signaling Pathway -> Biodomain: Cell Cycle  
+Proteostasis  
+Apoptosis  
+Autophagy  
+Structural Stabilization
+GO Term: Neuron Differentiation -> Biodomain: Synapse, Cell Cycle, Epigenetic, RNA Spliceosome, Structural Stabilization
+GO Term: B Cell Differentiation -> Biodomain: Immune Response, Cell Cycle, Developmental Process, Apoptosis, Autophagy
+GO Term: Nitric Oxide Transmembrane Transporter Activity -> Biodomain: Vasculature, Synapse, Immune Response, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Nitric Oxide Transport -> Biodomain: Vasculature, Immune Response, Synapse, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Melatonin Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Endolysosome, Lipid Metabolism
+GO Term: Regulation Of Blood Coagulation -> Biodomain: Vasculature, Immune Response, Structural Stabilization, Proteostasis, Lipid Metabolism
+GO Term: Positive Regulation Of Blood Coagulation -> Biodomain: Vasculature, Immune Response, Structural Stabilization, Apoptosis, Oxidative Stress
+GO Term: Negative Regulation Of Blood Coagulation -> Biodomain: Vasculature, Proteostasis, Immune Response, Structural Stabilization, Metal Binding and Homeostasis
+GO Term: Extracellular Matrix Constituent, Lubricant Activity -> Biodomain: Structural Stabilization, Vasculature, Proteostasis, Lipid Metabolism, Immune Response
+GO Term: Extracellular Matrix Organization -> Biodomain: Structural Stabilization, Vasculature, Proteostasis, Immune Response, Endolysosome
+GO Term: Collagen Fibril Organization -> Biodomain: Structural Stabilization, Vasculature, Proteostasis, Extracellular Matrix Organization, Cell Cycle
+GO Term: Heparan Sulfate Proteoglycan Catabolic Process -> Biodomain: Endolysosome, Proteostasis, Autophagy, Lipid Metabolism, Oxidative Stress
+GO Term: Heparan Sulfate Proteoglycan Metabolic Process -> Biodomain: Proteostasis, Structural Stabilization, Endolysosome, Autophagy, Lipid Metabolism
+GO Term: Heparin Proteoglycan Metabolic Process -> Biodomain: Immune Response, Endolysosome, Vasculature, Proteostasis, Lipid Metabolism
+GO Term: Glycosaminoglycan Metabolic Process -> Biodomain: Structural Stabilization, Vasculature, Immune Response, Endolysosome, Autophagy
+GO Term: Chondroitin Sulfate Proteoglycan Catabolic Process -> Biodomain: Proteostasis, Endolysosome, Structural Stabilization, Autophagy, Vasculature
+GO Term: Dermatan Sulfate Proteoglycan Catabolic Process -> Biodomain: Proteostasis, Endolysosome, Autophagy, Structural Stabilization, Vasculature
+GO Term: Heparin Proteoglycan Biosynthetic Process -> Biodomain: Proteostasis, Lipid Metabolism, Structural Stabilization, Vasculature, Endolysosome
+GO Term: Heparin Proteoglycan Catabolic Process -> Biodomain: Endolysosome, Proteostasis, Autophagy, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: Hyaluronan Metabolic Process -> Biodomain: Lipid Metabolism, Endolysosome, Autophagy, Immune Response, Vasculature
+GO Term: Hyaluronan Biosynthetic Process -> Biodomain: Structural Stabilization
+Vasculature
+Immune Response
+Synapse
+Cell Cycle
+GO Term: Hyaluronan Catabolic Process -> Biodomain: Lipid Metabolism  
+Immune Response  
+Endolysosome  
+Structural Stabilization  
+Proteostasis
+GO Term: Semaphorin Receptor Binding -> Biodomain: Synapse, Immune Response, Vasculature, Structural Stabilization, Proteostasis
+GO Term: Keratinocyte Differentiation -> Biodomain: Structural Stabilization, Epigenetic, Proteostasis, Autophagy, Apoptosis
+GO Term: T Cell Differentiation -> Biodomain: Immune Response, Cell Cycle, Apoptosis, Proteostasis, Autophagy
+GO Term: Erythrocyte Differentiation -> Biodomain: Immune Response, Cell Cycle, Apoptosis, Structural Stabilization, Endolysosome
+GO Term: Megakaryocyte Differentiation -> Biodomain: Cell Cycle, Epigenetic, Proteostasis, Autophagy, Lipid Metabolism
+GO Term: Platelet Formation -> Biodomain: Cell Cycle, Apoptosis, Autophagy, Structural Stabilization, Epigenetic
+GO Term: Basophil Differentiation -> Biodomain: Immune Response, Cell Cycle, Autophagy, Proteostasis, Apoptosis
+GO Term: Eosinophil Differentiation -> Biodomain: Immune Response, Cell Cycle, Apoptosis, Autophagy, Proteostasis
+GO Term: Neutrophil Differentiation -> Biodomain: Immune Response, Cell Cycle, Apoptosis, Autophagy, Proteostasis
+GO Term: Monocyte Differentiation -> Biodomain: Immune Response, Epigenetic, Proteostasis, Autophagy, Cell Cycle
+GO Term: Macrophage Differentiation -> Biodomain: Immune Response, Cell Cycle, Structural Stabilization, Endolysosome, Apoptosis
+GO Term: Apolipoprotein Receptor Activity -> Biodomain: Lipid Metabolism, Endolysosome, Proteostasis, Vasculature, Immune Response
+GO Term: Lipoprotein Particle Receptor Activity -> Biodomain: Lipid Metabolism, Endolysosome, Proteostasis, Vasculature, Immune Response
+GO Term: Very-Low-Density Lipoprotein Particle Receptor Activity -> Biodomain: Lipid Metabolism, Proteostasis, Endolysosome, Vasculature, Immune Response
+GO Term: Deoxynucleotide Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Oxidative Stress, Autophagy
+GO Term: Enzyme Regulator Activity -> Biodomain: Proteostasis, Autophagy, Apoptosis, Cell Cycle, DNA Repair
+GO Term: Nitric-Oxide Synthase Regulator Activity -> Biodomain: Vasculature, Immune Response, Oxidative Stress, Synapse, Metal Binding and Homeostasis
+GO Term: Female Sex Determination -> Biodomain: Epigenetic, Cell Cycle, Apoptosis, Autophagy, Proteostasis
+GO Term: Male Sex Determination -> Biodomain: Reproductive Process, Developmental Process, Multicellular Organismal Process, Anatomical Structure Development, Cell Cycle
+GO Term: Myofibril Assembly -> Biodomain: Structural Stabilization, Proteostasis, Muscle Development, Cellular Component Biogenesis, Developmental Process
+GO Term: Skeletal Muscle Thin Filament Assembly -> Biodomain: Structural Stabilization  
+Developmental Process  
+Cytoskeleton  
+Muscle Function  
+Proteostasis
+GO Term: Skeletal Muscle Myosin Thick Filament Assembly -> Biodomain: Structural Stabilization, Proteostasis, Metal Binding and Homeostasis, Cell Cycle, Autophagy
+GO Term: Carbohydrate Binding -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Oxidative Stress, Metal Binding and Homeostasis
+GO Term: Polysaccharide Binding -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Autophagy, Endolysosome
+GO Term: Guanylate Cyclase Regulator Activity -> Biodomain: Vasculature, Synapse, Oxidative Stress, Metal Binding and Homeostasis, Mitochondrial Metabolism
+GO Term: Guanylate Cyclase Activator Activity -> Biodomain: Vasculature, Synapse, Oxidative Stress, Immune Response, Apoptosis
+GO Term: Guanylate Cyclase Inhibitor Activity -> Biodomain: Proteostasis, Vasculature, Oxidative Stress, Mitochondrial Metabolism, Immune Response
+GO Term: Growth Hormone Secretion -> Biodomain: Proteostasis, Vasculature, Autophagy, Endolysosome, Structural Stabilization
+GO Term: Lipid Modification -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Endolysosome
+GO Term: Lipid Glycosylation -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Endolysosome
+GO Term: Chromosome Condensation -> Biodomain: Cell Cycle, Apoptosis, Structural Stabilization, DNA Repair, Epigenetic
+GO Term: Apoptotic Nuclear Changes -> Biodomain: Apoptosis, Epigenetic, DNA Repair, Proteostasis, Structural Stabilization
+GO Term: Apoptotic Chromosome Condensation -> Biodomain: Apoptosis, Cell Cycle, Structural Stabilization, Proteostasis, Epigenetic
+GO Term: Nuclear Fragmentation Involved In Apoptotic Nuclear Change -> Biodomain: Apoptosis, Structural Stabilization, Proteostasis, Autophagy, Endolysosome
+GO Term: Glyoxylate Reductase (Nadph) Activity -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: 5-Formyltetrahydrofolate Cyclo-Ligase Activity -> Biodomain: Mitochondrial Metabolism, Metal Binding and Homeostasis, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Melanin-Concentrating Hormone Receptor Activity -> Biodomain: Synapse, Mitochondrial Metabolism, Lipid Metabolism, Autophagy, Oxidative Stress
+GO Term: Lim Domain Binding -> Biodomain: Proteostasis, Structural Stabilization, Synapse, Cell Cycle, Metal Binding and Homeostasis
+GO Term: Lrr Domain Binding -> Biodomain: Proteostasis, Structural Stabilization, Synapse, Immune Response, Autophagy
+GO Term: Clathrin Binding -> Biodomain: Endolysosome, Synapse, Proteostasis, Autophagy, Structural Stabilization
+GO Term: Maintenance Of Gastrointestinal Epithelium -> Biodomain: Structural Stabilization, Proteostasis, Autophagy, Apoptosis, Immune Response
+GO Term: Regulation Of Ossification -> Biodomain: Structural Stabilization, Vasculature, Immune Response, Apoptosis, Cell Cycle
+GO Term: Negative Regulation Of Ossification -> Biodomain: Structural Stabilization, Metal Binding and Homeostasis, Cell Cycle, Apoptosis, Autophagy
+GO Term: Structural Constituent Of Skin Epidermis -> Biodomain: Structural Stabilization, Proteostasis, Epigenetic, Lipid Metabolism, Autophagy
+GO Term: Bone Mineralization -> Biodomain: Structural Stabilization, Metal Binding and Homeostasis, Mitochondrial Metabolism, Lipid Metabolism, Autophagy
+GO Term: Testosterone Dehydrogenase [Nad(P)+] Activity -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Nuclear Estrogen Receptor Activity -> Biodomain: Epigenetic, DNA Repair, Lipid Metabolism, Immune Response, Autophagy
+GO Term: Dynein Complex -> Biodomain: Endolysosome, Autophagy, Cell Cycle, Structural Stabilization, Tau Homeostasis
+GO Term: Protein Phosphatase 4 Complex -> Biodomain: Proteostasis, Autophagy, Apoptosis, Cell Cycle, Structural Stabilization
+GO Term: Sphingolipid Activator Protein Activity -> Biodomain: Lipid Metabolism, Endolysosome, Proteostasis, Autophagy, Apoptosis
+GO Term: Protein Serine/Threonine Kinase Inhibitor Activity -> Biodomain: Proteostasis, Autophagy, Apoptosis, Cell Cycle, Structural Stabilization
+GO Term: Protein Tyrosine Kinase Inhibitor Activity -> Biodomain: Cell Cycle, Immune Response, Vasculature, Apoptosis, Proteostasis
+GO Term: Transmembrane Receptor Protein Tyrosine Kinase Inhibitor Activity -> Biodomain: Signaling, Apoptosis, Cell Cycle, Immune Response, Vasculature
+GO Term: Receptor Signaling Protein Tyrosine Kinase Inhibitor Activity -> Biodomain: Proteostasis, Apoptosis, Cell Cycle, Immune Response, Synapse
+GO Term: Protein Kinase Activator Activity -> Biodomain: Proteostasis, Enzyme Regulator Activity, Molecular Function Regulator Activity, Kinase Regulator Activity, Cell Cycle
+GO Term: Protein Tyrosine Kinase Activator Activity -> Biodomain: Proteostasis, Apoptosis, Cell Cycle, Immune Response, Autophagy
+GO Term: Transmembrane Receptor Protein Tyrosine Kinase Activator Activity -> Biodomain: Signaling, Synapse, Receptor Signaling, APP Metabolism, Lipid Metabolism
+GO Term: Receptor Signaling Protein Tyrosine Kinase Activator Activity -> Biodomain: Cell Cycle, Immune Response, Apoptosis, Proteostasis, Synapse
+GO Term: Intestinal Cholesterol Absorption -> Biodomain: Lipid Metabolism, Structural Stabilization, Autophagy, Endolysosome, Vasculature
+GO Term: Regulation Of Intestinal Cholesterol Absorption -> Biodomain: Lipid Metabolism, Vasculature, Immune Response, Proteostasis, Autophagy
+GO Term: Cholesterol Transport -> Biodomain: Lipid Metabolism, Structural Stabilization, Endolysosome, Autophagy, Immune Response
+GO Term: Deoxynucleotide Transport -> Biodomain: DNA Repair, Mitochondrial Metabolism, Lipid Metabolism, Metal Binding and Homeostasis, Autophagy
+GO Term: Heparanase Activity -> Biodomain: Glycosaminoglycan Metabolism, Endolysosome, Proteoglycan Metabolism, Extracellular Matrix Organization, Angiogenesis
+GO Term: Positive Regulation Of Cell Growth -> Biodomain: Cell Cycle  
+Structural Stabilization  
+Autophagy  
+Proteostasis  
+Apoptosis
+GO Term: Negative Regulation Of Cell Growth -> Biodomain: Cell Cycle, Apoptosis, Autophagy, Proteostasis, Structural Stabilization
+GO Term: Poly-N-Acetyllactosamine Metabolic Process -> Biodomain: Lipid Metabolism, Structural Stabilization, Endolysosome, Immune Response, Proteostasis
+GO Term: Poly-N-Acetyllactosamine Biosynthetic Process -> Biodomain: Lipid Metabolism, Proteostasis, Autophagy, Endolysosome, Immune Response
+GO Term: Junctional Membrane Complex -> Biodomain: Structural Stabilization, Metal Binding and Homeostasis, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: T-Tubule -> Biodomain: Structural Stabilization, Metal Binding and Homeostasis, Lipid Metabolism, Mitochondrial Metabolism, Vasculature
+GO Term: Osteoclast Differentiation -> Biodomain: Immune Response, Structural Stabilization, Metal Binding and Homeostasis, Cell Cycle, Endolysosome
+GO Term: Flagellated Sperm Motility -> Biodomain: Reproductive Process, Microtubule-Based Process, Cell Motility, Cilium Movement, Reproductive System
+GO Term: Melanocyte Differentiation -> Biodomain: Structural Stabilization, Cell Cycle, Epigenetic, Mitochondrial Metabolism, Autophagy
+GO Term: Transepithelial Chloride Transport -> Biodomain: Vasculature, Endolysosome, Autophagy, Proteostasis, Lipid Metabolism
+GO Term: Stabilization Of Membrane Potential -> Biodomain: Structural Stabilization, Synapse, Lipid Metabolism, Mitochondrial Metabolism, Endolysosome
+GO Term: Respiratory Tube Development -> Biodomain: Vasculature, Structural Stabilization, Mitochondrial Metabolism, Proteostasis, Lipid Metabolism
+GO Term: Lung Development -> Biodomain: Vasculature, Structural Stabilization, Lipid Metabolism, Cell Cycle, Apoptosis
+GO Term: Adrenal Gland Development -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Cell Cycle
+GO Term: Embryonic Limb Morphogenesis -> Biodomain: Structural Stabilization, Proteostasis, Cell Cycle, Vasculature, Endolysosome
+GO Term: Prenylated Protein Catabolic Process -> Biodomain: Proteostasis, Autophagy, Lipid Metabolism, Endolysosome, Apoptosis
+GO Term: Prenylcysteine Catabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Autophagy, Oxidative Stress
+GO Term: Dna Damage Response, Signal Transduction By P53 Class Mediator -> Biodomain: DNA Repair, Apoptosis, Cell Cycle, Oxidative Stress, Proteostasis
+GO Term: Nuclear Estrogen Receptor Binding -> Biodomain: Epigenetic, DNA Repair, Transcription Factor Binding, Proteostasis, Cell Cycle
+GO Term: Cyclin Binding -> Biodomain: Cell Cycle, Proteostasis, Apoptosis, Epigenetic, DNA Repair
+GO Term: Regulation Of Cell Migration -> Biodomain: Cell Cycle, Proteostasis, Structural Stabilization, Immune Response, Vasculature
+GO Term: Positive Regulation Of Cell Migration -> Biodomain: Immune Response, Vasculature, Proteostasis, Structural Stabilization, Apoptosis
+GO Term: Negative Regulation Of Cell Migration -> Biodomain: Cell Cycle, Structural Stabilization, Apoptosis, Immune Response, Vasculature
+GO Term: Dna Polymerase Processivity Factor Activity -> Biodomain: DNA Repair, Cell Cycle, Structural Stabilization, Epigenetic, Proteostasis
+GO Term: Cmp-N-Acetylneuraminate Monooxygenase Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Metal Binding and Homeostasis, Lipid Metabolism, Autophagy
+GO Term: 1-Alpha,25-Dihydroxyvitamin D3 24-Hydroxylase Activity -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Endolysosome
+GO Term: Vitamin D3 25-Hydroxylase Activity -> Biodomain: Lipid Metabolism, Metal Binding and Homeostasis, Oxidative Stress, Mitochondrial Metabolism, Proteostasis
+GO Term: Structural Constituent Of Tooth Enamel -> Biodomain: Structural Stabilization, Metal Binding and Homeostasis, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Protein Phosphatase 2B Binding -> Biodomain: Proteostasis, Apoptosis, Immune Response, Synapse, Metal Binding and Homeostasis
+GO Term: Syntaxin-3 Binding -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, APP Metabolism
+GO Term: Iron-Responsive Element Binding -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Mitochondrial Metabolism, Proteostasis, Lipid Metabolism
+GO Term: Inositol-1,3,4,5,6-Pentakisphosphate 3-Phosphatase Activity -> Biodomain: Lipid Metabolism, Metal Binding and Homeostasis, Oxidative Stress, Autophagy, Proteostasis
+GO Term: Inositol-1,4,5,6-Tetrakisphosphate 6-Phosphatase Activity -> Biodomain: Lipid Metabolism, Autophagy, Endolysosome, Apoptosis, Metal Binding and Homeostasis
+GO Term: Melanin-Concentrating Hormone Activity -> Biodomain: Lipid Metabolism, Synapse, Epigenetic, Proteostasis, Autophagy
+GO Term: Molybdopterin Synthase Activity -> Biodomain: Metal Binding and Homeostasis, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Interleukin-17 Receptor Activity -> Biodomain: Immune Response, Proteostasis, Apoptosis, Oxidative Stress, Autophagy
+GO Term: Icam-3 Receptor Activity -> Biodomain: Immune Response, Vasculature, Structural Stabilization, Proteostasis, Cell Cycle
+GO Term: Translation Repressor Activity -> Biodomain: Proteostasis, Autophagy, Apoptosis, Endolysosome, Cell Cycle
+GO Term: Urokinase Plasminogen Activator Receptor Activity -> Biodomain: Immune Response, Proteostasis, Vasculature, Apoptosis, Synapse
+GO Term: Serine Racemase Activity -> Biodomain: Mitochondrial Metabolism, Synapse, Proteostasis, Metal Binding and Homeostasis, Oxidative Stress
+GO Term: Neurotensin Receptor Activity, Non-G Protein-Coupled -> Biodomain: Synapse, Proteostasis, Autophagy, Endolysosome, Structural Stabilization
+GO Term: Interleukin-17E Receptor Binding -> Biodomain: Immune Response, Proteostasis, Cytokine Signaling, Cell Signaling, Apoptosis
+GO Term: Sperm Mitochondrion Organization -> Biodomain: Mitochondrial Metabolism, Structural Stabilization, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Fructose 1,6-Bisphosphate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Metal Binding and Homeostasis, Proteostasis
+GO Term: Fructosamine Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy, Lipid Metabolism
+GO Term: Fructosamine Catabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Endolysosome, Autophagy
+GO Term: Fructoselysine Metabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Oxidative Stress, Autophagy
+GO Term: Lactose Binding -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Autophagy, Endolysosome
+GO Term: Membrane Disassembly -> Biodomain: Autophagy, Endolysosome, Proteostasis, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: Glutamate Formimidoyltransferase Activity -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Autophagy, Oxidative Stress
+GO Term: Formimidoyltetrahydrofolate Cyclodeaminase Activity -> Biodomain: Mitochondrial Metabolism, Epigenetic, Proteostasis, Cell Cycle, Lipid Metabolism
+GO Term: Peptidase Inhibitor Activity -> Biodomain: Proteostasis, Endolysosome, Autophagy, Apoptosis, Immune Response
+GO Term: Defecation -> Biodomain: Synapse, Immune Response, Lipid Metabolism, Proteostasis, Endolysosome
+GO Term: Sirna Processing -> Biodomain: Epigenetic, RNA Spliceosome, Proteostasis, Autophagy, DNA Repair
+GO Term: Axon -> Biodomain: Synapse, Myelination, Structural Stabilization, Tau Homeostasis, Lipid Metabolism
+GO Term: Dendrite -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Endolysosome, Autophagy
+GO Term: Growth Cone -> Biodomain: Structural Stabilization, Synapse, Myelination, Proteostasis, Autophagy
+GO Term: Site Of Polarized Growth -> Biodomain: Synapse, Myelination, Structural Stabilization, Tau Homeostasis, Proteostasis
+GO Term: Kynureninase Activity -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Immune Response, Autophagy, Proteostasis
+GO Term: Sleep -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Autophagy
+GO Term: Peristalsis -> Biodomain: Structural Stabilization, Vasculature, Muscle System Process, Mitochondrial Metabolism, Lipid Metabolism
+GO Term: Regulation Of Complement Activation -> Biodomain: Immune Response, Proteostasis, Apoptosis, Oxidative Stress, Vasculature
+GO Term: Regulation Of Complement Activation, Alternative Pathway -> Biodomain: Immune Response, Innate Immune Response, Defense Response, Regulation of Response to Stimulus, Response to External Stimulus
+GO Term: Nuclear Migration Along Microtubule -> Biodomain: Structural Stabilization, Proteostasis, Autophagy, Cell Cycle, Synapse
+GO Term: Actin Cap -> Biodomain: Structural Stabilization, Proteostasis, Cell Cycle, Autophagy, Endolysosome
+GO Term: Smooth Muscle Contractile Fiber -> Biodomain: Structural Stabilization, Vasculature, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism
+GO Term: Trna Methylation -> Biodomain: RNA Spliceosome, Metal Binding and Homeostasis, Epigenetic, Mitochondrial Metabolism, Proteostasis
+GO Term: Maturation Of Ssu-Rrna -> Biodomain: RNA Spliceosome, Proteostasis, Epigenetic, Cell Cycle, APP Metabolism
+GO Term: Hemoglobin Binding -> Biodomain: Vasculature, Proteostasis, Metal Binding and Homeostasis, Oxidative Stress, Mitochondrial Metabolism
+GO Term: Midbody -> Biodomain: Cell Cycle, Structural Stabilization, Autophagy, Proteostasis, Apoptosis
+GO Term: Fatty Acid Elongation -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Autophagy, Proteostasis, Oxidative Stress
+GO Term: Regulation Of Bone Mineralization -> Biodomain: Structural Stabilization  
+Metal Binding and Homeostasis  
+Epigenetic  
+Proteostasis  
+Cell Cycle
+GO Term: Positive Regulation Of Bone Mineralization -> Biodomain: Structural Stabilization, Vasculature, Lipid Metabolism, Metal Binding and Homeostasis, Proteostasis
+GO Term: Negative Regulation Of Bone Mineralization -> Biodomain: Structural Stabilization, Vasculature, Immune Response, Lipid Metabolism, Metal Binding and Homeostasis
+GO Term: Inorganic Diphosphate Transmembrane Transporter Activity -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Structural Stabilization, Apoptosis, Autophagy
+GO Term: Inorganic Diphosphate Transport -> Biodomain: Mitochondrial Metabolism, Metal Binding and Homeostasis, Oxidative Stress, Lipid Metabolism, Autophagy
+GO Term: Ankyrin Binding -> Biodomain: Structural Stabilization, Proteostasis, Cell Cycle, Autophagy, Mitochondrial Metabolism
+GO Term: Spectrin Binding -> Biodomain: Structural Stabilization, Proteostasis, Synapse, Cell Cycle, Lipid Metabolism
+GO Term: Bmp Signaling Pathway -> Biodomain: Growth Factor Signaling, Signal Transduction, Cellular Response, Developmental Signaling, Regulation of Cellular Processes
+GO Term: Regulation Of Bmp Signaling Pathway -> Biodomain: Proteostasis, Cell Cycle, Autophagy, Apoptosis, Immune Response
+GO Term: Positive Regulation Of Transforming Growth Factor Beta Receptor Signaling Pathway -> Biodomain: Immune Response, Proteostasis, Cell Cycle, Apoptosis, Structural Stabilization
+GO Term: Negative Regulation Of Transforming Growth Factor Beta Receptor Signaling Pathway -> Biodomain: Immune Response, Cell Cycle, Apoptosis, Proteostasis, Autophagy
+GO Term: Positive Regulation Of Bmp Signaling Pathway -> Biodomain: Vasculature, Immune Response, Apoptosis, Cell Cycle, Proteostasis
+GO Term: Negative Regulation Of Bmp Signaling Pathway -> Biodomain: Proteostasis, Cell Cycle, Autophagy, Immune Response, Apoptosis
+GO Term: Snorna Binding -> Biodomain: RNA Spliceosome, Proteostasis, Epigenetic, Mitochondrial Metabolism, Autophagy
+GO Term: Regulation Of Axon Extension -> Biodomain: Synapse  
+Structural Stabilization  
+Cell Cycle  
+Proteostasis  
+Autophagy
+GO Term: Negative Regulation Of Axon Extension -> Biodomain: ERROR: Error code: 400 - {'error': {'message': "The length of your prompt exceeds the model's max input limit 65536. Please reduce the length of your prompt and try again.", 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+GO Term: Nuclear Receptor-Mediated Steroid Hormone Signaling Pathway -> Biodomain: Lipid Metabolism, Epigenetic, Proteostasis, Apoptosis, Autophagy
+GO Term: Estrogen Receptor Signaling Pathway -> Biodomain: Lipid Metabolism, Epigenetic, Proteostasis, Autophagy, Mitochondrial Metabolism
+GO Term: Androgen Receptor Signaling Pathway -> Biodomain: Epigenetic, Lipid Metabolism, Cell Cycle, Proteostasis, Immune Response
+GO Term: Intracellular Receptor Signaling Pathway -> Biodomain: Immune Response, Lipid Metabolism, Epigenetic, Apoptosis, Cell Cycle
+GO Term: Granulocyte Macrophage Colony-Stimulating Factor Receptor Complex -> Biodomain: Immune Response, Vasculature, Structural Stabilization, Proteostasis, Lipid Metabolism
+GO Term: Structural Constituent Of Chromatin -> Biodomain: Epigenetic, Structural Stabilization, Cell Cycle, DNA Repair, Metal Binding and Homeostasis
+GO Term: Small Nuclear Ribonucleoprotein Complex -> Biodomain: RNA Spliceosome, Proteostasis, Epigenetic, DNA Repair, Cell Cycle
+GO Term: Triplet Codon-Amino Acid Adaptor Activity -> Biodomain: Proteostasis, Mitochondrial Metabolism, RNA Spliceosome, Epigenetic, Cell Cycle
+GO Term: Adult Behavior -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Oxidative Stress, Immune Response
+GO Term: Embryonic Genitalia Morphogenesis -> Biodomain: Structural Stabilization, Apoptosis, Cell Cycle, Autophagy, Epigenetic
+GO Term: Male Genitalia Development -> Biodomain: Structural Stabilization, Epigenetic, Cell Cycle, Autophagy, Apoptosis
+GO Term: Female Genitalia Development -> Biodomain: Reproductive Process, Anatomical Structure Development, Sex Differentiation, Reproductive System Development, Multicellular Organism Development
+GO Term: Hsp70 Protein Binding -> Biodomain: Proteostasis, Oxidative Stress, Autophagy, Apoptosis, Mitochondrial Metabolism
+GO Term: Signaling Receptor Regulator Activity -> Biodomain: Immune Response, Proteostasis, Synapse, Vasculature, Apoptosis
+GO Term: Signaling Receptor Activator Activity -> Biodomain: Immune Response, Apoptosis, Synapse, Oxidative Stress, Vasculature
+GO Term: Signaling Receptor Inhibitor Activity -> Biodomain: Immune Response, Synapse, Vasculature, Apoptosis, Cell Cycle
+GO Term: Acetylcholine Receptor Regulator Activity -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Autophagy, Endolysosome
+GO Term: Acetylcholine Receptor Activator Activity -> Biodomain: Synapse, Signaling Receptor Regulator, Neurotransmission, Neuronal Signaling, Receptor Activity
+GO Term: Acetylcholine Receptor Inhibitor Activity -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Oxidative Stress, Endolysosome
+GO Term: Cyclic Nucleotide Binding -> Biodomain: Synapse, Vasculature, Immune Response, Cell Cycle, Epigenetic
+GO Term: Camp Binding -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Synapse
+GO Term: Cgmp Binding -> Biodomain: Synapse, Vasculature, Oxidative Stress, Immune Response, Cell Cycle
+GO Term: Bile Acid Catabolic Process -> Biodomain: Lipid Metabolism, Catabolic Process, Monocarboxylic Acid Metabolism, Organic Acid Metabolism, Small Molecule Metabolism
+GO Term: Collagen Catabolic Process -> Biodomain: Proteostasis, Structural Stabilization, Extracellular Matrix Organization, Vasculature, Immune Response
+GO Term: Nuclear Body Organization -> Biodomain: RNA Spliceosome, Epigenetic, DNA Repair, Cell Cycle, Proteostasis
+GO Term: Cajal Body Organization -> Biodomain: RNA Spliceosome, Epigenetic, Proteostasis, DNA Repair, Cell Cycle
+GO Term: Pml Body Organization -> Biodomain: Structural Stabilization, Proteostasis, Apoptosis, DNA Repair, Epigenetic
+GO Term: [Methionine Synthase] Reductase (Nadph) Activity -> Biodomain: Mitochondrial Metabolism, Metal Binding and Homeostasis, Proteostasis, Oxidative Stress, Epigenetic
+GO Term: Dna Adp-Ribosylation -> Biodomain: DNA Repair, Epigenetic, Proteostasis, Metal Binding and Homeostasis, Autophagy
+GO Term: Neutrophil Chemotaxis -> Biodomain: Immune Response, Apoptosis, Oxidative Stress, Autophagy, Endolysosome
+GO Term: Neurotransmitter Receptor Activity -> Biodomain: Synapse, Proteostasis, Signaling Pathways, Cell Communication, Molecular Transduction
+GO Term: Leukocyte Chemotaxis -> Biodomain: Immune Response, Vasculature, Oxidative Stress, Endolysosome, Autophagy
+GO Term: U1 Snrna Binding -> Biodomain: RNA Spliceosome, Epigenetic, Autophagy, Apoptosis, Cell Cycle
+GO Term: U2 Snrna Binding -> Biodomain: RNA Spliceosome, Epigenetic, Proteostasis, Cell Cycle, DNA Repair
+GO Term: U4 Snrna Binding -> Biodomain: RNA Spliceosome, Epigenetic, Proteostasis, Cell Cycle, DNA Repair
+GO Term: U4Atac Snrna Binding -> Biodomain: RNA Spliceosome, Proteostasis, DNA Repair, Epigenetic, APP Metabolism
+GO Term: U5 Snrna Binding -> Biodomain: RNA Spliceosome, Epigenetic, DNA Repair, Metal Binding and Homeostasis, Proteostasis
+GO Term: U6Atac Snrna Binding -> Biodomain: RNA Spliceosome, DNA Repair, Epigenetic, Autophagy, Proteostasis
+GO Term: U12 Snrna Binding -> Biodomain: RNA Spliceosome, Proteostasis, Epigenetic, DNA Repair, Autophagy
+GO Term: Pre-Mrna 5'-Splice Site Binding -> Biodomain: RNA Spliceosome, Epigenetic, DNA Repair, Cell Cycle, Proteostasis
+GO Term: Pre-Mrna 3'-Splice Site Binding -> Biodomain: RNA Spliceosome, Proteostasis, Epigenetic, DNA Repair, Autophagy
+GO Term: U6 Snrna 3'-End Binding -> Biodomain: RNA Spliceosome, RNA Binding, snRNA Binding, Nucleic Acid Binding, Binding
+GO Term: Regulation Of Cellular Ph -> Biodomain: Metal Binding and Homeostasis, Endolysosome, Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism
+GO Term: Intracellular Phosphate Ion Homeostasis -> Biodomain: Lipid Metabolism, Cell Cycle, Mitochondrial Metabolism, Proteostasis, Metal Binding and Homeostasis
+GO Term: Intracellular Chloride Ion Homeostasis -> Biodomain: Metal Binding and Homeostasis, Proteostasis, Autophagy, Oxidative Stress, Apoptosis
+GO Term: Regulation Of Vitamin Metabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Metal Binding and Homeostasis
+GO Term: Transport Vesicle Membrane -> Biodomain: Endolysosome, Proteostasis, Autophagy, Synapse, Lipid Metabolism
+GO Term: Cytoplasmic Vesicle Membrane -> Biodomain: Endolysosome, Proteostasis, Autophagy, Synapse, Lipid Metabolism
+GO Term: Golgi-Associated Vesicle Membrane -> Biodomain: Proteostasis, Endolysosome, Lipid Metabolism, Autophagy, APP Metabolism
+GO Term: Coated Vesicle Membrane -> Biodomain: Endolysosome, Proteostasis, Autophagy, Lipid Metabolism, APP Metabolism
+GO Term: Copi-Coated Vesicle Membrane -> Biodomain: Proteostasis, Endolysosome, Autophagy, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: Clathrin-Coated Vesicle Membrane -> Biodomain: Endolysosome, Proteostasis, Autophagy, Synapse, APP Metabolism
+GO Term: Endocytic Vesicle Membrane -> Biodomain: Endolysosome, Proteostasis, Autophagy, Lipid Metabolism, Structural Stabilization
+GO Term: Secretory Granule Membrane -> Biodomain: Proteostasis, Endolysosome, Synapse, Autophagy, Vasculature
+GO Term: Clathrin-Coated Endocytic Vesicle Membrane -> Biodomain: Endolysosome, Proteostasis, Autophagy, Synapse, Immune Response
+GO Term: Phagocytic Vesicle Membrane -> Biodomain: Immune Response, Endolysosome, Proteostasis, Autophagy, Apoptosis
+GO Term: Synaptic Vesicle Membrane -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Endolysosome, Autophagy
+GO Term: Axolemma -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Lipid Metabolism, Myelination
+GO Term: Protein-Macromolecule Adaptor Activity -> Biodomain: Proteostasis, Structural Stabilization, Synapse, Autophagy, Cell Cycle
+GO Term: Ribonuclease P Complex -> Biodomain: RNA Spliceosome, Metal Binding and Homeostasis, Epigenetic, Proteostasis, Structural Stabilization
+GO Term: Mitochondrial Ribonuclease P Complex -> Biodomain: Mitochondrial Metabolism, RNA Spliceosome, Proteostasis, Structural Stabilization, Autophagy
+GO Term: Multimeric Ribonuclease P Complex -> Biodomain: RNA Spliceosome, Proteostasis, Structural Stabilization, Endolysosome, Autophagy
+GO Term: Preribosome -> Biodomain: RNA Spliceosome, Proteostasis, Structural Stabilization, Autophagy, Apoptosis
+GO Term: 90S Preribosome -> Biodomain: RNA Spliceosome, Proteostasis, Structural Stabilization, Autophagy, DNA Repair
+GO Term: Preribosome, Large Subunit Precursor -> Biodomain: RNA Spliceosome, Proteostasis, Structural Stabilization, Metal Binding and Homeostasis, Lipid Metabolism
+GO Term: Preribosome, Small Subunit Precursor -> Biodomain: Proteostasis, RNA Spliceosome, Structural Stabilization, Autophagy, Cell Cycle
+GO Term: Noc1P-Noc2P Complex -> Biodomain: RNA Spliceosome, Proteostasis, Autophagy, Structural Stabilization, Endolysosome
+GO Term: Noc2P-Noc3P Complex -> Biodomain: Structural Stabilization, RNA Spliceosome, Proteostasis, Cell Cycle, Autophagy
+GO Term: Noc4P-Nop14P Complex -> Biodomain: Proteostasis, RNA Spliceosome, Structural Stabilization, Cell Cycle, Epigenetic
+GO Term: Gtpase Regulator Activity -> Biodomain: Proteostasis, Structural Stabilization, Autophagy, Cell Cycle, Endolysosome
+GO Term: Trna (Uracil(54)-C5)-Methyltransferase Activity, S-Adenosyl Methionine-Dependent -> Biodomain: Epigenetic, RNA Spliceosome, Proteostasis, Mitochondrial Metabolism, Autophagy
+GO Term: Vitelline Membrane Formation -> Biodomain: Structural Stabilization, Proteostasis, Extracellular Matrix Assembly, Cell Cycle, Endolysosome
+GO Term: Cytoskeleton-Dependent Intracellular Transport -> Biodomain: Structural Stabilization, Proteostasis, Endolysosome, Autophagy, Synapse
+GO Term: Germ-Line Stem Cell Population Maintenance -> Biodomain: Cell Cycle, Epigenetic, DNA Repair, Autophagy, Proteostasis
+GO Term: P Granule Organization -> Biodomain: Proteostasis, Synapse, Cell Cycle, Epigenetic, Autophagy
+GO Term: Ovulation -> Biodomain: Cell Cycle, Lipid Metabolism, Autophagy, Immune Response, Structural Stabilization
+GO Term: Acetoacetate-Coa Ligase Activity -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Metabolic Processes, Catalytic Activity, Biochemical Reaction
+GO Term: Triglyceride Storage -> Biodomain: Lipid Metabolism, Autophagy, Mitochondrial Metabolism, Endolysosome, Proteostasis
+GO Term: Guanidinoacetate N-Methyltransferase Activity -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Metal Binding and Homeostasis, Oxidative Stress, Proteostasis
+GO Term: Carnosine N-Methyltransferase Activity -> Biodomain: Epigenetic, Oxidative Stress, Proteostasis, Mitochondrial Metabolism, Metal Binding and Homeostasis
+GO Term: Gtp-Dependent Protein Binding -> Biodomain: Signal Transduction, Protein Trafficking, Cell Cycle, Proteostasis, Structural Stabilization
+GO Term: Amine N-Methyltransferase Activity -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Oxidative Stress, Metal Binding and Homeostasis
+GO Term: Pyridine N-Methyltransferase Activity -> Biodomain: Epigenetic, Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Oxidative Stress
+GO Term: Arsenite Methyltransferase Activity -> Biodomain: Metal Binding and Homeostasis, Oxidative Stress, Epigenetic, Proteostasis, Mitochondrial Metabolism
+GO Term: Regulation Of Actin Filament Length -> Biodomain: Structural Stabilization, Proteostasis, Synapse, Endolysosome, Autophagy
+GO Term: Regulation Of Actin Filament Polymerization -> Biodomain: Structural Stabilization, Proteostasis, Cell Cycle, Synapse, Endolysosome
+GO Term: Regulation Of Actin Filament Depolymerization -> Biodomain: Structural Stabilization  
+Proteostasis  
+Autophagy  
+Endolysosome  
+Synapse
+GO Term: Negative Regulation Of Actin Filament Depolymerization -> Biodomain: Structural Stabilization, Proteostasis, Cytoskeleton Organization, Cell Adhesion and Motility, Signal Transduction
+GO Term: Positive Regulation Of Actin Filament Depolymerization -> Biodomain: Structural Stabilization, Proteostasis, Synapse, Cell Cycle, Autophagy
+GO Term: Negative Regulation Of Actin Filament Polymerization -> Biodomain: Structural Stabilization  
+Proteostasis  
+Synapse  
+Cell Cycle  
+Autophagy
+GO Term: Positive Regulation Of Actin Filament Polymerization -> Biodomain: Structural Stabilization, Proteostasis, Cell Cycle, Synapse, Autophagy
+GO Term: Positive Regulation Of Intermediate Filament Depolymerization -> Biodomain: Proteostasis, Structural Stabilization, Autophagy, Cell Cycle, Apoptosis
+GO Term: Phospholipase C-Inhibiting G Protein-Coupled Receptor Signaling Pathway -> Biodomain: Lipid Metabolism, Proteostasis, Synapse, Apoptosis, Vasculature
+GO Term: Autosome -> Biodomain: Structural Stabilization, Cell Cycle, DNA Repair, Epigenetic, Autophagy
+GO Term: Prostate Gland Development -> Biodomain: Cell Cycle, Lipid Metabolism, Epigenetic, Structural Stabilization, Proteostasis
+GO Term: Granulocyte Differentiation -> Biodomain: Immune Response, Cell Cycle, Apoptosis, Endolysosome, Proteostasis
+GO Term: Regulation Of Granulocyte Differentiation -> Biodomain: Immune Response, Cell Cycle, Apoptosis, Autophagy, Oxidative Stress
+GO Term: Negative Regulation Of Granulocyte Differentiation -> Biodomain: ERROR: Error code: 400 - {'error': {'message': "The length of your prompt exceeds the model's max input limit 65536. Please reduce the length of your prompt and try again.", 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+GO Term: Positive Regulation Of Granulocyte Differentiation -> Biodomain: ERROR: Error code: 400 - {'error': {'message': "The length of your prompt exceeds the model's max input limit 65536. Please reduce the length of your prompt and try again.", 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+GO Term: Epithelial Cell Differentiation -> Biodomain: Cell Cycle, Epigenetic, Autophagy, Proteostasis, Structural Stabilization
+GO Term: Regulation Of Epithelial Cell Differentiation -> Biodomain: Epigenetic, Cell Cycle, Structural Stabilization, Immune Response, Proteostasis
+GO Term: Negative Regulation Of Epithelial Cell Differentiation -> Biodomain: Epigenetic, Proteostasis, Lipid Metabolism, Cell Cycle, Metal Binding and Homeostasis
+GO Term: Positive Regulation Of Epithelial Cell Differentiation -> Biodomain: Structural Stabilization, Vasculature, Immune Response, Cell Cycle, Epigenetic
+GO Term: Polarized Epithelial Cell Differentiation -> Biodomain: Structural Stabilization, Endolysosome, Proteostasis, Lipid Metabolism, Vasculature
+GO Term: Regulation Of Polarized Epithelial Cell Differentiation -> Biodomain: Structural Stabilization, Epigenetic, Proteostasis, Cell Cycle, Lipid Metabolism
+GO Term: Positive Regulation Of Polarized Epithelial Cell Differentiation -> Biodomain: Structural Stabilization  
+Vasculature  
+Immune Response  
+Endolysosome  
+Proteostasis
+GO Term: Cortical Cytoskeleton -> Biodomain: Structural Stabilization, Proteostasis, Synapse, Endolysosome, Autophagy
+GO Term: Cortical Actin Cytoskeleton -> Biodomain: Structural Stabilization, Cell Cycle, Proteostasis, Metal Binding and Homeostasis, Lipid Metabolism
+GO Term: Cortical Cytoskeleton Organization -> Biodomain: Structural Stabilization, Proteostasis, Synapse, Endolysosome, Mitochondrial Metabolism
+GO Term: Cortical Actin Cytoskeleton Organization -> Biodomain: Structural Stabilization, Proteostasis, Autophagy, Cell Cycle, Synapse
+GO Term: Rough Endoplasmic Reticulum Membrane -> Biodomain: Proteostasis, Endolysosome, Lipid Metabolism, Mitochondrial Metabolism, Structural Stabilization
+GO Term: Smooth Endoplasmic Reticulum Membrane -> Biodomain: Lipid Metabolism, Proteostasis, Endolysosome, Autophagy, Mitochondrial Metabolism
+GO Term: Mre11 Complex -> Biodomain: DNA Repair, Cell Cycle, Apoptosis, Epigenetic, Autophagy
+GO Term: Beta-Catenin Destruction Complex -> Biodomain: Proteostasis, Cell Cycle, Apoptosis, Autophagy, Structural Stabilization
+GO Term: Thyroid Gland Development -> Biodomain: Structural Stabilization, Vasculature, Metal Binding and Homeostasis, Lipid Metabolism, Cell Cycle
+GO Term: Mammary Gland Development -> Biodomain: Structural Stabilization, Cell Cycle, Vasculature, Epigenetic, Autophagy
+GO Term: Rna Polymerase Complex -> Biodomain: Epigenetic, Cell Cycle, RNA Spliceosome, Structural Stabilization, Metal Binding and Homeostasis
+GO Term: Beta-2-Microglobulin Binding -> Biodomain: Immune Response, Proteostasis, Endolysosome, Apoptosis, Metal Binding and Homeostasis
+GO Term: Lipid Antigen Binding -> Biodomain: Immune Response, Lipid Metabolism, Proteostasis, Endolysosome, Autophagy
+GO Term: Endogenous Lipid Antigen Binding -> Biodomain: Immune Response, Lipid Metabolism, Endolysosome, Proteostasis, Autophagy
+GO Term: Exogenous Lipid Antigen Binding -> Biodomain: Immune Response, Lipid Metabolism, Endolysosome, Proteostasis, Autophagy
+GO Term: Negative Regulation Of Myeloid Dendritic Cell Activation -> Biodomain: Immune Response, Apoptosis, Proteostasis, Autophagy, Lipid Metabolism
+GO Term: Positive Regulation Of Myeloid Dendritic Cell Activation -> Biodomain: Immune Response, Endolysosome, Synapse, Cell Cycle, Proteostasis
+Saved results to: Experiment/DeepSeek/01-Reference_free/03-Name_structure_similarity/Temp_0.1/go_biodomain_results_part_13.csv
+Logged runtime to: Experiment/DeepSeek/01-Reference_free/03-Name_structure_similarity/Temp_0.1/runtime_log.csv

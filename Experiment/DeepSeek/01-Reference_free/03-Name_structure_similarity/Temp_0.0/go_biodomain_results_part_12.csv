@@ -1,0 +1,625 @@
+node,nodeID,root node,root node ID,biodomain
+dibenzo-p-dioxin metabolic process,GO:0018894,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Autophagy"
+benzene metabolic process,GO:0018910,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy"
+nitrobenzene metabolic process,GO:0018916,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Endolysosome"
+nitroglycerin metabolic process,GO:0018937,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Vasculature, Lipid Metabolism, Proteostasis"
+phenol-containing compound metabolic process,GO:0018958,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Metal Binding and Homeostasis, Immune Response"
+4-nitrophenol metabolic process,GO:0018960,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Endolysosome, Autophagy"
+phthalate metabolic process,GO:0018963,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Endolysosome"
+propylene metabolic process,GO:0018964,biological_process,GO:0008150,"Lipid Metabolism, Detoxification, Metabolic Processes, Cellular Response, Chemical Metabolism"
+thiocyanate metabolic process,GO:0018969,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Metal Binding and Homeostasis, Autophagy, Proteostasis"
+guanyl nucleotide binding,GO:0019001,molecular_function,GO:0003674,"Metal Binding and Homeostasis, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Autophagy"
+GMP binding,GO:0019002,molecular_function,GO:0003674,"DNA Repair, Epigenetic, Cell Cycle, RNA Spliceosome, Mitochondrial Metabolism"
+GDP binding,GO:0019003,molecular_function,GO:0003674,"Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Autophagy, Cell Cycle"
+SCF ubiquitin ligase complex,GO:0019005,cellular_component,GO:0005575,"Proteostasis, Cell Cycle, DNA Repair, Apoptosis, Autophagy"
+establishment of viral latency,GO:0019043,biological_process,GO:0008150,"Immune Response, Apoptosis, Epigenetic, DNA Repair, Proteostasis"
+release from viral latency,GO:0019046,biological_process,GO:0008150,"Immune Response, Apoptosis, Autophagy, DNA Repair, Epigenetic"
+viral life cycle,GO:0019058,biological_process,GO:0008150,"Proteostasis, Autophagy, Endolysosome, Cell Cycle, Lipid Metabolism"
+intracellular transport of viral protein in host cell,GO:0019060,biological_process,GO:0008150,"Proteostasis, Immune Response, Autophagy, Endolysosome, APP Metabolism"
+virion attachment to host cell,GO:0019062,biological_process,GO:0008150,"Immune Response, Proteostasis, Endolysosome, Autophagy, Apoptosis"
+fusion of virus membrane with host plasma membrane,GO:0019064,biological_process,GO:0008150,"Membrane Trafficking and Fusion, Immune Response, Membrane Organization, Viral Processes, Cell Adhesion and Contact"
+receptor-mediated endocytosis of virus by host cell,GO:0019065,biological_process,GO:0008150,"Endolysosome, Immune Response, Lipid Metabolism, Autophagy, Apoptosis"
+virion assembly,GO:0019068,biological_process,GO:0008150,"Viral Processes, Structural Stabilization, Proteostasis, DNA Repair, Autophagy"
+viral RNA genome packaging,GO:0019074,biological_process,GO:0008150,"Proteostasis, Immune Response, Autophagy, Apoptosis, Lipid Metabolism"
+virus maturation,GO:0019075,biological_process,GO:0008150,"Proteostasis, Structural Stabilization, Autophagy, Endolysosome, Apoptosis"
+viral release from host cell,GO:0019076,biological_process,GO:0008150,"Immune Response, Apoptosis, Endolysosome, Autophagy, Proteostasis"
+viral genome replication,GO:0019079,biological_process,GO:0008150,"Immune Response, Apoptosis, DNA Repair, Proteostasis, Autophagy"
+viral translation,GO:0019081,biological_process,GO:0008150,"Proteostasis, Epigenetic, Immune Response, Autophagy, Oxidative Stress"
+viral protein processing,GO:0019082,biological_process,GO:0008150,"Proteostasis, Immune Response, Endolysosome, Autophagy, Apoptosis"
+viral transcription,GO:0019083,biological_process,GO:0008150,"RNA Spliceosome, Epigenetic, DNA Repair, Cell Cycle, Immune Response"
+early viral transcription,GO:0019085,biological_process,GO:0008150,"Immune Response, Epigenetic, Proteostasis, RNA Spliceosome, Apoptosis"
+late viral transcription,GO:0019086,biological_process,GO:0008150,"DNA Repair, Epigenetic, Cell Cycle, Autophagy, Apoptosis"
+reproductive behavior,GO:0019098,biological_process,GO:0008150,"Synapse, Structural Stabilization, Immune Response, Proteostasis, Epigenetic"
+male germ-line sex determination,GO:0019100,biological_process,GO:0008150,"Reproductive Process  
+Developmental Process  
+Germ Line  
+Sex Determination  
+Cell Differentiation"
+female somatic sex determination,GO:0019101,biological_process,GO:0008150,"Epigenetic, Cell Cycle, Lipid Metabolism, Autophagy, Apoptosis"
+male somatic sex determination,GO:0019102,biological_process,GO:0008150,"Reproductive Process, Developmental Process, Cell Differentiation, Cell Cycle, Epigenetic"
+pyrimidine nucleotide binding,GO:0019103,molecular_function,GO:0003674,"Mitochondrial Metabolism, Cell Cycle, DNA Repair, RNA Spliceosome, Lipid Metabolism"
+DNA N-glycosylase activity,GO:0019104,molecular_function,GO:0003674,"DNA Repair, Epigenetic, Metal Binding and Homeostasis, Proteostasis, Apoptosis"
+myristoyltransferase activity,GO:0019107,molecular_function,GO:0003674,"Lipid Metabolism, Proteostasis, Mitochondrial Metabolism, APP Metabolism, Autophagy"
+"phenanthrene-9,10-epoxide hydrolase activity",GO:0019119,molecular_function,GO:0003674,"Oxidative Stress, Lipid Metabolism, Proteostasis, Autophagy, Mitochondrial Metabolism"
+deoxyhypusine monooxygenase activity,GO:0019135,molecular_function,GO:0003674,"Oxidative Stress, Proteostasis, Metal Binding and Homeostasis, Mitochondrial Metabolism, Autophagy"
+deoxynucleoside kinase activity,GO:0019136,molecular_function,GO:0003674,"DNA Repair, Cell Cycle, Mitochondrial Metabolism, Apoptosis, Metal Binding and Homeostasis"
+ADP-sugar diphosphatase activity,GO:0019144,molecular_function,GO:0003674,"Mitochondrial Metabolism, Metal Binding and Homeostasis, Lipid Metabolism, Proteostasis, Autophagy"
+aminobutyraldehyde dehydrogenase (NAD+) activity,GO:0019145,molecular_function,GO:0003674,"Mitochondrial Metabolism, Synapse, Oxidative Stress, Lipid Metabolism, Proteostasis"
+D-ribulokinase activity,GO:0019150,molecular_function,GO:0003674,"Mitochondrial Metabolism, Metal Binding and Homeostasis, Lipid Metabolism, Autophagy, Proteostasis"
+protein-disulfide reductase (glutathione) activity,GO:0019153,molecular_function,GO:0003674,"Oxidative Stress, Proteostasis, Mitochondrial Metabolism, Apoptosis, Metal Binding and Homeostasis"
+mannokinase activity,GO:0019158,molecular_function,GO:0003674,"Mitochondrial Metabolism, Proteostasis, Autophagy, Cell Cycle, Lipid Metabolism"
+trans-2-enoyl-CoA reductase (NADPH) activity,GO:0019166,molecular_function,GO:0003674,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Autophagy"
+(3R)-hydroxyacyl-[acyl-carrier-protein] dehydratase activity,GO:0019171,molecular_function,GO:0003674,"Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Autophagy, Oxidative Stress"
+glyoxalase III activity,GO:0019172,molecular_function,GO:0003674,"Oxidative Stress, Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Apoptosis"
+NADP phosphatase activity,GO:0019178,molecular_function,GO:0003674,"Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Proteostasis, Metal Binding and Homeostasis"
+snRNA-activating protein complex,GO:0019185,cellular_component,GO:0005575,"Epigenetic, RNA Spliceosome, DNA Repair, Proteostasis, Cell Cycle"
+carbohydrate kinase activity,GO:0019200,molecular_function,GO:0003674,"Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Oxidative Stress, Autophagy"
+amino acid kinase activity,GO:0019202,molecular_function,GO:0003674,"Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Autophagy, Oxidative Stress"
+carbohydrate phosphatase activity,GO:0019203,molecular_function,GO:0003674,"Mitochondrial Metabolism, Lipid Metabolism, Metal Binding and Homeostasis, Oxidative Stress, Autophagy"
+nucleobase-containing compound kinase activity,GO:0019205,molecular_function,GO:0003674,"DNA Repair, Cell Cycle, Epigenetic, RNA Spliceosome, Proteostasis"
+nucleoside kinase activity,GO:0019206,molecular_function,GO:0003674,"Mitochondrial Metabolism, Metal Binding and Homeostasis, DNA Repair, Cell Cycle, Epigenetic"
+kinase regulator activity,GO:0019207,molecular_function,GO:0003674,"Proteostasis, Cell Cycle, Autophagy, Oxidative Stress, Mitochondrial Metabolism"
+phosphatase regulator activity,GO:0019208,molecular_function,GO:0003674,"Proteostasis, Cell Cycle, Apoptosis, Immune Response, Oxidative Stress"
+kinase activator activity,GO:0019209,molecular_function,GO:0003674,"Proteostasis, Cell Cycle, Apoptosis, Autophagy, Mitochondrial Metabolism"
+kinase inhibitor activity,GO:0019210,molecular_function,GO:0003674,"Proteostasis, Cell Cycle, Apoptosis, Autophagy, DNA Repair"
+phosphatase activator activity,GO:0019211,molecular_function,GO:0003674,"Proteostasis, Cell Cycle, Apoptosis, Immune Response, Lipid Metabolism"
+phosphatase inhibitor activity,GO:0019212,molecular_function,GO:0003674,"Proteostasis, Apoptosis, Cell Cycle, Autophagy, Synapse"
+deacetylase activity,GO:0019213,molecular_function,GO:0003674,"Proteostasis, Epigenetic, Autophagy, Apoptosis, Mitochondrial Metabolism"
+intermediate filament binding,GO:0019215,molecular_function,GO:0003674,"Structural Stabilization, Proteostasis, Autophagy, Lipid Metabolism, Apoptosis"
+regulation of lipid metabolic process,GO:0019216,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Autophagy, Oxidative Stress"
+regulation of fatty acid metabolic process,GO:0019217,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Autophagy, Oxidative Stress, Cell Cycle"
+regulation of steroid metabolic process,GO:0019218,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Epigenetic, Autophagy, Oxidative Stress"
+regulation of nucleobase-containing compound metabolic process,GO:0019219,biological_process,GO:0008150,"Proteostasis, Epigenetic, DNA Repair, Autophagy, RNA Spliceosome"
+cytokine-mediated signaling pathway,GO:0019221,biological_process,GO:0008150,"Immune Response, Apoptosis, Cell Cycle, Autophagy, Oxidative Stress"
+regulation of metabolic process,GO:0019222,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Autophagy, Oxidative Stress"
+transmission of nerve impulse,GO:0019226,biological_process,GO:0008150,"Synapse, Myelination, Metal Binding and Homeostasis, Lipid Metabolism, Structural Stabilization"
+neuronal action potential propagation,GO:0019227,biological_process,GO:0008150,"Synapse, Structural Stabilization, Proteostasis, Cell Cycle, Lipid Metabolism"
+neuronal action potential,GO:0019228,biological_process,GO:0008150,"Synapse, Structural Stabilization, Proteostasis, Autophagy, Endolysosome"
+regulation of vasoconstriction,GO:0019229,biological_process,GO:0008150,"Vasculature, Oxidative Stress, Lipid Metabolism, Metal Binding and Homeostasis, Proteostasis"
+proprioception,GO:0019230,biological_process,GO:0008150,"Synapse, Structural Stabilization, Proteostasis, Mitochondrial Metabolism, Autophagy"
+sensory perception of pain,GO:0019233,biological_process,GO:0008150,"Synapse, Immune Response, Oxidative Stress, Lipid Metabolism, Vasculature"
+response to pheromone,GO:0019236,biological_process,GO:0008150,"Immune Response, Synapse, Epigenetic, Lipid Metabolism, Proteostasis"
+centromeric DNA binding,GO:0019237,molecular_function,GO:0003674,"DNA Repair, Cell Cycle, Epigenetic, Structural Stabilization, Autophagy"
+deaminase activity,GO:0019239,molecular_function,GO:0003674,"Immune Response, Mitochondrial Metabolism, Epigenetic, Lipid Metabolism, Metal Binding and Homeostasis"
+citrulline biosynthetic process,GO:0019240,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Autophagy, Proteostasis"
+methylglyoxal biosynthetic process,GO:0019242,biological_process,GO:0008150,"Oxidative Stress, Proteostasis, Lipid Metabolism, Autophagy, Apoptosis"
+methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione,GO:0019243,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy, Lipid Metabolism"
+lactate biosynthetic process from pyruvate,GO:0019244,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Autophagy, Metal Binding and Homeostasis"
+lactate biosynthetic process,GO:0019249,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Autophagy, Cell Cycle"
+"carnitine metabolic process, CoA-linked",GO:0019254,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Amino Acid Metabolism, Metabolic Process, Cellular Process"
+glucose 1-phosphate metabolic process,GO:0019255,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Autophagy, Proteostasis"
+N-acetylneuraminate catabolic process,GO:0019262,biological_process,GO:0008150,"Endolysosome, Autophagy, Lipid Metabolism, Proteostasis, Mitochondrial Metabolism"
+glycine biosynthetic process from serine,GO:0019264,biological_process,GO:0008150,"Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Lipid Metabolism, Autophagy"
+"glycine biosynthetic process, by transamination of glyoxylate",GO:0019265,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Autophagy"
+UDP-N-acetylgalactosamine metabolic process,GO:0019276,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Endolysosome, Autophagy"
+glycine betaine biosynthetic process from choline,GO:0019285,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Oxidative Stress, Autophagy"
+"isopentenyl diphosphate biosynthetic process, mevalonate pathway",GO:0019287,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Autophagy, Oxidative Stress"
+siderophore biosynthetic process,GO:0019290,biological_process,GO:0008150,"Metal Binding and Homeostasis, Proteostasis, Immune Response, Lipid Metabolism, Mitochondrial Metabolism"
+"tyrosine biosynthetic process, by oxidation of phenylalanine",GO:0019293,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Metal Binding and Homeostasis"
+D-ribose catabolic process,GO:0019303,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Autophagy"
+inositol catabolic process,GO:0019310,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Metal Binding and Homeostasis, Autophagy, Proteostasis"
+hexose metabolic process,GO:0019318,biological_process,GO:0008150,"Mitochondrial Metabolism, Carbohydrate Metabolism, Primary Metabolic Process, Small Molecule Metabolic Process, Metabolic Process"
+hexose biosynthetic process,GO:0019319,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Autophagy, Oxidative Stress"
+pentose metabolic process,GO:0019321,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Cell Cycle, DNA Repair"
+pentose biosynthetic process,GO:0019322,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Metal Binding and Homeostasis, Oxidative Stress, Epigenetic"
+dibenzo-p-dioxin catabolic process,GO:0019341,biological_process,GO:0008150,"Oxidative Stress, Proteostasis, Endolysosome, Autophagy, Lipid Metabolism"
+cysteine biosynthetic process via cystathionine,GO:0019343,biological_process,GO:0008150,"Lipid Metabolism, Oxidative Stress, Mitochondrial Metabolism, Proteostasis, Metal Binding and Homeostasis"
+cysteine biosynthetic process,GO:0019344,biological_process,GO:0008150,"Amino Acid Metabolism, Sulfur Compound Metabolism, Small Molecule Metabolic Process, Metabolic Process, Biosynthetic Process"
+transsulfuration,GO:0019346,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Metal Binding and Homeostasis, Autophagy"
+dolichol metabolic process,GO:0019348,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Autophagy, Endolysosome"
+pyridine nucleotide biosynthetic process,GO:0019363,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Proteostasis, Epigenetic"
+"fatty acid elongation, saturated fatty acid",GO:0019367,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Autophagy, Endolysosome, Proteostasis"
+arachidonate metabolic process,GO:0019369,biological_process,GO:0008150,"Lipid Metabolism, Immune Response, Oxidative Stress, Vasculature, Mitochondrial Metabolism"
+leukotriene biosynthetic process,GO:0019370,biological_process,GO:0008150,"Lipid Metabolism, Immune Response, Oxidative Stress, Mitochondrial Metabolism, Endolysosome"
+cyclooxygenase pathway,GO:0019371,biological_process,GO:0008150,"Lipid Metabolism, Immune Response, Oxidative Stress, Vasculature, Mitochondrial Metabolism"
+lipoxygenase pathway,GO:0019372,biological_process,GO:0008150,"Lipid Metabolism, Oxidative Stress, Immune Response, Vasculature, Metal Binding and Homeostasis"
+epoxygenase P450 pathway,GO:0019373,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Vasculature, Metal Binding and Homeostasis"
+galactolipid catabolic process,GO:0019376,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Autophagy, Proteostasis, Endolysosome"
+glycolipid catabolic process,GO:0019377,biological_process,GO:0008150,"Lipid Metabolism, Autophagy, Endolysosome, Mitochondrial Metabolism, Proteostasis"
+galactose catabolic process,GO:0019388,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy, Lipid Metabolism"
+fatty acid oxidation,GO:0019395,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Autophagy, Proteostasis"
+galactitol metabolic process,GO:0019402,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Autophagy, Proteostasis"
+dolichol biosynthetic process,GO:0019408,biological_process,GO:0008150,"Lipid Metabolism, Proteostasis, Endolysosome, Autophagy, Mitochondrial Metabolism"
+acetate biosynthetic process,GO:0019413,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Epigenetic, Proteostasis, Autophagy"
+sulfur oxidation,GO:0019417,biological_process,GO:0008150,"Oxidative Stress, Metal Binding and Homeostasis, Mitochondrial Metabolism, Lipid Metabolism, Proteostasis"
+acetyl-CoA biosynthetic process from acetate,GO:0019427,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Oxidative Stress, Autophagy"
+removal of superoxide radicals,GO:0019430,biological_process,GO:0008150,"Oxidative Stress, Mitochondrial Metabolism, Metal Binding and Homeostasis, Autophagy, Apoptosis"
+triglyceride biosynthetic process,GO:0019432,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy"
+triglyceride catabolic process,GO:0019433,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Autophagy, Oxidative Stress, Endolysosome"
+L-tryptophan catabolic process to indole-3-acetate,GO:0019440,biological_process,GO:0008150,"Mitochondrial Metabolism, Proteostasis, Autophagy, Lipid Metabolism, Oxidative Stress"
+L-tryptophan catabolic process to kynurenine,GO:0019441,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Immune Response, Proteostasis, Lipid Metabolism"
+L-tryptophan catabolic process to acetyl-CoA,GO:0019442,biological_process,GO:0008150,"Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Oxidative Stress, Autophagy"
+L-cysteine catabolic process,GO:0019448,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy, Lipid Metabolism"
+L-cysteine catabolic process to hypotaurine,GO:0019449,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Metal Binding and Homeostasis"
+L-cysteine catabolic process to taurine,GO:0019452,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Metal Binding and Homeostasis, Proteostasis"
+glycine decarboxylation via glycine cleavage system,GO:0019464,biological_process,GO:0008150,"Mitochondrial Metabolism, Amino Acid Metabolism, Catabolism, Metabolism, Oxidative Stress"
+trans-4-hydroxy-L-proline catabolic process,GO:0019470,biological_process,GO:0008150,"Amino Acid Metabolism, Catabolic Process, Modified Amino Acid Metabolism, Metabolic Process, Breakdown Process"
+L-lysine catabolic process,GO:0019477,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Autophagy"
+D-amino acid catabolic process,GO:0019478,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Autophagy, Oxidative Stress"
+"L-alanine catabolic process, by transamination",GO:0019481,biological_process,GO:0008150,"Mitochondrial Metabolism, Catabolic Process, Amino Acid Metabolism, Small Molecule Metabolism, Organic Acid Metabolism"
+beta-alanine metabolic process,GO:0019482,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Metal Binding and Homeostasis, Autophagy"
+beta-alanine biosynthetic process,GO:0019483,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Oxidative Stress, Autophagy"
+L-methionine salvage from methylthioadenosine,GO:0019509,biological_process,GO:0008150,"Proteostasis, Mitochondrial Metabolism, Epigenetic, Lipid Metabolism, Oxidative Stress"
+peptidyl-proline hydroxylation,GO:0019511,biological_process,GO:0008150,"Proteostasis, Structural Stabilization, Metal Binding and Homeostasis, Autophagy, Oxidative Stress"
+L-threonine catabolic process to glycine,GO:0019518,biological_process,GO:0008150,"Mitochondrial Metabolism, Proteostasis, Autophagy, Lipid Metabolism, Oxidative Stress"
+pentitol metabolic process,GO:0019519,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Autophagy"
+D-gluconate metabolic process,GO:0019521,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Autophagy"
+taurine metabolic process,GO:0019530,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Metal Binding and Homeostasis"
+oxalate transmembrane transporter activity,GO:0019531,molecular_function,GO:0003674,"Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Endolysosome, Autophagy"
+oxalate transport,GO:0019532,biological_process,GO:0008150,"Metal Binding and Homeostasis, Lipid Metabolism, Endolysosome, Vasculature, Oxidative Stress"
+toxin transmembrane transporter activity,GO:0019534,molecular_function,GO:0003674,"Oxidative Stress, Proteostasis, Autophagy, Endolysosome, Mitochondrial Metabolism"
+protein metabolic process,GO:0019538,biological_process,GO:0008150,"Proteostasis, Autophagy, Apoptosis, Endolysosome, Mitochondrial Metabolism"
+propionate biosynthetic process,GO:0019542,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Autophagy, Oxidative Stress, Proteostasis"
+propionate catabolic process,GO:0019543,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Autophagy, Oxidative Stress, Proteostasis"
+L-arginine catabolic process to L-glutamate,GO:0019544,biological_process,GO:0008150,"Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Autophagy, Oxidative Stress"
+L-glutamate catabolic process to aspartate,GO:0019550,biological_process,GO:0008150,"Mitochondrial Metabolism, Proteostasis, Autophagy, Lipid Metabolism, Oxidative Stress"
+L-glutamate catabolic process via 2-hydroxyglutarate,GO:0019552,biological_process,GO:0008150,"Mitochondrial Metabolism, Proteostasis, Autophagy, Lipid Metabolism, Oxidative Stress"
+L-histidine catabolic process to glutamate and formamide,GO:0019556,biological_process,GO:0008150,"Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Autophagy, Oxidative Stress"
+L-histidine catabolic process to glutamate and formate,GO:0019557,biological_process,GO:0008150,"Proteostasis, Mitochondrial Metabolism, Autophagy, Lipid Metabolism, Oxidative Stress"
+glycerol catabolic process,GO:0019563,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Autophagy, Endolysosome, Proteostasis"
+butyrate metabolic process,GO:0019605,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Epigenetic, Immune Response, Apoptosis"
+2-oxobutyrate catabolic process,GO:0019606,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Autophagy, Proteostasis, Oxidative Stress"
+short-chain fatty acid catabolic process,GO:0019626,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Autophagy, Proteostasis"
+urea metabolic process,GO:0019627,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Autophagy"
+urate catabolic process,GO:0019628,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy, Apoptosis"
+organophosphate metabolic process,GO:0019637,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Autophagy, Oxidative Stress"
+D-glucuronate catabolic process to D-xylulose 5-phosphate,GO:0019640,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Endolysosome, Proteostasis"
+aerobic electron transport chain,GO:0019646,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Autophagy, Apoptosis"
+glucose catabolic process to lactate via pyruvate,GO:0019661,biological_process,GO:0008150,"Mitochondrial Metabolism, Autophagy, Endolysosome, Oxidative Stress, Proteostasis"
+GDP-mannose metabolic process,GO:0019673,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Autophagy, Proteostasis, Endolysosome"
+NAD+ metabolic process,GO:0019674,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Autophagy, Proteostasis"
+ammonia assimilation cycle,GO:0019676,biological_process,GO:0008150,"Mitochondrial Metabolism, Nitrogen Metabolism, Amino Acid Metabolism, Small Molecule Metabolism, Metabolic Pathways"
+NAD+ catabolic process,GO:0019677,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Apoptosis"
+"propionate metabolic process, methylmalonyl pathway",GO:0019678,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy"
+glyceraldehyde-3-phosphate metabolic process,GO:0019682,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Autophagy, Proteostasis"
+ribose phosphate metabolic process,GO:0019693,biological_process,GO:0008150,"Mitochondrial Metabolism, Cell Cycle, DNA Repair, RNA Spliceosome, Epigenetic"
+choline metabolic process,GO:0019695,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Synapse, Epigenetic, Myelination"
+protein-cysteine S-myristoyltransferase activity,GO:0019705,molecular_function,GO:0003674,"Lipid Metabolism, Proteostasis, Structural Stabilization, Endolysosome, Apoptosis"
+protein-cysteine S-palmitoyltransferase activity,GO:0019706,molecular_function,GO:0003674,"Lipid Metabolism, Proteostasis, Synapse, Vasculature, Immune Response"
+calcium-mediated signaling,GO:0019722,biological_process,GO:0008150,"Synapse, Apoptosis, Mitochondrial Metabolism, Oxidative Stress, Proteostasis"
+B cell mediated immunity,GO:0019724,biological_process,GO:0008150,"Immune Response, Apoptosis, Proteostasis, Autophagy, Endolysosome"
+cellular homeostasis,GO:0019725,biological_process,GO:0008150,"Proteostasis, Mitochondrial Metabolism, Autophagy, Oxidative Stress, Apoptosis"
+antimicrobial humoral response,GO:0019730,biological_process,GO:0008150,"Immune Response, Oxidative Stress, Proteostasis, Endolysosome, Autophagy"
+antibacterial humoral response,GO:0019731,biological_process,GO:0008150,"Immune Response, Endolysosome, Autophagy, Proteostasis, Apoptosis"
+antifungal humoral response,GO:0019732,biological_process,GO:0008150,"Immune Response, Defense Response, Response to External Biotic Stimulus, Response to Biotic Stimulus, Response to Stress"
+nitrogen utilization,GO:0019740,biological_process,GO:0008150,"Proteostasis, Autophagy, Epigenetic, Endolysosome, Lipid Metabolism"
+pentacyclic triterpenoid metabolic process,GO:0019742,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Autophagy, Proteostasis"
+regulation of isoprenoid metabolic process,GO:0019747,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Autophagy, Apoptosis"
+secondary metabolic process,GO:0019748,biological_process,GO:0008150,"Lipid Metabolism, Immune Response, Structural Stabilization, Epigenetic, Metal Binding and Homeostasis"
+carboxylic acid metabolic process,GO:0019752,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Autophagy, Oxidative Stress, Proteostasis"
+one-carbon compound transport,GO:0019755,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Epigenetic, DNA Repair, APP Metabolism"
+immunoglobulin receptor activity,GO:0019763,molecular_function,GO:0003674,"Immune Response, Proteostasis, Structural Stabilization, Endolysosome, Apoptosis"
+IgA receptor activity,GO:0019766,molecular_function,GO:0003674,"Immune Response, Signaling, Receptor, Immunity, Cell Surface"
+IgE receptor activity,GO:0019767,molecular_function,GO:0003674,"Immune Response, Proteostasis, Endolysosome, Apoptosis, Lipid Metabolism"
+high-affinity IgE receptor activity,GO:0019768,molecular_function,GO:0003674,"Immune Response, Signaling, Receptor Activity, Immunoglobulin Binding, Cell Surface"
+low-affinity IgE receptor activity,GO:0019769,molecular_function,GO:0003674,"Immune Response, Proteostasis, Structural Stabilization, Apoptosis, Endolysosome"
+IgG receptor activity,GO:0019770,molecular_function,GO:0003674,"Immune Response, Proteostasis, Apoptosis, Endolysosome, Vasculature"
+high-affinity IgG receptor activity,GO:0019771,molecular_function,GO:0003674,"Immune Response, Proteostasis, Synapse, Structural Stabilization, Vasculature"
+low-affinity IgG receptor activity,GO:0019772,molecular_function,GO:0003674,"Immune Response, Endolysosome, Apoptosis, Proteostasis, Autophagy"
+"proteasome core complex, alpha-subunit complex",GO:0019773,cellular_component,GO:0005575,"Proteostasis, Autophagy, Endolysosome, Immune Response, Apoptosis"
+"proteasome core complex, beta-subunit complex",GO:0019774,cellular_component,GO:0005575,"Proteostasis, Autophagy, Apoptosis, Endolysosome, Structural Stabilization"
+Atg8-family ligase activity,GO:0019776,molecular_function,GO:0003674,"Autophagy, Proteostasis, Lipid Metabolism, Endolysosome, Apoptosis"
+Atg12 transferase activity,GO:0019777,molecular_function,GO:0003674,"Autophagy, Proteostasis, Ubiquitin-Protein Ligase Activity, Oxidative Stress, Endolysosome"
+Atg12 activating enzyme activity,GO:0019778,molecular_function,GO:0003674,"Autophagy, Proteostasis, Mitochondrial Metabolism, Metal Binding and Homeostasis, Apoptosis"
+Atg8 activating enzyme activity,GO:0019779,molecular_function,GO:0003674,"Autophagy, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Endolysosome"
+FAT10 activating enzyme activity,GO:0019780,molecular_function,GO:0003674,"Proteostasis, Autophagy, Apoptosis, Immune Response, Cell Cycle"
+NEDD8 activating enzyme activity,GO:0019781,molecular_function,GO:0003674,"Proteostasis, Autophagy, Apoptosis, Cell Cycle, Endolysosome"
+ISG15 activating enzyme activity,GO:0019782,molecular_function,GO:0003674,"Immune Response, Proteostasis, Autophagy, Oxidative Stress, Apoptosis"
+ubiquitin-like protein peptidase activity,GO:0019783,molecular_function,GO:0003674,"Proteostasis, Autophagy, Immune Response, DNA Repair, Apoptosis"
+deNEDDylase activity,GO:0019784,molecular_function,GO:0003674,"Proteostasis, Autophagy, Ubiquitin Proteasome System, Mitochondrial Metabolism, Oxidative Stress"
+ISG15-specific peptidase activity,GO:0019785,molecular_function,GO:0003674,"Proteostasis, Immune Response, Autophagy, Oxidative Stress, Apoptosis"
+protein-phosphatidylethanolamide deconjugating activity,GO:0019786,molecular_function,GO:0003674,"Autophagy, Lipid Metabolism, Proteostasis, Endolysosome, Mitochondrial Metabolism"
+ubiquitin-like protein transferase activity,GO:0019787,molecular_function,GO:0003674,"Proteostasis, Autophagy, Endolysosome, Apoptosis, Immune Response"
+NEDD8 transferase activity,GO:0019788,molecular_function,GO:0003674,"Proteostasis, Autophagy, Apoptosis, Cell Cycle, Epigenetic"
+SUMO transferase activity,GO:0019789,molecular_function,GO:0003674,"Proteostasis, DNA Repair, Epigenetic, Autophagy, Cell Cycle"
+procollagen-proline 3-dioxygenase activity,GO:0019797,molecular_function,GO:0003674,"Structural Stabilization, Proteostasis, Oxidative Stress, Mitochondrial Metabolism, Lipid Metabolism"
+tubulin N-acetyltransferase activity,GO:0019799,molecular_function,GO:0003674,"Structural Stabilization, Proteostasis, Tau Homeostasis, Autophagy, Cell Cycle"
+quinolinate biosynthetic process,GO:0019805,biological_process,GO:0008150,"Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Metal Binding and Homeostasis, Proteostasis"
+aspartoacylase activity,GO:0019807,molecular_function,GO:0003674,"Lipid Metabolism, Myelination, Mitochondrial Metabolism, Proteostasis, Structural Stabilization"
+polyamine binding,GO:0019808,molecular_function,GO:0003674,"Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Oxidative Stress, Apoptosis"
+spermidine binding,GO:0019809,molecular_function,GO:0003674,"Autophagy, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Metal Binding and Homeostasis"
+putrescine binding,GO:0019810,molecular_function,GO:0003674,"Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy, Metal Binding and Homeostasis"
+cocaine binding,GO:0019811,molecular_function,GO:0003674,"Synapse, Oxidative Stress, Apoptosis, Vasculature, Immune Response"
+immunoglobulin complex,GO:0019814,cellular_component,GO:0005575,"Immune Response, Proteostasis, Structural Stabilization, Metal Binding and Homeostasis, Endolysosome"
+B cell receptor complex,GO:0019815,cellular_component,GO:0005575,"Immune Response, Synapse, Structural Stabilization, Proteostasis, Vasculature"
+oxygen binding,GO:0019825,molecular_function,GO:0003674,"Mitochondrial Metabolism, Oxidative Stress, Metal Binding and Homeostasis, Lipid Metabolism, Proteostasis"
+oxygen sensor activity,GO:0019826,molecular_function,GO:0003674,"Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Metal Binding and Homeostasis, Autophagy"
+stem cell population maintenance,GO:0019827,biological_process,GO:0008150,"Cell Cycle, Epigenetic, Autophagy, Apoptosis, Proteostasis"
+aspartic-type endopeptidase inhibitor activity,GO:0019828,molecular_function,GO:0003674,"Proteostasis, Autophagy, Endolysosome, Apoptosis, Immune Response"
+ATPase-coupled monoatomic cation transmembrane transporter activity,GO:0019829,molecular_function,GO:0003674,"Metal Binding and Homeostasis, Mitochondrial Metabolism, Endolysosome, Proteostasis, Autophagy"
+phospholipase A2 inhibitor activity,GO:0019834,molecular_function,GO:0003674,"Lipid Metabolism, Immune Response, Oxidative Stress, Mitochondrial Metabolism, Apoptosis"
+cytolysis,GO:0019835,biological_process,GO:0008150,"Apoptosis, Proteostasis, Autophagy, Immune Response, Endolysosome"
+growth factor binding,GO:0019838,molecular_function,GO:0003674,"Proteostasis, Immune Response, Cell Cycle, Apoptosis, Lipid Metabolism"
+isoprenoid binding,GO:0019840,molecular_function,GO:0003674,"Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy"
+retinol binding,GO:0019841,molecular_function,GO:0003674,"Lipid Metabolism, Vitamin Binding, Small Molecule Binding, Lipid Binding, Metal Binding and Homeostasis"
+vitamin binding,GO:0019842,molecular_function,GO:0003674,"Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Metal Binding and Homeostasis"
+rRNA binding,GO:0019843,molecular_function,GO:0003674,"Mitochondrial Metabolism, Structural Stabilization, Metal Binding and Homeostasis, Proteostasis, RNA Spliceosome"
+L-ascorbic acid metabolic process,GO:0019852,biological_process,GO:0008150,"Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Proteostasis, Metal Binding and Homeostasis"
+calcium channel inhibitor activity,GO:0019855,molecular_function,GO:0003674,"Synapse, Vasculature, Metal Binding and Homeostasis, Cell Cycle, Oxidative Stress"
+pyrimidine nucleobase biosynthetic process,GO:0019856,biological_process,GO:0008150,"Mitochondrial Metabolism, Cell Cycle, DNA Repair, Metal Binding and Homeostasis, Epigenetic"
+cytosine metabolic process,GO:0019858,biological_process,GO:0008150,"Epigenetic, DNA Repair, RNA Spliceosome, Autophagy, Proteostasis"
+thymine metabolic process,GO:0019859,biological_process,GO:0008150,"DNA Repair, Mitochondrial Metabolism, Cell Cycle, Oxidative Stress, Epigenetic"
+IgA binding,GO:0019862,molecular_function,GO:0003674,"Immune Response, Proteostasis, Structural Stabilization, Endolysosome, Autophagy"
+IgE binding,GO:0019863,molecular_function,GO:0003674,"Immune Response, Proteostasis, Endolysosome, Autophagy, Structural Stabilization"
+IgG binding,GO:0019864,molecular_function,GO:0003674,"Immune Response, Proteostasis, APP Metabolism, Endolysosome, Lipid Metabolism"
+immunoglobulin binding,GO:0019865,molecular_function,GO:0003674,"Immune Response, Proteostasis, Endolysosome, Lipid Metabolism, Autophagy"
+organelle inner membrane,GO:0019866,cellular_component,GO:0005575,"Mitochondrial Metabolism, Lipid Metabolism, Autophagy, Apoptosis, Structural Stabilization"
+outer membrane,GO:0019867,cellular_component,GO:0005575,"Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Autophagy, Apoptosis"
+chloride channel inhibitor activity,GO:0019869,molecular_function,GO:0003674,"Synapse, Structural Stabilization, Endolysosome, Vasculature, Proteostasis"
+potassium channel inhibitor activity,GO:0019870,molecular_function,GO:0003674,"Synapse, Vasculature, Myelination, Structural Stabilization, Oxidative Stress"
+sodium channel inhibitor activity,GO:0019871,molecular_function,GO:0003674,"Synapse, Structural Stabilization, Proteostasis, Oxidative Stress, Autophagy"
+antigen processing and presentation,GO:0019882,biological_process,GO:0008150,"Immune Response, Proteostasis, Endolysosome, Autophagy, Apoptosis"
+antigen processing and presentation of endogenous antigen,GO:0019883,biological_process,GO:0008150,"Immune Response, Endolysosome, Proteostasis, Autophagy, Apoptosis"
+antigen processing and presentation of exogenous antigen,GO:0019884,biological_process,GO:0008150,"Immune Response, Proteostasis, Endolysosome, Apoptosis, Lipid Metabolism"
+antigen processing and presentation of endogenous peptide antigen via MHC class I,GO:0019885,biological_process,GO:0008150,"Immune Response, Endolysosome, Autophagy, Proteostasis, Apoptosis"
+antigen processing and presentation of exogenous peptide antigen via MHC class II,GO:0019886,biological_process,GO:0008150,"Immune Response, Endolysosome, Proteostasis, Autophagy, Apoptosis"
+protein kinase regulator activity,GO:0019887,molecular_function,GO:0003674,"Proteostasis, Cell Cycle, Apoptosis, Immune Response, Autophagy"
+protein phosphatase regulator activity,GO:0019888,molecular_function,GO:0003674,"Proteostasis, Cell Cycle, Autophagy, Apoptosis, Epigenetic"
+kinesin binding,GO:0019894,molecular_function,GO:0003674,"Structural Stabilization, Endolysosome, Proteostasis, Cell Cycle, Synapse"
+axonal transport of mitochondrion,GO:0019896,biological_process,GO:0008150,"Mitochondrial Metabolism, Synapse, Structural Stabilization, Proteostasis, Autophagy"
+extrinsic component of plasma membrane,GO:0019897,cellular_component,GO:0005575,"Structural Stabilization, Proteostasis, Lipid Metabolism, Apoptosis, Metal Binding and Homeostasis"
+extrinsic component of membrane,GO:0019898,cellular_component,GO:0005575,"Structural Stabilization, Proteostasis, Lipid Metabolism, Mitochondrial Metabolism, Synapse"
+enzyme binding,GO:0019899,molecular_function,GO:0003674,"Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Autophagy, Oxidative Stress"
+kinase binding,GO:0019900,molecular_function,GO:0003674,"Proteostasis, Cell Cycle, Immune Response, Autophagy, Apoptosis"
+protein kinase binding,GO:0019901,molecular_function,GO:0003674,"Proteostasis, Cell Cycle, Apoptosis, Autophagy, Epigenetic"
+phosphatase binding,GO:0019902,molecular_function,GO:0003674,"Proteostasis, Cell Cycle, DNA Repair, Apoptosis, Epigenetic"
+protein phosphatase binding,GO:0019903,molecular_function,GO:0003674,"Proteostasis, Apoptosis, Cell Cycle, Immune Response, Tau Homeostasis"
+protein domain specific binding,GO:0019904,molecular_function,GO:0003674,"Proteostasis, Structural Stabilization, Autophagy, Epigenetic, Synapse"
+syntaxin binding,GO:0019905,molecular_function,GO:0003674,"Synapse, Proteostasis, Endolysosome, Autophagy, Structural Stabilization"
+nuclear cyclin-dependent protein kinase holoenzyme complex,GO:0019908,cellular_component,GO:0005575,"Cell Cycle, DNA Repair, Apoptosis, Epigenetic, Proteostasis"
+structural constituent of myelin sheath,GO:0019911,molecular_function,GO:0003674,"Myelination, Structural Stabilization, Synapse, Lipid Metabolism, Proteostasis"
+cyclin-dependent protein kinase regulator activity,GO:0019914,molecular_function,GO:0003674,"Cell Cycle, Proteostasis, Epigenetic, Apoptosis, DNA Repair"
+lipid storage,GO:0019915,biological_process,GO:0008150,"Lipid Metabolism, Mitochondrial Metabolism, Myelination, Autophagy, Oxidative Stress"
+"peptidyl-arginine methylation, to symmetrical-dimethyl arginine",GO:0019918,biological_process,GO:0008150,"Proteostasis, Epigenetic, Protein Metabolic Process, Macromolecule Metabolic Process, Autophagy"
+cAMP-mediated signaling,GO:0019933,biological_process,GO:0008150,"Synapse, Vasculature, Immune Response, Lipid Metabolism, Cell Cycle"
+cGMP-mediated signaling,GO:0019934,biological_process,GO:0008150,"Vasculature, Oxidative Stress, Lipid Metabolism, Proteostasis, Synapse"
+modification-dependent protein catabolic process,GO:0019941,biological_process,GO:0008150,"Proteostasis, Autophagy, Endolysosome, Apoptosis, Oxidative Stress"
+SUMO activating enzyme activity,GO:0019948,molecular_function,GO:0003674,"Proteostasis, Autophagy, Mitochondrial Metabolism, Oxidative Stress, Apoptosis"
+sexual reproduction,GO:0019953,biological_process,GO:0008150,"Cell Cycle, DNA Repair, Epigenetic, Proteostasis, Autophagy"
+cytokine binding,GO:0019955,molecular_function,GO:0003674,"Immune Response, Apoptosis, Oxidative Stress, Endolysosome, Autophagy"
+chemokine binding,GO:0019956,molecular_function,GO:0003674,"Immune Response, Vasculature, Proteostasis, Lipid Metabolism, Metal Binding and Homeostasis"
+C-C chemokine binding,GO:0019957,molecular_function,GO:0003674,"Immune Response, Proteostasis, Vasculature, Apoptosis, Endolysosome"
+C-X-C chemokine binding,GO:0019958,molecular_function,GO:0003674,"Immune Response, Vasculature, Apoptosis, Proteostasis, Endolysosome"
+interleukin-8 binding,GO:0019959,molecular_function,GO:0003674,"Immune Response, Proteostasis, Apoptosis, Autophagy, Vasculature"
+C-X3-C chemokine binding,GO:0019960,molecular_function,GO:0003674,"Immune Response, Proteostasis, Endolysosome, Apoptosis, Vasculature"
+type I interferon binding,GO:0019962,molecular_function,GO:0003674,"Immune Response, Proteostasis, Apoptosis, Autophagy, Oxidative Stress"
+type II interferon binding,GO:0019964,molecular_function,GO:0003674,"Immune Response, Apoptosis, Oxidative Stress, Proteostasis, Autophagy"
+interleukin-1 binding,GO:0019966,molecular_function,GO:0003674,"Immune Response, Cytokine Signaling Pathway, Inflammation, Proteostasis, Protein Aggregation"
+interleukin-10 binding,GO:0019969,molecular_function,GO:0003674,"Immune Response, Proteostasis, Endolysosome, Autophagy, Apoptosis"
+interleukin-11 binding,GO:0019970,molecular_function,GO:0003674,"Immune Response, Proteostasis, Cytokine Binding, Endolysosome, Lipid Metabolism"
+interleukin-2 binding,GO:0019976,molecular_function,GO:0003674,"Immune Response, Growth Factor Binding, Protein Binding, Cell Cycle, Apoptosis"
+interleukin-6 binding,GO:0019981,molecular_function,GO:0003674,"Immune Response, Apoptosis, Oxidative Stress, Proteostasis, Lipid Metabolism"
+interleukin-9 binding,GO:0019983,molecular_function,GO:0003674,"Immune Response, Proteostasis, Apoptosis, Vasculature, Oxidative Stress"
+translesion synthesis,GO:0019985,biological_process,GO:0008150,"DNA Repair, Oxidative Stress, Cell Cycle, Epigenetic, Autophagy"
+diacylglycerol binding,GO:0019992,molecular_function,GO:0003674,"Lipid Metabolism, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Endolysosome"
+symbiont-containing vacuole,GO:0020003,cellular_component,GO:0005575,"Immune Response, Autophagy, Endolysosome, Proteostasis, Apoptosis"
+ciliary pocket membrane,GO:0020018,cellular_component,GO:0005575,"Structural Stabilization, Synapse, Proteostasis, Endolysosome, Vasculature"
+hemoglobin metabolic process,GO:0020027,biological_process,GO:0008150,"Proteostasis, Metal Binding and Homeostasis, Endolysosome, Autophagy, Oxidative Stress"
+heme binding,GO:0020037,molecular_function,GO:0003674,"Mitochondrial Metabolism, Oxidative Stress, Metal Binding and Homeostasis, Lipid Metabolism, Proteostasis"
+prechordal plate formation,GO:0021501,biological_process,GO:0008150,"Structural Stabilization, Cell Cycle, Epigenetic, Autophagy, Synapse"
+neural fold elevation formation,GO:0021502,biological_process,GO:0008150,"Structural Stabilization  
+Cell Cycle  
+Endolysosome  
+Apoptosis  
+Lipid Metabolism"
+neural fold bending,GO:0021503,biological_process,GO:0008150,"Developmental, Neurogenesis, Cell Morphogenesis, Tissue Morphology, Embryogenesis"
+floor plate formation,GO:0021508,biological_process,GO:0008150,"Structural Stabilization  
+Myelination  
+Cell Cycle  
+Endolysosome  
+Lipid Metabolism"
+roof plate formation,GO:0021509,biological_process,GO:0008150,"Structural Stabilization  
+Synapse  
+Myelination  
+Vasculature  
+Cell Cycle"
+spinal cord development,GO:0021510,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Endolysosome, Vasculature"
+spinal cord patterning,GO:0021511,biological_process,GO:0008150,"Structural Stabilization, Synapse, Myelination, Vasculature, Immune Response"
+spinal cord anterior/posterior patterning,GO:0021512,biological_process,GO:0008150,"Structural Stabilization, Synapse, Myelination, Cell Cycle, Autophagy"
+spinal cord dorsal/ventral patterning,GO:0021513,biological_process,GO:0008150,"Structural Stabilization, Synapse, Myelination, Cell Cycle, Autophagy"
+ventral spinal cord interneuron differentiation,GO:0021514,biological_process,GO:0008150,"Synapse, Cell Cycle, Structural Stabilization, Proteostasis, Autophagy"
+cell differentiation in spinal cord,GO:0021515,biological_process,GO:0008150,"Myelination  
+Synapse  
+Epigenetic  
+Proteostasis  
+Cell Cycle"
+dorsal spinal cord development,GO:0021516,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Autophagy"
+ventral spinal cord development,GO:0021517,biological_process,GO:0008150,"Structural Stabilization, Myelination, Cell Cycle, Epigenetic, Synapse"
+spinal cord motor neuron cell fate specification,GO:0021520,biological_process,GO:0008150,"Epigenetic, Cell Cycle, Synapse, Proteostasis, Myelination"
+ventral spinal cord interneuron specification,GO:0021521,biological_process,GO:0008150,"Synapse, Structural Stabilization, Cell Cycle, Autophagy, Proteostasis"
+spinal cord motor neuron differentiation,GO:0021522,biological_process,GO:0008150,"Synapse, Structural Stabilization, Proteostasis, Cell Cycle, Myelination"
+somatic motor neuron differentiation,GO:0021523,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Proteostasis, Autophagy"
+visceral motor neuron differentiation,GO:0021524,biological_process,GO:0008150,"Synapse, Structural Stabilization, Proteostasis, Autophagy, Cell Cycle"
+medial motor column neuron differentiation,GO:0021526,biological_process,GO:0008150,"Synapse, Structural Stabilization, Autophagy, Proteostasis, Cell Cycle"
+spinal cord association neuron differentiation,GO:0021527,biological_process,GO:0008150,"Synapse, Structural Stabilization, Cell Cycle, Myelination, Autophagy"
+commissural neuron differentiation in spinal cord,GO:0021528,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Cell Cycle, Epigenetic"
+spinal cord oligodendrocyte cell differentiation,GO:0021529,biological_process,GO:0008150,"Myelination, Structural Stabilization, Lipid Metabolism, Cell Cycle, Epigenetic"
+spinal cord oligodendrocyte cell fate specification,GO:0021530,biological_process,GO:0008150,"Myelination, Cell Cycle, Epigenetic, RNA Spliceosome, DNA Repair"
+neural tube patterning,GO:0021532,biological_process,GO:0008150,"Epigenetic, Cell Cycle, Structural Stabilization, Apoptosis, Synapse"
+cell differentiation in hindbrain,GO:0021533,biological_process,GO:0008150,"Synapse, Myelination, Cell Cycle, Structural Stabilization, Autophagy"
+cell migration in hindbrain,GO:0021535,biological_process,GO:0008150,"Structural Stabilization, Synapse, Myelination, Cell Cycle, Autophagy"
+diencephalon development,GO:0021536,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Vasculature, Endolysosome"
+telencephalon development,GO:0021537,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Cell Cycle, Epigenetic"
+subthalamus development,GO:0021539,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Cell Cycle, Autophagy"
+corpus callosum morphogenesis,GO:0021540,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Cell Cycle, Proteostasis"
+ammon gyrus development,GO:0021541,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Proteostasis, Endolysosome"
+dentate gyrus development,GO:0021542,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Epigenetic, Cell Cycle"
+pallium development,GO:0021543,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Autophagy"
+subpallium development,GO:0021544,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Cell Cycle, Autophagy"
+cranial nerve development,GO:0021545,biological_process,GO:0008150,"Synapse, Nervous System Development, Structural Stabilization, Sensory, Motor"
+rhombomere development,GO:0021546,biological_process,GO:0008150,"Structural Stabilization  
+Synapse  
+Myelination  
+Apoptosis  
+Cell Cycle"
+midbrain-hindbrain boundary initiation,GO:0021547,biological_process,GO:0008150,"Synapse, Structural Stabilization, Epigenetic, Proteostasis, Autophagy"
+pons development,GO:0021548,biological_process,GO:0008150,"Structural Stabilization  
+Myelination  
+Cell Cycle  
+Synapse  
+Endolysosome"
+cerebellum development,GO:0021549,biological_process,GO:0008150,"Myelination
+Cell Cycle
+Epigenetic
+Structural Stabilization
+Synapse"
+central nervous system morphogenesis,GO:0021551,biological_process,GO:0008150,"Myelination, Structural Stabilization, Synapse, Cell Cycle, Epigenetic"
+olfactory nerve development,GO:0021553,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Nervous System Development, Developmental Process"
+optic nerve development,GO:0021554,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Vasculature, Nervous System Development"
+midbrain-hindbrain boundary morphogenesis,GO:0021555,biological_process,GO:0008150,"Developmental Process, Neural Development, Embryonic Development, Pattern Specification, Structural Stabilization"
+central nervous system formation,GO:0021556,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Endolysosome, Autophagy"
+oculomotor nerve development,GO:0021557,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Autophagy, Endolysosome"
+trochlear nerve development,GO:0021558,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Vasculature"
+trigeminal nerve development,GO:0021559,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Proteostasis"
+vestibulocochlear nerve development,GO:0021562,biological_process,GO:0008150,"Structural Stabilization, Synapse, Vasculature, Cell Cycle, Proteostasis"
+glossopharyngeal nerve development,GO:0021563,biological_process,GO:0008150,"Structural Stabilization, Myelination, Synapse, Vasculature, Proteostasis"
+vagus nerve development,GO:0021564,biological_process,GO:0008150,"Synapse, Vasculature, Structural Stabilization, Myelination, Proteostasis"
+rhombomere 2 development,GO:0021568,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Cell Cycle, Vasculature"
+rhombomere 3 development,GO:0021569,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Cell Cycle, Immune Response"
+rhombomere 4 development,GO:0021570,biological_process,GO:0008150,"Synapse, Structural Stabilization, Cell Cycle, Myelination, Autophagy"
+rhombomere 5 development,GO:0021571,biological_process,GO:0008150,"Synapse, Structural Stabilization, Epigenetic, Cell Cycle, Autophagy"
+rhombomere 6 development,GO:0021572,biological_process,GO:0008150,"Structural Stabilization, Cell Cycle, Epigenetic, DNA Repair, RNA Spliceosome"
+hindbrain morphogenesis,GO:0021575,biological_process,GO:0008150,"Structural Stabilization  
+Myelination  
+Cell Cycle  
+Epigenetic  
+Synapse"
+cerebellum morphogenesis,GO:0021587,biological_process,GO:0008150,"Structural Stabilization, Cell Cycle, Myelination, Synapse, Autophagy"
+cerebellum formation,GO:0021588,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Cell Cycle, Autophagy"
+cerebellum structural organization,GO:0021589,biological_process,GO:0008150,"Structural Stabilization, Synapse, Myelination, Vasculature, Immune Response"
+ventricular system development,GO:0021591,biological_process,GO:0008150,"Structural Stabilization, Synapse, Vasculature, Myelination, Proteostasis"
+fourth ventricle development,GO:0021592,biological_process,GO:0008150,"Structural Stabilization, Synapse, Myelination, Vasculature, Immune Response"
+abducens nerve formation,GO:0021599,biological_process,GO:0008150,"Structural Stabilization, Myelination, Synapse, Cell Cycle, Autophagy"
+cranial nerve morphogenesis,GO:0021602,biological_process,GO:0008150,"Synapse, Structural Stabilization, Vasculature, Myelination, Endolysosome"
+facial nerve morphogenesis,GO:0021610,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Vasculature, Autophagy"
+facial nerve structural organization,GO:0021612,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Vasculature, Immune Response"
+glossopharyngeal nerve morphogenesis,GO:0021615,biological_process,GO:0008150,"Structural Stabilization, Myelination, Synapse, Proteostasis, Mitochondrial Metabolism"
+hypoglossal nerve morphogenesis,GO:0021618,biological_process,GO:0008150,"Structural Stabilization, Myelination, Cell Cycle, Apoptosis, Proteostasis"
+oculomotor nerve formation,GO:0021623,biological_process,GO:0008150,"Synapse, Autonomic Nervous System, Structural Stabilization, Neurogenesis, Developmental Process"
+central nervous system maturation,GO:0021626,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Cell Cycle, Endolysosome"
+olfactory nerve formation,GO:0021628,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Vasculature"
+olfactory nerve maturation,GO:0021630,biological_process,GO:0008150,"Myelination, Structural Stabilization, Synapse, Proteostasis, Lipid Metabolism"
+optic nerve morphogenesis,GO:0021631,biological_process,GO:0008150,"Myelination, Structural Stabilization, Synapse, Lipid Metabolism, Cell Cycle"
+optic nerve structural organization,GO:0021633,biological_process,GO:0008150,"Structural Stabilization, Myelination, Synapse, Vasculature, Cell Cycle"
+trigeminal nerve morphogenesis,GO:0021636,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Proteostasis"
+trigeminal nerve structural organization,GO:0021637,biological_process,GO:0008150,"Structural Stabilization, Synapse, Myelination, Cell Cycle, Vasculature"
+trochlear nerve formation,GO:0021642,biological_process,GO:0008150,"Synapse, Structural Stabilization, Vasculature, Myelination, Cell Cycle"
+vagus nerve morphogenesis,GO:0021644,biological_process,GO:0008150,"Synapse, Structural Stabilization, Vasculature, Immune Response, Autophagy"
+vestibulocochlear nerve maturation,GO:0021647,biological_process,GO:0008150,"Synapse  
+Structural Stabilization  
+Myelination  
+Proteostasis  
+Autophagy"
+vestibulocochlear nerve structural organization,GO:0021649,biological_process,GO:0008150,"Structural Stabilization  
+Nervous System Development  
+Developmental Process  
+Synapse  
+Myelination"
+vestibulocochlear nerve formation,GO:0021650,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Vasculature, Endolysosome"
+rhombomere 3 morphogenesis,GO:0021658,biological_process,GO:0008150,"Structural Stabilization, Synapse, Myelination, Cell Cycle, Proteostasis"
+rhombomere 3 structural organization,GO:0021659,biological_process,GO:0008150,"Structural Stabilization, Epigenetic, Synapse, Cell Cycle, Autophagy"
+rhombomere 3 formation,GO:0021660,biological_process,GO:0008150,"Structural Stabilization  
+Synapse  
+Cell Cycle  
+Apoptosis  
+Autophagy"
+rhombomere 5 structural organization,GO:0021665,biological_process,GO:0008150,"Structural Stabilization, Synapse, Myelination, Vasculature, Cell Cycle"
+rhombomere 5 formation,GO:0021666,biological_process,GO:0008150,"Structural Stabilization, Synapse, Epigenetic, Cell Cycle, Apoptosis"
+lateral ventricle development,GO:0021670,biological_process,GO:0008150,"Structural Stabilization, Synapse, Vasculature, Endolysosome, Proteostasis"
+nerve development,GO:0021675,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Proteostasis, Autophagy"
+third ventricle development,GO:0021678,biological_process,GO:0008150,"Structural Stabilization, Apoptosis, Epigenetic, Cell Cycle, Lipid Metabolism"
+cerebellar Purkinje cell layer development,GO:0021680,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Proteostasis"
+cerebellar granular layer development,GO:0021681,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Autophagy"
+nerve maturation,GO:0021682,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Proteostasis, Cell Cycle"
+cerebellar granular layer morphogenesis,GO:0021683,biological_process,GO:0008150,"Synapse, Structural Stabilization, Cell Cycle, Myelination, Immune Response"
+cerebellar granular layer structural organization,GO:0021685,biological_process,GO:0008150,"Structural Stabilization  
+Synapse  
+Cell Cycle  
+Myelination  
+Vasculature"
+cerebellar granular layer maturation,GO:0021686,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Proteostasis"
+cerebellar molecular layer morphogenesis,GO:0021687,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Endolysosome"
+cerebellar molecular layer formation,GO:0021688,biological_process,GO:0008150,"Synapse, Structural Stabilization, Cell Cycle, Epigenetic, Tau Homeostasis"
+cerebellar Purkinje cell layer maturation,GO:0021691,biological_process,GO:0008150,"Synapse, Structural Stabilization, Epigenetic, Autophagy, Proteostasis"
+cerebellar Purkinje cell layer morphogenesis,GO:0021692,biological_process,GO:0008150,"Synapse  
+Structural Stabilization  
+Myelination  
+Proteostasis  
+Autophagy"
+cerebellar Purkinje cell layer structural organization,GO:0021693,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Autophagy"
+cerebellar Purkinje cell layer formation,GO:0021694,biological_process,GO:0008150,"Structural Stabilization, Synapse, Neurogenesis, Developmental Biology, Cellular Differentiation"
+cerebellar cortex development,GO:0021695,biological_process,GO:0008150,"Synapse, Structural Stabilization, Cell Cycle, Myelination, Proteostasis"
+cerebellar cortex morphogenesis,GO:0021696,biological_process,GO:0008150,"Structural Stabilization, Synapse, Myelination, Apoptosis, Autophagy"
+cerebellar cortex formation,GO:0021697,biological_process,GO:0008150,"Synapse  
+Myelination  
+Structural Stabilization  
+Cell Cycle  
+Autophagy"
+developmental maturation,GO:0021700,biological_process,GO:0008150,"Structural Stabilization, Proteostasis, Epigenetic, Cell Cycle, Autophagy"
+cerebellar Purkinje cell differentiation,GO:0021702,biological_process,GO:0008150,"Synapse, Structural Stabilization, Cell Cycle, Proteostasis, Autophagy"
+locus ceruleus development,GO:0021703,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Cell Cycle, Autophagy"
+cerebellar granule cell differentiation,GO:0021707,biological_process,GO:0008150,"Synapse, Structural Stabilization, Cell Cycle, RNA Spliceosome, Proteostasis"
+superior olivary nucleus maturation,GO:0021722,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Autophagy, Proteostasis"
+medullary reticular formation development,GO:0021723,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Autophagy, Proteostasis"
+principal sensory nucleus of trigeminal nerve development,GO:0021740,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Vasculature, Lipid Metabolism"
+abducens nucleus development,GO:0021742,biological_process,GO:0008150,"Synapse, Structural Stabilization, Cell Cycle, Epigenetic, DNA Repair"
+hypoglossal nucleus development,GO:0021743,biological_process,GO:0008150,"Structural Stabilization, Myelination, Synapse, Cell Cycle, Autophagy"
+cochlear nucleus development,GO:0021747,biological_process,GO:0008150,"Structural Stabilization, Myelination, Synapse, Cell Cycle, Epigenetic"
+vestibular nucleus development,GO:0021750,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Vasculature, Endolysosome"
+facial nucleus development,GO:0021754,biological_process,GO:0008150,"Synapse, Myelination, Cell Cycle, Apoptosis, Structural Stabilization"
+striatum development,GO:0021756,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Epigenetic"
+caudate nucleus development,GO:0021757,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Proteostasis, Autophagy"
+putamen development,GO:0021758,biological_process,GO:0008150,"Structural Stabilization, Myelination, Synapse, Cell Cycle, Autophagy"
+globus pallidus development,GO:0021759,biological_process,GO:0008150,"Synapse, Structural Stabilization, Cell Cycle, Myelination, Autophagy"
+limbic system development,GO:0021761,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Proteostasis, Autophagy"
+substantia nigra development,GO:0021762,biological_process,GO:0008150,"Synapse, Myelination, Metal Binding and Homeostasis, Cell Cycle, Epigenetic"
+subthalamic nucleus development,GO:0021763,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Tau Homeostasis, Endolysosome"
+amygdala development,GO:0021764,biological_process,GO:0008150,"Structural Stabilization, Cell Cycle, Epigenetic, Synapse, Vasculature"
+hippocampus development,GO:0021766,biological_process,GO:0008150,"Synapse, Apoptosis, Cell Cycle, Structural Stabilization, Epigenetic"
+mammillary body development,GO:0021767,biological_process,GO:0008150,"Structural Stabilization, Myelination, Synapse, Cell Cycle, Endolysosome"
+nucleus accumbens development,GO:0021768,biological_process,GO:0008150,"Synapse, Structural Stabilization, Vasculature, Autophagy, Endolysosome"
+orbitofrontal cortex development,GO:0021769,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Endolysosome, Autophagy"
+lateral geniculate nucleus development,GO:0021771,biological_process,GO:0008150,"Structural Stabilization  
+Synapse  
+Myelination  
+Autophagy  
+Apoptosis"
+olfactory bulb development,GO:0021772,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Endolysosome, Autophagy"
+striatal medium spiny neuron differentiation,GO:0021773,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Autophagy"
+smoothened signaling pathway involved in ventral spinal cord interneuron specification,GO:0021775,biological_process,GO:0008150,"Synapse, Structural Stabilization, Epigenetic, Autophagy, Lipid Metabolism"
+smoothened signaling pathway involved in spinal cord motor neuron cell fate specification,GO:0021776,biological_process,GO:0008150,"Neural Development, Stem Cell Biology, Signaling Pathways, Developmental Biology, Gene Regulation"
+oligodendrocyte cell fate specification,GO:0021778,biological_process,GO:0008150,"Myelination  
+Lipid Metabolism  
+Structural Stabilization  
+Epigenetic  
+Proteostasis"
+oligodendrocyte cell fate commitment,GO:0021779,biological_process,GO:0008150,"Myelination, Synapse, Structural Stabilization, Cell Cycle, Endolysosome"
+glial cell fate specification,GO:0021780,biological_process,GO:0008150,"Myelination  
+Synapse  
+Epigenetic  
+Cell Cycle  
+Structural Stabilization"
+glial cell fate commitment,GO:0021781,biological_process,GO:0008150,"Myelination, Cell Cycle, Structural Stabilization, Synapse, Epigenetic"
+glial cell development,GO:0021782,biological_process,GO:0008150,"Myelination  
+Synapse  
+Immune Response  
+Cell Cycle  
+Structural Stabilization"
+postganglionic parasympathetic fiber development,GO:0021784,biological_process,GO:0008150,"Synapse, Structural Stabilization, Vasculature, Autophagy, Cell Cycle"
+branchiomotor neuron axon guidance,GO:0021785,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Cell Cycle, Autophagy"
+chemorepulsion of branchiomotor axon,GO:0021793,biological_process,GO:0008150,"Synapse, Structural Stabilization, Cell Cycle, Proteostasis, Autophagy"
+thalamus development,GO:0021794,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Endolysosome, Autophagy"
+cerebral cortex cell migration,GO:0021795,biological_process,GO:0008150,"Structural Stabilization  
+Synapse  
+Cell Cycle  
+Autophagy  
+Apoptosis"
+cerebral cortex regionalization,GO:0021796,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Cell Cycle, Tau Homeostasis"
+forebrain anterior/posterior pattern specification,GO:0021797,biological_process,GO:0008150,"Structural Stabilization, Synapse, Epigenetic, Cell Cycle, Proteostasis"
+forebrain dorsal/ventral pattern formation,GO:0021798,biological_process,GO:0008150,"Structural Stabilization, Cell Cycle, Epigenetic, Synapse, Myelination"
+cerebral cortex radially oriented cell migration,GO:0021799,biological_process,GO:0008150,"Developmental Process, Nervous System Development, Cell Migration, Brain Region Development, Cellular Process"
+cerebral cortex tangential migration,GO:0021800,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Vasculature, Cell Cycle"
+cerebral cortex radial glia-guided migration,GO:0021801,biological_process,GO:0008150,"Synapse, Myelination, Structural Stabilization, Cell Cycle, Autophagy"
+neuronal-glial interaction involved in cerebral cortex radial glia guided migration,GO:0021812,biological_process,GO:0008150,"Synapse  
+Myelination  
+Structural Stabilization  
+Autophagy  
+Proteostasis"
+cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration,GO:0021813,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Immune Response"
+cell motility involved in cerebral cortex radial glia guided migration,GO:0021814,biological_process,GO:0008150,"Developmental Process, Cell Motility, Nervous System Development, Neurogenesis, Gliogenesis"
+extension of a leading process involved in cell motility in cerebral cortex radial glia guided migration,GO:0021816,biological_process,GO:0008150,"Structural Stabilization  
+Synapse  
+Proteostasis  
+Autophagy  
+Cell Cycle"
+nucleokinesis involved in cell motility in cerebral cortex radial glia guided migration,GO:0021817,biological_process,GO:0008150,"Synapse  
+Structural Stabilization  
+Cell Cycle  
+Proteostasis  
+Tau Homeostasis"
+layer formation in cerebral cortex,GO:0021819,biological_process,GO:0008150,"Structural Stabilization, Synapse, Cell Cycle, Myelination, Autophagy"
+negative regulation of cell motility involved in cerebral cortex radial glia guided migration,GO:0021822,biological_process,GO:0008150,"Structural Stabilization
+Cell Cycle
+Synapse
+Autophagy
+Proteostasis"
+gonadotrophin-releasing hormone neuronal migration to the hypothalamus,GO:0021828,biological_process,GO:0008150,"Structural Stabilization, Proteostasis, Autophagy, Cell Cycle, Synapse"
+interneuron migration from the subpallium to the cortex,GO:0021830,biological_process,GO:0008150,"Structural Stabilization, Synapse, Cell Cycle, Proteostasis, Lipid Metabolism"
+embryonic olfactory bulb interneuron precursor migration,GO:0021831,biological_process,GO:0008150,"Synapse  
+Structural Stabilization  
+Cell Cycle  
+Autophagy  
+Proteostasis"
+chemorepulsion involved in embryonic olfactory bulb interneuron precursor migration,GO:0021834,biological_process,GO:0008150,"Synapse  
+Proteostasis  
+Structural Stabilization  
+Epigenetic  
+Cell Cycle"
+chemorepulsion involved in postnatal olfactory bulb interneuron migration,GO:0021836,biological_process,GO:0008150,"Synapse  
+Proteostasis  
+Structural Stabilization  
+Autophagy  
+Lipid Metabolism"
+chemorepulsion involved in interneuron migration from the subpallium to the cortex,GO:0021842,biological_process,GO:0008150,"Synapse, Cell Migration, Neurogenesis, Neuronal Signaling, Developmental Biology"
+cell proliferation in forebrain,GO:0021846,biological_process,GO:0008150,"Cell Cycle, Myelination, Synapse, Epigenetic, DNA Repair"
+ventricular zone neuroblast division,GO:0021847,biological_process,GO:0008150,"Cell Cycle, Synapse, Myelination, Structural Stabilization, Proteostasis"
+neuroblast division in subventricular zone,GO:0021849,biological_process,GO:0008150,"Cell Cycle, Synapse, Structural Stabilization, Myelination, Autophagy"
+pyramidal neuron migration to cerebral cortex,GO:0021852,biological_process,GO:0008150,"Structural Stabilization  
+Proteostasis  
+Synapse  
+Epigenetic  
+Cell Cycle"
+cerebral cortex GABAergic interneuron migration,GO:0021853,biological_process,GO:0008150,"Synapse, Cell Cycle, Autophagy, Apoptosis, Structural Stabilization"
+hypothalamus development,GO:0021854,biological_process,GO:0008150,"Synapse, Structural Stabilization, Apoptosis, Myelination, Proteostasis"
+hypothalamus cell migration,GO:0021855,biological_process,GO:0008150,"Structural Stabilization, Synapse, Proteostasis, Autophagy, Cell Cycle"
+GABAergic neuron differentiation in basal ganglia,GO:0021858,biological_process,GO:0008150,"Synapse, Structural Stabilization, Cell Cycle, Proteostasis, Autophagy"
+pyramidal neuron differentiation,GO:0021859,biological_process,GO:0008150,"Synapse, Structural Stabilization, Proteostasis, Autophagy, Endolysosome"
+pyramidal neuron development,GO:0021860,biological_process,GO:0008150,"Synapse, Cell Cycle, Myelination, Structural Stabilization, Autophagy"
+forebrain radial glial cell differentiation,GO:0021861,biological_process,GO:0008150,"Cell Differentiation, Developmental Process, Neurogenesis, Gliogenesis, Neural Development"
+forebrain ventricular zone progenitor cell division,GO:0021869,biological_process,GO:0008150,"Cell Cycle, Epigenetic, Structural Stabilization, Autophagy, DNA Repair"
+Cajal-Retzius cell differentiation,GO:0021870,biological_process,GO:0008150,"Synapse, Structural Stabilization, Proteostasis, Cell Cycle, Autophagy"
+forebrain regionalization,GO:0021871,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Epigenetic"
+forebrain generation of neurons,GO:0021872,biological_process,GO:0008150,"Synapse  
+Cell Cycle  
+Structural Stabilization  
+Proteostasis  
+Autophagy"
+forebrain neuroblast division,GO:0021873,biological_process,GO:0008150,"Cell Cycle, DNA Repair, Structural Stabilization, Epigenetic, Proteostasis"
+Wnt signaling pathway involved in forebrain neuroblast division,GO:0021874,biological_process,GO:0008150,"Cell Cycle, Synapse, Proteostasis, Epigenetic, Autophagy"
+forebrain neuron fate commitment,GO:0021877,biological_process,GO:0008150,"Synapse, Epigenetic, Cell Cycle, Proteostasis, Autophagy"
+forebrain neuron differentiation,GO:0021879,biological_process,GO:0008150,"Synapse, Myelination, Cell Cycle, Structural Stabilization, Autophagy"
+forebrain neuron development,GO:0021884,biological_process,GO:0008150,"Synapse, Myelination, Cell Cycle, Proteostasis, Structural Stabilization"
+forebrain cell migration,GO:0021885,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Cell Cycle, Epigenetic"
+hypothalamus gonadotrophin-releasing hormone neuron development,GO:0021888,biological_process,GO:0008150,"Synapse, Cell Cycle, Autophagy, Apoptosis, Structural Stabilization"
+olfactory bulb interneuron differentiation,GO:0021889,biological_process,GO:0008150,"Synapse, Neurogenesis, Neural Development, Cell Differentiation, Developmental Process"
+olfactory bulb interneuron development,GO:0021891,biological_process,GO:0008150,"Synapse, Cell Cycle, Structural Stabilization, Epigenetic, Vasculature"
+cerebral cortex GABAergic interneuron differentiation,GO:0021892,biological_process,GO:0008150,"Synapse, Epigenetic, Cell Cycle, Autophagy, Structural Stabilization"
+cerebral cortex GABAergic interneuron fate commitment,GO:0021893,biological_process,GO:0008150,"Synapse, Cell Cycle, Epigenetic, Autophagy, Proteostasis"
+cerebral cortex GABAergic interneuron development,GO:0021894,biological_process,GO:0008150,"Synapse, Cell Cycle, Structural Stabilization, Epigenetic, Autophagy"
+cerebral cortex neuron differentiation,GO:0021895,biological_process,GO:0008150,"Cell Cycle, Epigenetic, Proteostasis, Lipid Metabolism, Autophagy"
+forebrain astrocyte development,GO:0021897,biological_process,GO:0008150,"Synapse, Myelination, Cell Cycle, Structural Stabilization, Immune Response"
+fibroblast growth factor receptor signaling pathway involved in forebrain neuron fate commitment,GO:0021899,biological_process,GO:0008150,"Synapse, Epigenetic, Cell Cycle, Proteostasis, Autophagy"
+commitment of neuronal cell to specific neuron type in forebrain,GO:0021902,biological_process,GO:0008150,"Epigenetic, Cell Cycle, Autophagy, Synapse, Myelination"
+rostrocaudal neural tube patterning,GO:0021903,biological_process,GO:0008150,"Structural Stabilization, Myelination, Cell Cycle, Epigenetic, Immune Response"
+dorsal/ventral neural tube patterning,GO:0021904,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Tau Homeostasis, Epigenetic"
+forebrain-midbrain boundary formation,GO:0021905,biological_process,GO:0008150,"Nervous System Development, Developmental Biology, Pattern Formation, Embryonic Development, Morphogenesis"
+neural tube development,GO:0021915,biological_process,GO:0008150,"Structural Stabilization, Cell Cycle, Apoptosis, Epigenetic, Lipid Metabolism"
+cell proliferation in external granule layer,GO:0021924,biological_process,GO:0008150,"Cell Cycle, Synapse, Myelination, Structural Stabilization, Proteostasis"
+cerebellar granule cell precursor proliferation,GO:0021930,biological_process,GO:0008150,"Cell Cycle  
+Developmental Process  
+Nervous System Development  
+Neurogenesis  
+Stem Cell Proliferation"
+radial glia guided migration of cerebellar granule cell,GO:0021933,biological_process,GO:0008150,"Structural Stabilization, Synapse, Tau Homeostasis, Cell Cycle, Myelination"
+hindbrain tangential cell migration,GO:0021934,biological_process,GO:0008150,"Synapse, Cell Cycle, Structural Stabilization, Myelination, Proteostasis"
+cerebellar granule cell precursor tangential migration,GO:0021935,biological_process,GO:0008150,"Structural Stabilization, Synapse, Vasculature, Proteostasis, Autophagy"
+regulation of cerebellar granule cell precursor proliferation,GO:0021936,biological_process,GO:0008150,"Cell Cycle, Structural Stabilization, Epigenetic, DNA Repair, Synapse"
+cerebellar Purkinje cell-granule cell precursor cell signaling,GO:0021937,biological_process,GO:0008150,"Synapse, Cell Cycle, Structural Stabilization, Epigenetic, RNA Spliceosome"
+positive regulation of cerebellar granule cell precursor proliferation,GO:0021940,biological_process,GO:0008150,"Cell Cycle  
+Autophagy  
+Epigenetic  
+Structural Stabilization  
+Apoptosis"
+negative regulation of cerebellar granule cell precursor proliferation,GO:0021941,biological_process,GO:0008150,"Cell Cycle, Structural Stabilization, Autophagy, Apoptosis, Synapse"
+radial glia guided migration of Purkinje cell,GO:0021942,biological_process,GO:0008150,"Synapse, Structural Stabilization, Myelination, Proteostasis, Autophagy"
+formation of radial glial scaffolds,GO:0021943,biological_process,GO:0008150,"Structural Stabilization, Myelination, Cell Cycle, Proteostasis, Endolysosome"

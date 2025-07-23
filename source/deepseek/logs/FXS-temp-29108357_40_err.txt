@@ -1,0 +1,21 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+Array 40: Assigning Biodomains: 0it [00:00, ?it/s]Array 40: Assigning Biodomains: 0it [00:00, ?it/s]
+Traceback (most recent call last):
+  File "/panfs/compbio/users/xran2/wen/JX/02-AI-BioDomain/git_folder/./source/deepseek/deepseek_biodomain_FXS_temp.py", line 204, in <module>
+    main()
+  File "/panfs/compbio/users/xran2/wen/JX/02-AI-BioDomain/git_folder/./source/deepseek/deepseek_biodomain_FXS_temp.py", line 194, in main
+    runtime_df = pd.read_csv(runtime_log_path)
+  File "/projects/compbio/users/xran2/miniconda3/envs/openai/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/projects/compbio/users/xran2/miniconda3/envs/openai/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/projects/compbio/users/xran2/miniconda3/envs/openai/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/projects/compbio/users/xran2/miniconda3/envs/openai/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1898, in _make_engine
+    return mapping[engine](f, **self.options)
+  File "/projects/compbio/users/xran2/miniconda3/envs/openai/lib/python3.9/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 93, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 581, in pandas._libs.parsers.TextReader.__cinit__
+pandas.errors.EmptyDataError: No columns to parse from file

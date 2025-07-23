@@ -1,0 +1,505 @@
+Running with TEMP=0.1, sub_array_index=6
+Changed working directory to: /panfs/compbio/users/xran2/wen/JX/02-AI-BioDomain/git_folder
+Processing array index 6: rows 2500 to 2999
+GO Term: Eukaryotic Translation Elongation Factor 1 Complex -> Biodomain: Synapse, Proteostasis, Epigenetic, Structural Stabilization, Endolysosome
+GO Term: Nascent Polypeptide-Associated Complex -> Biodomain: Proteostasis, Synapse, Structural Stabilization, Epigenetic, Autophagy
+GO Term: Cytoskeleton -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Endolysosome
+GO Term: Axonemal Dynein Complex -> Biodomain: Structural Stabilization, Proteostasis, Synapse, Autophagy, Mitochondrial Metabolism
+GO Term: Muscle Myosin Complex -> Biodomain: Structural Stabilization, Proteostasis, Synapse, Autophagy, Cytoskeleton
+GO Term: Troponin Complex -> Biodomain: Structural Stabilization, Proteostasis, Metal Binding and Homeostasis, Synapse, Cell Cycle
+GO Term: Muscle Thin Filament Tropomyosin -> Biodomain: Structural Stabilization, Proteostasis, Cytoskeleton (Actin), Cellular Structure and Organization, Synapse
+GO Term: Striated Muscle Myosin Thick Filament -> Biodomain: Structural Stabilization, Proteostasis, Autophagy, Cell Cycle, Synapse
+GO Term: Striated Muscle Thin Filament -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Endolysosome
+GO Term: Cytoplasmic Dynein Complex -> Biodomain: Synapse, Apoptosis, Cell Cycle, Structural Stabilization, Proteostasis
+GO Term: Dynactin Complex -> Biodomain: Synapse, Structural Stabilization, Endolysosome, Proteostasis, Autophagy
+GO Term: Kinesin Complex -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Endolysosome, Autophagy
+GO Term: Plus-End Kinesin Complex -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Endolysosome
+GO Term: Microtubule -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Cell Cycle
+GO Term: Microtubule Associated Complex -> Biodomain: Structural Stabilization, Synapse, Proteostasis, Autophagy, Cell Cycle
+GO Term: Spindle Microtubule -> Biodomain: Cell Cycle, Structural Stabilization, Proteostasis, Autophagy, Synapse
+GO Term: Axonemal Microtubule -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Endolysosome
+GO Term: Nuclear Microtubule -> Biodomain: Synapse, Structural Stabilization, Cell Cycle, Proteostasis, Autophagy
+GO Term: Cytoplasmic Microtubule -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Endolysosome, Autophagy
+GO Term: Intermediate Filament -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Myelination
+GO Term: Neurofilament -> Biodomain: Structural Stabilization, Synapse, Myelination, Proteostasis, Autophagy
+GO Term: Actin Filament -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Endolysosome, Autophagy
+GO Term: Arp2/3 Protein Complex -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Endolysosome, Autophagy
+GO Term: Plasma Membrane -> Biodomain: Synapse, Structural Stabilization, Lipid Metabolism, Endolysosome, Proteostasis
+GO Term: Potassium:Proton Exchanging Atpase Complex -> Biodomain: Synapse, Proteostasis, Metal Binding and Homeostasis, Structural Stabilization, Mitochondrial Metabolism
+GO Term: Sodium:Potassium-Exchanging Atpase Complex -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Metal Binding and Homeostasis, Autophagy
+GO Term: Voltage-Gated Calcium Channel Complex -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Lipid Metabolism, Apoptosis
+GO Term: Acetylcholine-Gated Channel Complex -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Epigenetic, Lipid Metabolism
+GO Term: Interleukin-2 Receptor Complex -> Biodomain: Immune Response, Structural Stabilization, Proteostasis, Autophagy, Apoptosis
+GO Term: Interleukin-5 Receptor Complex -> Biodomain: Immune Response, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Interleukin-6 Receptor Complex -> Biodomain: Immune Response, Synapse, Proteostasis, Autophagy, Oxidative Stress
+GO Term: Interleukin-13 Receptor Complex -> Biodomain: Immune Response, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Insulin Receptor Complex -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Oxidative Stress, Mitochondrial Metabolism
+GO Term: Oncostatin-M Receptor Complex -> Biodomain: Synapse, Immune Response, Proteostasis, Structural Stabilization, Apoptosis
+GO Term: Caveola -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Structural Stabilization, Endolysosome
+GO Term: Microvillus -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Endolysosome, Autophagy
+GO Term: Brush Border -> Biodomain: Structural Stabilization, Proteostasis, Endolysosome, Lipid Metabolism, Synapse
+GO Term: Clathrin-Coated Pit -> Biodomain: Synapse, Endolysosome, Proteostasis, Autophagy, Lipid Metabolism
+GO Term: Cell-Cell Junction -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Endolysosome
+GO Term: Adherens Junction -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Cell Cycle, Epigenetic
+GO Term: Spot Adherens Junction -> Biodomain: Structural Stabilization, Synapse, Cell Cycle, Vasculature, Endolysosome
+GO Term: Zonula Adherens -> Biodomain: Structural Stabilization, Synapse, Proteostasis, Epigenetic, Cell Cycle
+GO Term: Fascia Adherens -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Cell Cycle
+GO Term: Gap Junction -> Biodomain: Synapse, Structural Stabilization, Cell Cycle, Proteostasis, Autophagy
+GO Term: Connexin Complex -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Endolysosome, Metal Binding and Homeostasis
+GO Term: Bicellular Tight Junction -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Endolysosome, Autophagy
+GO Term: Focal Adhesion -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Endolysosome, Autophagy
+GO Term: Muscle Tendon Junction -> Biodomain: Synapse, Structural Stabilization, Cell Adhesion, Proteostasis, Autophagy
+GO Term: Cilium -> Biodomain: Synapse, Proteostasis, Autophagy, Structural Stabilization, Epigenetic
+GO Term: Axoneme -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Mitochondrial Metabolism, Endolysosome
+GO Term: Cell Cortex -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Endolysosome
+GO Term: Septin Ring -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Autophagy, Endolysosome
+GO Term: Phosphatidylinositol 3-Kinase Complex -> Biodomain: Synapse, Proteostasis, Autophagy, Lipid Metabolism, Apoptosis
+GO Term: Phosphatidylinositol 3-Kinase Complex, Class Ia -> Biodomain: Synapse, Lipid Metabolism, Autophagy, Proteostasis, Apoptosis
+GO Term: Phosphatidylinositol 3-Kinase Complex, Class Ib -> Biodomain: Synapse, Lipid Metabolism, Proteostasis, Autophagy, Endolysosome
+GO Term: 6-Phosphofructokinase Complex -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Acetolactate Synthase Complex -> Biodomain: Mitochondrial Metabolism, Proteostasis, Synapse, Lipid Metabolism, Oxidative Stress
+GO Term: Camp-Dependent Protein Kinase Complex -> Biodomain: Synapse, Proteostasis, Epigenetic, Autophagy, Cell Cycle
+GO Term: Caax-Protein Geranylgeranyltransferase Complex -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Structural Stabilization, Epigenetic
+GO Term: Calcium- And Calmodulin-Dependent Protein Kinase Complex -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Epigenetic, Cell Cycle
+GO Term: Calcineurin Complex -> Biodomain: Synapse, Proteostasis, Autophagy, Apoptosis, Epigenetic
+GO Term: Protein Kinase Ck2 Complex -> Biodomain: Synapse, Proteostasis, Apoptosis, Epigenetic, Autophagy
+GO Term: Dna-Dependent Protein Kinase-Dna Ligase 4 Complex -> Biodomain: DNA Repair, Epigenetic, Proteostasis, Cell Cycle, Apoptosis
+GO Term: Glycine Cleavage Complex -> Biodomain: Mitochondrial Metabolism, Synapse, Oxidative Stress, Proteostasis, Endolysosome
+GO Term: Phosphorylase Kinase Complex -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Autophagy
+GO Term: Protein Farnesyltransferase Complex -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Structural Stabilization, Endolysosome
+GO Term: Rab-Protein Geranylgeranyltransferase Complex -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Lipid Metabolism
+GO Term: Ribonucleoside-Diphosphate Reductase Complex -> Biodomain: Proteostasis, DNA Repair, Oxidative Stress, Cell Cycle, Metal Binding and Homeostasis
+GO Term: Carbohydrate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Oxidative Stress, Synapse
+GO Term: Polysaccharide Metabolic Process -> Biodomain: Mitochondrial Metabolism, Synapse, Lipid Metabolism, Oxidative Stress, Autophagy
+GO Term: Glycogen Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Glycogen Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Autophagy, Synapse, Proteostasis
+GO Term: Regulation Of Glycogen Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Glycogen Catabolic Process -> Biodomain: Mitochondrial Metabolism, Synapse, Proteostasis, Lipid Metabolism, Oxidative Stress
+GO Term: Regulation Of Glycogen Catabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Starch Catabolic Process -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Autophagy, Endolysosome, Oxidative Stress
+GO Term: Disaccharide Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy, Lipid Metabolism
+GO Term: Sucrose Metabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Synapse
+GO Term: Sucrose Catabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Lactose Biosynthetic Process -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Autophagy, Endolysosome
+GO Term: Lactose Catabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Autophagy, Oxidative Stress, Lipid Metabolism
+GO Term: Trehalose Metabolic Process -> Biodomain: Lipid Metabolism, Autophagy, Proteostasis, Oxidative Stress, Synapse
+GO Term: Trehalose Catabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Oxidative Stress, Autophagy
+GO Term: Monosaccharide Metabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Oxidative Stress, Synapse
+GO Term: Xylulose Metabolic Process -> Biodomain: Oxidative Stress, Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Synapse
+GO Term: Xylulose Catabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Fructose Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Fructose Catabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Fructose 6-Phosphate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Proteostasis, Synapse
+GO Term: Fructose 2,6-Bisphosphate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Fucose Metabolic Process -> Biodomain: Lipid Metabolism, Proteostasis, Endolysosome, Structural Stabilization, Epigenetic
+GO Term: Glucose Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Synapse, Proteostasis, Lipid Metabolism
+GO Term: Glucose Catabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Udp-Alpha-D-Glucose Metabolic Process -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Galactose Metabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Synapse
+GO Term: Mannose Metabolic Process -> Biodomain: Proteostasis, Synapse, Endolysosome, Autophagy, Lipid Metabolism
+GO Term: D-Ribose Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: 5-Phosphoribose 1-Diphosphate Biosynthetic Process -> Biodomain: Proteostasis, Mitochondrial Metabolism, Epigenetic, Lipid Metabolism, Synapse
+GO Term: Inositol Metabolic Process -> Biodomain: Synapse, Lipid Metabolism, Oxidative Stress, Proteostasis, Epigenetic
+GO Term: Inositol Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Epigenetic
+GO Term: Glycosaminoglycan Biosynthetic Process -> Biodomain: Synapse, Structural Stabilization, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Glycosaminoglycan Catabolic Process -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Structural Stabilization
+GO Term: Proteoglycan Metabolic Process -> Biodomain: Synapse, Proteostasis, Structural Stabilization, Lipid Metabolism, Endolysosome
+GO Term: Chitin Metabolic Process -> Biodomain: Immune Response, Metal Binding and Homeostasis, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Chitin Catabolic Process -> Biodomain: Immune Response, Endolysosome, Oxidative Stress, Synapse, Autophagy
+GO Term: Amino Sugar Metabolic Process -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Structural Stabilization
+GO Term: Glucosamine Metabolic Process -> Biodomain: Proteostasis, Synapse, Endolysosome, Lipid Metabolism, Autophagy
+GO Term: Glucosamine Catabolic Process -> Biodomain: Proteostasis, Endolysosome, Autophagy, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: N-Acetylglucosamine Metabolic Process -> Biodomain: Synapse, Lipid Metabolism, Proteostasis, Endolysosome, Autophagy
+GO Term: N-Acetylglucosamine Biosynthetic Process -> Biodomain: Synapse, Proteostasis, Endolysosome, Epigenetic, Autophagy
+GO Term: N-Acetylglucosamine Catabolic Process -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Autophagy
+GO Term: Udp-N-Acetylglucosamine Metabolic Process -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Autophagy, Mitochondrial Metabolism
+GO Term: Udp-N-Acetylglucosamine Biosynthetic Process -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Epigenetic, Mitochondrial Metabolism
+GO Term: Udp-N-Acetylglucosamine Catabolic Process -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Autophagy
+GO Term: N-Acetylmannosamine Metabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Autophagy, Endolysosome
+GO Term: N-Acetylneuraminate Metabolic Process -> Biodomain: Synapse, Lipid Metabolism, Proteostasis, Endolysosome, Oxidative Stress
+GO Term: Cmp-N-Acetylneuraminate Biosynthetic Process -> Biodomain: Synapse, Lipid Metabolism, Immune Response, Proteostasis, Oxidative Stress
+GO Term: Mannoprotein Catabolic Process -> Biodomain: Proteostasis, Synapse, Endolysosome, Autophagy, Lipid Metabolism
+GO Term: Sorbitol Metabolic Process -> Biodomain: Oxidative Stress, Mitochondrial Metabolism, Lipid Metabolism, Synapse, Proteostasis
+GO Term: Sorbitol Catabolic Process -> Biodomain: Oxidative Stress, Mitochondrial Metabolism, Lipid Metabolism, Synapse, Proteostasis
+GO Term: Udp-Glucuronate Biosynthetic Process -> Biodomain: Lipid Metabolism, Proteostasis, Synapse, Endolysosome, Oxidative Stress
+GO Term: Alcohol Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Proteostasis, Synapse
+GO Term: Ethanol Metabolic Process -> Biodomain: Lipid Metabolism, Oxidative Stress, Mitochondrial Metabolism, Proteostasis, Synapse
+GO Term: Ethanol Catabolic Process -> Biodomain: Oxidative Stress, Mitochondrial Metabolism, Lipid Metabolism, Synapse, Proteostasis
+GO Term: Glycerol Metabolic Process -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Autophagy, Synapse
+GO Term: Glycerol-3-Phosphate Metabolic Process -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse
+GO Term: Aldehyde Metabolic Process -> Biodomain: Lipid Metabolism, Oxidative Stress, Proteostasis, Mitochondrial Metabolism, Endolysosome
+GO Term: Organic Acid Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Acetate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Acetyl-Coa Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Acetyl-Coa Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Epigenetic
+GO Term: Pyruvate Decarboxylation To Acetyl-Coa -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Synapse
+GO Term: Lactate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Synapse, Oxidative Stress, Lipid Metabolism, Proteostasis
+GO Term: Pyruvate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Generation Of Precursor Metabolites And Energy -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Autophagy
+GO Term: Gluconeogenesis -> Biodomain: Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Oxidative Stress, Autophagy
+GO Term: Glycolytic Process -> Biodomain: Mitochondrial Metabolism, Synapse, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Glyoxylate Cycle -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Proteostasis, Oxidative Stress, Autophagy
+GO Term: Pentose-Phosphate Shunt -> Biodomain: Oxidative Stress, Synapse, DNA Repair, Epigenetic, Mitochondrial Metabolism
+GO Term: Tricarboxylic Acid Cycle -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Proteostasis, Synapse
+GO Term: Citrate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Synapse, Proteostasis, Lipid Metabolism
+GO Term: Isocitrate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Proteostasis, Synapse
+GO Term: 2-Oxoglutarate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy, Synapse
+GO Term: Succinyl-Coa Metabolic Process -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Succinate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Fumarate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Synapse, Lipid Metabolism, Proteostasis
+GO Term: Oxaloacetate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Malate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Proteostasis, Synapse
+GO Term: Regulation Of Glycolytic Process -> Biodomain: ERROR: Error code: 400 - {'error': {'message': "The length of your prompt exceeds the model's max input limit 65536. Please reduce the length of your prompt and try again.", 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+GO Term: Regulation Of Gluconeogenesis -> Biodomain: Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Oxidative Stress, Synapse
+GO Term: Energy Reserve Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Glycerol Biosynthetic Process -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Autophagy
+GO Term: Oxidative Phosphorylation -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Autophagy
+GO Term: Mitochondrial Electron Transport, Nadh To Ubiquinone -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Synapse, Proteostasis, Lipid Metabolism
+GO Term: Mitochondrial Electron Transport, Succinate To Ubiquinone -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Mitochondrial Electron Transport, Ubiquinol To Cytochrome C -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Autophagy
+GO Term: Mitochondrial Electron Transport, Cytochrome C To Oxygen -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Glycerol-3-Phosphate Shuttle -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Nucleobase-Containing Compound Metabolic Process -> Biodomain: Epigenetic, RNA Spliceosome, Proteostasis, Synapse, Autophagy
+GO Term: Purine Nucleobase Metabolic Process -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Epigenetic
+GO Term: Purine Nucleobase Catabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Autophagy
+GO Term: Guanine Catabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Endolysosome, Autophagy
+GO Term: Inosine Catabolic Process -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Autophagy
+GO Term: Deoxyinosine Catabolic Process -> Biodomain: DNA Repair, Epigenetic, Cell Cycle, Proteostasis, Endolysosome
+GO Term: Purine Nucleoside Catabolic Process -> Biodomain: Synapse, Oxidative Stress, Mitochondrial Metabolism, Proteostasis, Endolysosome
+GO Term: Adenosine Catabolic Process -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Deoxyadenosine Catabolic Process -> Biodomain: Proteostasis, DNA Repair, Epigenetic, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Deoxyguanosine Catabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy, Lipid Metabolism
+GO Term: Purine Nucleotide Metabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Synapse, Oxidative Stress, Lipid Metabolism
+GO Term: Purine Nucleotide Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Purine Ribonucleoside Salvage -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism
+GO Term: Amp Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Autophagy
+GO Term: Adenine Salvage -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Synapse, Autophagy
+GO Term: Camp Biosynthetic Process -> Biodomain: Synapse, Proteostasis, Cell Cycle, Oxidative Stress, Autophagy
+GO Term: Adp Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Synapse, Oxidative Stress, Autophagy
+GO Term: Dadp Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Epigenetic, Oxidative Stress, Proteostasis, Synapse
+GO Term: Datp Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, DNA Repair, Proteostasis, Cell Cycle, Oxidative Stress
+GO Term: Gmp Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Synapse, Lipid Metabolism
+GO Term: Guanine Salvage -> Biodomain: Epigenetic, Mitochondrial Metabolism, Synapse, Cell Cycle, RNA Spliceosome
+GO Term: Cgmp Biosynthetic Process -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Lipid Metabolism
+GO Term: Gtp Biosynthetic Process -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Cell Cycle, Autophagy
+GO Term: Dgdp Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Epigenetic, Proteostasis, DNA Repair, Synapse
+GO Term: Imp Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Autophagy, Lipid Metabolism
+GO Term: 'De Novo' Imp Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Cell Cycle
+GO Term: Itp Catabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Synapse, Autophagy
+GO Term: Purine Nucleotide Catabolic Process -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Autophagy, Oxidative Stress
+GO Term: Amp Catabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Synapse, Oxidative Stress, Autophagy
+GO Term: Camp Catabolic Process -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Autophagy
+GO Term: Gmp Catabolic Process To Guanine -> Biodomain: Epigenetic, Proteostasis, Synapse, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Dgtp Catabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Epigenetic, Cell Cycle
+GO Term: Imp Catabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Synapse, Oxidative Stress, Autophagy
+GO Term: Pyrimidine Nucleobase Metabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, RNA Spliceosome, Epigenetic, DNA Repair
+GO Term: 'De Novo' Pyrimidine Nucleobase Biosynthetic Process -> Biodomain: Epigenetic, DNA Repair, RNA Spliceosome, Synapse, Mitochondrial Metabolism
+GO Term: Pyrimidine Nucleobase Catabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Endolysosome, Autophagy
+GO Term: Thymine Catabolic Process -> Biodomain: Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Autophagy
+GO Term: Uracil Catabolic Process -> Biodomain: Proteostasis, Synapse, Mitochondrial Metabolism, Oxidative Stress, RNA Spliceosome
+GO Term: Pyrimidine Nucleoside Metabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Synapse, Oxidative Stress, Autophagy
+GO Term: Thymidine Catabolic Process -> Biodomain: DNA Repair, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Cell Cycle
+GO Term: Uridine Catabolic Process -> Biodomain: Epigenetic, RNA Spliceosome, Proteostasis, Autophagy, Mitochondrial Metabolism
+GO Term: Pyrimidine Nucleotide Metabolic Process -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress
+GO Term: Pyrimidine Nucleotide Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Lipid Metabolism, Synapse
+GO Term: Ump Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Synapse, Autophagy
+GO Term: Udp Biosynthetic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Synapse, Oxidative Stress
+GO Term: Dump Biosynthetic Process -> Biodomain: DNA Repair, Epigenetic, Mitochondrial Metabolism, Cell Cycle, Synapse
+GO Term: Dudp Biosynthetic Process -> Biodomain: Epigenetic, DNA Repair, Cell Cycle, Proteostasis, Synapse
+GO Term: Utp Biosynthetic Process -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, RNA Spliceosome, Epigenetic
+GO Term: Dtmp Biosynthetic Process -> Biodomain: DNA Repair, Epigenetic, Cell Cycle, Proteostasis, Synapse
+GO Term: Dtdp Biosynthetic Process -> Biodomain: DNA Repair, Cell Cycle, Mitochondrial Metabolism, Proteostasis, Epigenetic
+GO Term: Dttp Biosynthetic Process -> Biodomain: DNA Repair, Cell Cycle, Mitochondrial Metabolism, Oxidative Stress, Proteostasis
+GO Term: Ctp Biosynthetic Process -> Biodomain: RNA Spliceosome, Mitochondrial Metabolism, Proteostasis, Synapse, Lipid Metabolism
+GO Term: Cmp Catabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse, Autophagy
+GO Term: Dcmp Catabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Autophagy, Synapse
+GO Term: Dctp Catabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, DNA Repair, Oxidative Stress, Synapse
+GO Term: Ctp Catabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Synapse, Oxidative Stress, Autophagy
+GO Term: Udp Catabolic Process -> Biodomain: Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Synapse, Oxidative Stress
+GO Term: Dna Metabolic Process -> Biodomain: DNA Repair, Epigenetic, Proteostasis, Cell Cycle, Apoptosis
+GO Term: Dna Replication -> Biodomain: DNA Repair, Epigenetic, Cell Cycle, Proteostasis, Apoptosis
+GO Term: Dna-Templated Dna Replication -> Biodomain: DNA Repair, Cell Cycle, Proteostasis, Epigenetic, Apoptosis
+GO Term: Mitochondrial Dna Replication -> Biodomain: Mitochondrial Metabolism, Proteostasis, Synapse, Oxidative Stress, Autophagy
+GO Term: Dna Topological Change -> Biodomain: Epigenetic, DNA Repair, Cell Cycle, Proteostasis, Synapse
+GO Term: Dna Replication, Synthesis Of Primer -> Biodomain: DNA Repair, Cell Cycle, Apoptosis, Structural Stabilization, Proteostasis
+GO Term: Dna Replication Initiation -> Biodomain: DNA Repair, Cell Cycle, Proteostasis, Apoptosis, Epigenetic
+GO Term: Dna Strand Elongation Involved In Dna Replication -> Biodomain: DNA Repair, Epigenetic, Cell Cycle, Structural Stabilization, Proteostasis
+GO Term: Leading Strand Elongation -> Biodomain: DNA Repair, Epigenetic, Synapse, Proteostasis, RNA Spliceosome
+GO Term: Lagging Strand Elongation -> Biodomain: DNA Repair, Epigenetic, Cell Cycle, Apoptosis, Proteostasis
+GO Term: Regulation Of Dna Replication -> Biodomain: DNA Repair, Epigenetic, Cell Cycle, Proteostasis, Structural Stabilization
+GO Term: Rna-Templated Dna Biosynthetic Process -> Biodomain: Epigenetic, DNA Repair, RNA Spliceosome, Proteostasis, Synapse
+GO Term: Dna Repair -> Biodomain: DNA Repair, Response to Stimulus, Epigenetic, Apoptosis, Cell Cycle
+GO Term: Regulation Of Dna Repair -> Biodomain: DNA Repair, Oxidative Stress, Apoptosis, Cell Cycle, Proteostasis
+GO Term: Transcription-Coupled Nucleotide-Excision Repair -> Biodomain: DNA Repair, Response to Stress, DNA Metabolic Process, Nucleic Acid Metabolic Process, Cellular Response to Stimulus
+GO Term: Base-Excision Repair -> Biodomain: DNA Repair, Oxidative Stress, Proteostasis, Cell Cycle, Apoptosis
+GO Term: Base-Excision Repair, Ap Site Formation -> Biodomain: DNA Repair, Epigenetic, Proteostasis, Apoptosis, Oxidative Stress
+GO Term: Base-Excision Repair, Gap-Filling -> Biodomain: DNA Repair, Oxidative Stress, Proteostasis, Apoptosis, Cell Cycle
+GO Term: Nucleotide-Excision Repair -> Biodomain: DNA Repair, Epigenetic, Cell Cycle, Proteostasis, Autophagy
+GO Term: Pyrimidine Dimer Repair -> Biodomain: DNA Repair, Epigenetic, Cell Cycle, Proteostasis, Apoptosis
+GO Term: Nucleotide-Excision Repair, Preincision Complex Assembly -> Biodomain: DNA Repair, Proteostasis, Oxidative Stress, Epigenetic, Synapse
+GO Term: Nucleotide-Excision Repair, Dna Gap Filling -> Biodomain: DNA Repair, Epigenetic, Proteostasis, Apoptosis, Cell Cycle
+GO Term: Mismatch Repair -> Biodomain: DNA Repair, Apoptosis, Oxidative Stress, Proteostasis, Epigenetic
+GO Term: Postreplication Repair -> Biodomain: DNA Repair, Epigenetic, Cell Cycle, Apoptosis, Proteostasis
+GO Term: Double-Strand Break Repair -> Biodomain: DNA Repair, Epigenetic, Cell Cycle, Apoptosis, Oxidative Stress
+GO Term: Double-Strand Break Repair Via Nonhomologous End Joining -> Biodomain: DNA Repair, Epigenetic, Apoptosis, Cell Cycle, Proteostasis
+GO Term: Dna Modification -> Biodomain: Epigenetic, DNA Repair, Cell Cycle, Proteostasis, Apoptosis
+GO Term: Dna Alkylation Repair -> Biodomain: DNA Repair, Oxidative Stress, Mitochondrial Metabolism, Cell Cycle, Proteostasis
+GO Term: Dna Catabolic Process -> Biodomain: DNA Repair, Apoptosis, Proteostasis, Cell Cycle, Epigenetic
+GO Term: Apoptotic Dna Fragmentation -> Biodomain: Apoptosis, Cell Cycle, Proteostasis, Structural Stabilization, DNA Repair
+GO Term: Dna Recombination -> Biodomain: DNA Repair, Epigenetic, Cell Cycle, Proteostasis, Apoptosis
+GO Term: Meiotic Gene Conversion -> Biodomain: DNA Repair, Cell Cycle, Epigenetic, Structural Stabilization, Autophagy
+GO Term: Mitotic Recombination -> Biodomain: DNA Repair, Cell Cycle, Epigenetic, Proteostasis, Apoptosis
+GO Term: Dna Transposition -> Biodomain: DNA Repair, Epigenetic, Cell Cycle, Proteostasis, Synapse
+GO Term: Chromatin Organization -> Biodomain: Epigenetic, Synapse, Proteostasis, Cell Cycle, DNA Repair
+GO Term: Nucleosome Assembly -> Biodomain: Epigenetic, Proteostasis, Synapse, DNA Repair, Cell Cycle
+GO Term: Dna Replication-Dependent Chromatin Assembly -> Biodomain: Epigenetic, Cell Cycle, DNA Repair, Proteostasis, Structural Stabilization
+GO Term: Nucleosome Disassembly -> Biodomain: Epigenetic, Synapse, DNA Repair, Proteostasis, Cell Cycle
+GO Term: Chromatin Remodeling -> Biodomain: Epigenetic, Cellular Process, DNA Repair, RNA Spliceosome, Synapse
+GO Term: Dna Methylation-Dependent Constitutive Heterochromatin Formation -> Biodomain: Epigenetic, Synapse, Proteostasis, Autophagy, Cell Cycle
+GO Term: Dna-Templated Transcription -> Biodomain: Epigenetic, Synapse, Proteostasis, RNA Spliceosome, Cell Cycle
+GO Term: Dna-Templated Transcription Initiation -> Biodomain: Epigenetic, Synapse, Proteostasis, Autophagy, Cell Cycle
+GO Term: Dna-Templated Transcription Termination -> Biodomain: Epigenetic, Proteostasis, Synapse, Cell Cycle, DNA Repair
+GO Term: Dna-Templated Transcription Elongation -> Biodomain: Epigenetic, Synapse, RNA Spliceosome, Proteostasis, Cell Cycle
+GO Term: Regulation Of Dna-Templated Transcription -> Biodomain: Epigenetic, RNA Spliceosome, Proteostasis, Autophagy, Synapse
+GO Term: Regulation Of Transcription By Rna Polymerase I -> Biodomain: Epigenetic, Synapse, Proteostasis, Cell Cycle, RNA Spliceosome
+GO Term: Regulation Of Transcription By Rna Polymerase Ii -> Biodomain: Synapse, Epigenetic, RNA Spliceosome, Proteostasis, Cell Cycle
+GO Term: Regulation Of Transcription By Rna Polymerase Iii -> Biodomain: Synapse, Epigenetic, Proteostasis, Autophagy, RNA Spliceosome
+GO Term: Transcription By Rna Polymerase I -> Biodomain: Epigenetic, Proteostasis, Synapse, Cell Cycle, DNA Repair
+GO Term: Transcription Initiation At Rna Polymerase I Promoter -> Biodomain: Epigenetic, Proteostasis, Synapse, Cell Cycle, RNA Spliceosome
+GO Term: Transcription Elongation By Rna Polymerase I -> Biodomain: Synapse, Proteostasis, Epigenetic, RNA Spliceosome, Lipid Metabolism
+GO Term: Termination Of Rna Polymerase I Transcription -> Biodomain: Synapse, Proteostasis, Epigenetic, RNA Spliceosome, Cell Cycle
+GO Term: Rrna Processing -> Biodomain: Synapse, RNA Spliceosome, Proteostasis, Epigenetic, Mitochondrial Metabolism
+GO Term: Transcription By Rna Polymerase Ii -> Biodomain: Epigenetic, RNA Spliceosome, Proteostasis, Synapse, Cell Cycle
+GO Term: Transcription Initiation At Rna Polymerase Ii Promoter -> Biodomain: Epigenetic, DNA Repair, Proteostasis, RNA Spliceosome, Synapse
+GO Term: Transcription Elongation By Rna Polymerase Ii -> Biodomain: Epigenetic, RNA Spliceosome, Synapse, Proteostasis, Cell Cycle
+GO Term: Termination Of Rna Polymerase Ii Transcription -> Biodomain: Epigenetic, RNA Spliceosome, Synapse, Proteostasis, Autophagy
+GO Term: 7-Methylguanosine Mrna Capping -> Biodomain: Synapse, RNA Spliceosome, Epigenetic, Proteostasis, Autophagy
+GO Term: Mrna Splice Site Recognition -> Biodomain: RNA Spliceosome, Epigenetic, Synapse, Proteostasis, Structural Stabilization
+GO Term: Adenosine To Inosine Editing -> Biodomain: Synapse, Epigenetic, Proteostasis, RNA Spliceosome, Autophagy
+GO Term: Transcription By Rna Polymerase Iii -> Biodomain: Epigenetic, Synapse, Proteostasis, RNA Spliceosome, DNA Repair
+GO Term: Transcription Initiation At Rna Polymerase Iii Promoter -> Biodomain: Epigenetic, Synapse, Proteostasis, RNA Spliceosome, Cell Cycle
+GO Term: Termination Of Rna Polymerase Iii Transcription -> Biodomain: Epigenetic, Proteostasis, Synapse, RNA Spliceosome, Autophagy
+GO Term: Trna Splicing, Via Endonucleolytic Cleavage And Ligation -> Biodomain: RNA Spliceosome, Proteostasis, Epigenetic, Synapse, Autophagy
+GO Term: Mitochondrial Transcription -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy, Synapse
+GO Term: Transcription Initiation At Mitochondrial Promoter -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Synapse, Proteostasis, Epigenetic
+GO Term: Transcription Elongation By Mitochondrial Rna Polymerase -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Autophagy, Apoptosis
+GO Term: Termination Of Mitochondrial Transcription -> Biodomain: Mitochondrial Metabolism, Synapse, Oxidative Stress, Proteostasis, DNA Repair
+GO Term: Rna Processing -> Biodomain: Synapse,Epigenetic,RNA Spliceosome,Proteostasis,Autophagy
+GO Term: Mrna Processing -> Biodomain: Synapse, RNA Spliceosome, Epigenetic, Proteostasis, Autophagy
+GO Term: Mrna 3'-End Processing By Stem-Loop Binding And Cleavage -> Biodomain: Synapse, RNA Spliceosome, Proteostasis, Epigenetic, Autophagy
+GO Term: Trna Metabolic Process -> Biodomain: Proteostasis, Synapse, RNA Spliceosome, Epigenetic, Autophagy
+GO Term: Trna Modification -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Epigenetic, Mitochondrial Metabolism
+GO Term: Rna Catabolic Process -> Biodomain: Proteostasis, Synapse, Autophagy, Epigenetic, RNA Spliceosome
+GO Term: Mrna Catabolic Process -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Epigenetic, Autophagy
+GO Term: Rna Localization -> Biodomain: Synapse, RNA Spliceosome, Epigenetic, Proteostasis, Autophagy
+GO Term: Rna Import Into Nucleus -> Biodomain: Synapse, Proteostasis, Epigenetic, RNA Spliceosome, Autophagy
+GO Term: Rna Export From Nucleus -> Biodomain: Synapse, RNA Spliceosome, Proteostasis, Epigenetic, Cell Cycle
+GO Term: Mrna Export From Nucleus -> Biodomain: Synapse, RNA Spliceosome, Epigenetic, Proteostasis, Autophagy
+GO Term: Snrna Export From Nucleus -> Biodomain: RNA Spliceosome, Synapse, Proteostasis, Epigenetic, Autophagy
+GO Term: Trna Export From Nucleus -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Epigenetic, Autophagy
+GO Term: Translation -> Biodomain: Synapse, Proteostasis, Epigenetic, Mitochondrial Metabolism, Lipid Metabolism
+GO Term: Translational Initiation -> Biodomain: Synapse, Proteostasis, Epigenetic, RNA Spliceosome, Autophagy
+GO Term: Translational Elongation -> Biodomain: Synapse, Proteostasis, Epigenetic, APP Metabolism, Autophagy
+GO Term: Translational Termination -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Epigenetic, Autophagy
+GO Term: Regulation Of Translation -> Biodomain: Synapse, Epigenetic, Proteostasis, Lipid Metabolism, Structural Stabilization
+GO Term: Trna Aminoacylation For Protein Translation -> Biodomain: Proteostasis, Synapse, Epigenetic, RNA Spliceosome, Autophagy
+GO Term: Alanyl-Trna Aminoacylation -> Biodomain: Proteostasis, Synapse, RNA Spliceosome, Epigenetic, Cell Cycle
+GO Term: Arginyl-Trna Aminoacylation -> Biodomain: Synapse, Proteostasis, Epigenetic, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: Asparaginyl-Trna Aminoacylation -> Biodomain: Proteostasis, Synapse, Epigenetic, RNA Spliceosome, Cell Cycle
+GO Term: Aspartyl-Trna Aminoacylation -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, RNA Spliceosome, Autophagy
+GO Term: Cysteinyl-Trna Aminoacylation -> Biodomain: Proteostasis,Synapse,RNA Spliceosome,Cell Cycle,Epigenetic
+GO Term: Glutamyl-Trna Aminoacylation -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Autophagy
+GO Term: Glutaminyl-Trna Aminoacylation -> Biodomain: Proteostasis, Synapse, Epigenetic, RNA Spliceosome, Mitochondrial Metabolism
+GO Term: Glycyl-Trna Aminoacylation -> Biodomain: Proteostasis, Synapse, Mitochondrial Metabolism, Epigenetic, Autophagy
+GO Term: Histidyl-Trna Aminoacylation -> Biodomain: Proteostasis, Synapse, RNA Spliceosome, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Isoleucyl-Trna Aminoacylation -> Biodomain: Proteostasis, Synapse, Lipid Metabolism, Mitochondrial Metabolism, Epigenetic
+GO Term: Leucyl-Trna Aminoacylation -> Biodomain: Proteostasis, Synapse, Autophagy, Endolysosome, Epigenetic
+GO Term: Lysyl-Trna Aminoacylation -> Biodomain: Proteostasis, Synapse, Autophagy, RNA Spliceosome, Epigenetic
+GO Term: Methionyl-Trna Aminoacylation -> Biodomain: Proteostasis, Synapse, Epigenetic, RNA Spliceosome, Apoptosis
+GO Term: Phenylalanyl-Trna Aminoacylation -> Biodomain: Synapse, Proteostasis, Epigenetic, RNA Spliceosome, Mitochondrial Metabolism
+GO Term: Prolyl-Trna Aminoacylation -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Epigenetic
+GO Term: Seryl-Trna Aminoacylation -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Epigenetic, Mitochondrial Metabolism
+GO Term: Threonyl-Trna Aminoacylation -> Biodomain: Proteostasis, Amino Acid Metabolism, Synapse, Macromolecule Metabolism, Gene Expression
+GO Term: Tryptophanyl-Trna Aminoacylation -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Endolysosome
+GO Term: Tyrosyl-Trna Aminoacylation -> Biodomain: Proteostasis, Synapse, Lipid Metabolism, Mitochondrial Metabolism, Autophagy
+GO Term: Valyl-Trna Aminoacylation -> Biodomain: Proteostasis, Synapse, Epigenetic, RNA Spliceosome, Lipid Metabolism
+GO Term: Regulation Of Translational Initiation -> Biodomain: Synapse, Proteostasis, Epigenetic, RNA Spliceosome, Autophagy
+GO Term: Regulation Of Translational Elongation -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Epigenetic, Cell Cycle
+GO Term: Regulation Of Translational Termination -> Biodomain: Synapse, Proteostasis, Epigenetic, RNA Spliceosome, Structural Stabilization
+GO Term: Regulation Of Translational Fidelity -> Biodomain: Proteostasis, Synapse, RNA Spliceosome, Epigenetic, Autophagy
+GO Term: Translational Frameshifting -> Biodomain: Proteostasis, Epigenetic, Synapse, Autophagy, RNA Spliceosome
+GO Term: Protein Folding -> Biodomain: Proteostasis, Synapse, Autophagy, Oxidative Stress, Endolysosome
+GO Term: 'De Novo' Protein Folding -> Biodomain: Proteostasis, Synapse, Autophagy, Endolysosome, Oxidative Stress
+GO Term: Steroid Hormone Receptor Complex Assembly -> Biodomain: Synapse, Proteostasis, Epigenetic, Structural Stabilization, Autophagy
+GO Term: Signal Peptide Processing -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Structural Stabilization
+GO Term: Protein Phosphorylation -> Biodomain: Synapse, Proteostasis, Epigenetic, Cell Cycle, Autophagy
+GO Term: Negative Regulation Of Protein Kinase Activity -> Biodomain: Synapse, Proteostasis, Cell Cycle, Autophagy, Epigenetic
+GO Term: Protein Dephosphorylation -> Biodomain: Synapse, Proteostasis, Epigenetic, Autophagy, Cell Cycle
+GO Term: Protein Acetylation -> Biodomain: Epigenetic, Proteostasis, Synapse, Autophagy, Structural Stabilization
+GO Term: N-Terminal Protein Amino Acid Acetylation -> Biodomain: Proteostasis, Epigenetic, Synapse, Autophagy, Endolysosome
+GO Term: Internal Protein Amino Acid Acetylation -> Biodomain: Proteostasis, Epigenetic, Synapse, Autophagy, Cell Cycle
+GO Term: Protein Deacetylation -> Biodomain: Epigenetic, Proteostasis, Synapse, Autophagy, Mitochondrial Metabolism
+GO Term: Protein Sulfation -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Oxidative Stress, Metal Binding and Homeostasis
+GO Term: Peptidyl-Tyrosine Sulfation -> Biodomain: Proteostasis, Synapse, Structural Stabilization, Endolysosome, Autophagy
+GO Term: Protein Methylation -> Biodomain: Synapse, Proteostasis, Epigenetic, RNA Spliceosome, Cell Cycle
+GO Term: N-Terminal Protein Amino Acid Methylation -> Biodomain: Proteostasis, Synapse, Epigenetic, Autophagy, Structural Stabilization
+GO Term: C-Terminal Protein Methylation -> Biodomain: Proteostasis, Epigenetic, Synapse, Autophagy, Cell Cycle
+GO Term: Protein Demethylation -> Biodomain: Epigenetic, Proteostasis, Synapse, Autophagy, Cell Cycle
+GO Term: Protein Glycosylation -> Biodomain: Synapse, Proteostasis, Endolysosome, Lipid Metabolism, Autophagy
+GO Term: Protein N-Linked Glycosylation -> Biodomain: Proteostasis, Synapse, Endolysosome, Lipid Metabolism, Autophagy
+GO Term: Dolichol-Linked Oligosaccharide Biosynthetic Process -> Biodomain: Proteostasis, Endolysosome, Synapse, Lipid Metabolism, Autophagy
+GO Term: Dolichyl Diphosphate Biosynthetic Process -> Biodomain: Lipid Metabolism, Proteostasis, Synapse, Autophagy, Endolysosome
+GO Term: N-Glycan Processing -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Lipid Metabolism
+GO Term: Protein O-Linked Glycosylation -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Endolysosome, Autophagy
+GO Term: Protein Lipidation -> Biodomain: Lipid Metabolism, Proteostasis, Synapse, Autophagy, Endolysosome
+GO Term: N-Terminal Protein Myristoylation -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Autophagy, Structural Stabilization
+GO Term: C-Terminal Protein Lipidation -> Biodomain: Proteostasis, Lipid Metabolism, Synapse, Endolysosome, Autophagy
+GO Term: Gpi Anchor Metabolic Process -> Biodomain: Lipid Metabolism, Structural Stabilization, Synapse, Proteostasis, Endolysosome
+GO Term: Gpi Anchor Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Endolysosome, Structural Stabilization, Autophagy
+GO Term: Proteolysis -> Biodomain: Proteostasis, Autophagy, Endolysosome, Synapse, Oxidative Stress
+GO Term: Membrane Protein Ectodomain Proteolysis -> Biodomain: Proteostasis, Synapse, Endolysosome, Autophagy, APP Metabolism
+GO Term: Ubiquitin-Dependent Protein Catabolic Process -> Biodomain: Proteostasis, Synapse, Autophagy, Endolysosome, APP Metabolism
+GO Term: Protein Monoubiquitination -> Biodomain: Proteostasis, Synapse, Endolysosome, Autophagy, Epigenetic
+GO Term: Protein Quality Control For Misfolded Or Incompletely Synthesized Proteins -> Biodomain: Proteostasis, Autophagy, Lipid Metabolism, Synapse, Epigenetic
+GO Term: Glycoprotein Catabolic Process -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Lipid Metabolism
+GO Term: Protein Deglycosylation -> Biodomain: Proteostasis, Endolysosome, Autophagy, Synapse, Lipid Metabolism
+GO Term: Peptide Metabolic Process -> Biodomain: Proteostasis, Synapse, Autophagy, Endolysosome, Oxidative Stress
+GO Term: Amino Acid Metabolic Process -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism
+GO Term: Arginine Metabolic Process -> Biodomain: Proteostasis, Synapse, Lipid Metabolism, Oxidative Stress, Metal Binding and Homeostasis
+GO Term: L-Arginine Biosynthetic Process -> Biodomain: Synapse, Oxidative Stress, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism
+GO Term: L-Arginine Catabolic Process -> Biodomain: Synapse, Oxidative Stress, Mitochondrial Metabolism, Proteostasis, Lipid Metabolism
+GO Term: Asparagine Metabolic Process -> Biodomain: Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Synapse, Lipid Metabolism
+GO Term: Asparagine Biosynthetic Process -> Biodomain: Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Autophagy, Synapse
+GO Term: Aspartate Metabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Lipid Metabolism, Synapse
+GO Term: Aspartate Biosynthetic Process -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Lipid Metabolism
+GO Term: L-Aspartate Catabolic Process -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism
+GO Term: Cysteine Metabolic Process -> Biodomain: Oxidative Stress, Proteostasis, Mitochondrial Metabolism, Synapse, Lipid Metabolism
+GO Term: Cysteine Biosynthetic Process From Serine -> Biodomain: Oxidative Stress, Proteostasis, Lipid Metabolism, Mitochondrial Metabolism, Autophagy
+GO Term: Glutamate Metabolic Process -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Mitochondrial Metabolism, Lipid Metabolism
+GO Term: Glutamate Biosynthetic Process -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Metal Binding and Homeostasis
+GO Term: L-Glutamate Catabolic Process -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism
+GO Term: Gamma-Aminobutyrate Shunt -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Lipid Metabolism
+GO Term: Glutamine Metabolic Process -> Biodomain: Synapse, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Glutamine Biosynthetic Process -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Autophagy, Oxidative Stress
+GO Term: L-Glutamine Catabolic Process -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism
+GO Term: Glycine Metabolic Process -> Biodomain: Proteostasis, Synapse, Oxidative Stress, Mitochondrial Metabolism, Lipid Metabolism
+GO Term: Glycine Biosynthetic Process -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress
+GO Term: Glycine Catabolic Process -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Lipid Metabolism
+GO Term: L-Histidine Metabolic Process -> Biodomain: Synapse, Immune Response, Proteostasis, Lipid Metabolism, Oxidative Stress
+GO Term: L-Histidine Catabolic Process -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: Isoleucine Metabolic Process -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Synapse
+GO Term: L-Isoleucine Catabolic Process -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress
+GO Term: L-Leucine Metabolic Process -> Biodomain: Lipid Metabolism, Proteostasis, Mitochondrial Metabolism, Synapse, Autophagy
+GO Term: L-Leucine Catabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Oxidative Stress, Autophagy
+GO Term: Lysine Catabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Synapse, Oxidative Stress, Lipid Metabolism
+GO Term: Methionine Metabolic Process -> Biodomain: Epigenetic, Proteostasis, Synapse, Oxidative Stress, Lipid Metabolism
+GO Term: S-Adenosylmethionine Biosynthetic Process -> Biodomain: Epigenetic, Proteostasis, Lipid Metabolism, Synapse, Oxidative Stress
+GO Term: L-Phenylalanine Catabolic Process -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Lipid Metabolism
+GO Term: Proline Metabolic Process -> Biodomain: Lipid Metabolism, Proteostasis, Synapse, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Proline Biosynthetic Process -> Biodomain: Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Synapse, Oxidative Stress
+GO Term: L-Proline Catabolic Process -> Biodomain: Proteostasis, Synapse, Mitochondrial Metabolism, Oxidative Stress, Autophagy
+GO Term: L-Serine Metabolic Process -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Oxidative Stress, Mitochondrial Metabolism
+GO Term: L-Serine Biosynthetic Process -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism
+GO Term: L-Serine Catabolic Process -> Biodomain: Proteostasis, Synapse, Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Threonine Metabolic Process -> Biodomain: Proteostasis, Synapse, Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress
+GO Term: L-Threonine Catabolic Process -> Biodomain: Proteostasis, Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Autophagy
+GO Term: L-Tryptophan Metabolic Process -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Lipid Metabolism, Autophagy
+GO Term: L-Tryptophan Catabolic Process -> Biodomain: Immune Response, Oxidative Stress, Proteostasis, Synapse, Mitochondrial Metabolism
+GO Term: Tyrosine Metabolic Process -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Lipid Metabolism, Mitochondrial Metabolism
+GO Term: Tyrosine Biosynthetic Process -> Biodomain: Synapse, Proteostasis, Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress
+GO Term: L-Tyrosine Catabolic Process -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Mitochondrial Metabolism, Lipid Metabolism
+GO Term: Valine Metabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Synapse, Lipid Metabolism, Oxidative Stress
+GO Term: L-Valine Catabolic Process -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Autophagy, Lipid Metabolism
+GO Term: Modified Amino Acid Metabolic Process -> Biodomain: Proteostasis, Synapse, Oxidative Stress, Autophagy, Lipid Metabolism
+GO Term: Biogenic Amine Metabolic Process -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Oxidative Stress, Autophagy
+GO Term: Amino-Acid Betaine Metabolic Process -> Biodomain: Epigenetic, Proteostasis, Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress
+GO Term: Amino-Acid Betaine Catabolic Process -> Biodomain: Epigenetic, Proteostasis, Lipid Metabolism, Autophagy, Oxidative Stress
+GO Term: Ethanolamine Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Acetylcholine Catabolic Process -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Oxidative Stress, Mitochondrial Metabolism
+GO Term: Melanin Metabolic Process -> Biodomain: Oxidative Stress, Metal Binding and Homeostasis, Proteostasis, Endolysosome, Autophagy
+GO Term: Melanin Biosynthetic Process From Tyrosine -> Biodomain: Oxidative Stress, Endolysosome, Lipid Metabolism, Autophagy, Metal Binding and Homeostasis
+GO Term: Catecholamine Metabolic Process -> Biodomain: Synapse, Oxidative Stress, Proteostasis, Autophagy, Lipid Metabolism
+GO Term: Dopamine Biosynthetic Process From Tyrosine -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Lipid Metabolism, Autophagy
+GO Term: Serotonin Biosynthetic Process From Tryptophan -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Mitochondrial Metabolism, Lipid Metabolism
+GO Term: Octopamine Biosynthetic Process -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Autophagy, Mitochondrial Metabolism
+GO Term: Thyroid Hormone Generation -> Biodomain: Proteostasis, Synapse, Metal Binding and Homeostasis, Lipid Metabolism, Oxidative Stress
+GO Term: Ornithine Metabolic Process -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Mitochondrial Metabolism, Lipid Metabolism
+GO Term: Ornithine Biosynthetic Process -> Biodomain: Proteostasis, Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Autophagy
+GO Term: L-Ornithine Catabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Lipid Metabolism, Autophagy
+GO Term: Polyamine Metabolic Process -> Biodomain: Synapse, Proteostasis, Autophagy, Lipid Metabolism, Oxidative Stress
+GO Term: Polyamine Biosynthetic Process -> Biodomain: Synapse, Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis
+GO Term: Spermine Biosynthetic Process -> Biodomain: Synapse, Proteostasis, Lipid Metabolism, Oxidative Stress, Metal Binding and Homeostasis
+GO Term: Polyamine Catabolic Process -> Biodomain: Synapse, Proteostasis, Oxidative Stress, Lipid Metabolism, Epigenetic
+GO Term: Creatine Metabolic Process -> Biodomain: Mitochondrial Metabolism, Oxidative Stress, Lipid Metabolism, Proteostasis, Synapse
+GO Term: Creatine Biosynthetic Process -> Biodomain: Synapse, Mitochondrial Metabolism, Proteostasis, Lipid Metabolism, Oxidative Stress
+GO Term: Protein Targeting -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Epigenetic
+GO Term: Protein Import Into Nucleus -> Biodomain: Epigenetic, Proteostasis, Synapse, RNA Spliceosome, Cell Cycle
+GO Term: Nls-Bearing Protein Import Into Nucleus -> Biodomain: Epigenetic, Proteostasis, Synapse, DNA Repair, Cell Cycle
+GO Term: Ribosomal Protein Import Into Nucleus -> Biodomain: Synapse, Proteostasis, RNA Spliceosome, Epigenetic, Cell Cycle
+GO Term: Protein Export From Nucleus -> Biodomain: Synapse, Proteostasis, Epigenetic, RNA Spliceosome, Cell Cycle
+GO Term: Protein Targeting To Membrane -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Structural Stabilization
+GO Term: Cotranslational Protein Targeting To Membrane -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Structural Stabilization
+GO Term: Srp-Dependent Cotranslational Protein Targeting To Membrane -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Structural Stabilization
+GO Term: Srp-Dependent Cotranslational Protein Targeting To Membrane, Translocation -> Biodomain: Proteostasis, Synapse, Endolysosome, Autophagy, Structural Stabilization
+GO Term: Srp-Dependent Cotranslational Protein Targeting To Membrane, Signal Sequence Recognition -> Biodomain: Proteostasis, Synapse, Endolysosome, Autophagy, Cell Cycle
+GO Term: Post-Translational Protein Targeting To Endoplasmic Reticulum Membrane -> Biodomain: Synapse, Proteostasis, Endolysosome, Autophagy, Structural Stabilization
+GO Term: Protein Retention In Er Lumen -> Biodomain: Proteostasis, Apoptosis, Autophagy, Synapse, Oxidative Stress
+GO Term: Protein Targeting To Lysosome -> Biodomain: Endolysosome, Autophagy, Proteostasis, Synapse, Oxidative Stress
+GO Term: Protein Targeting To Vacuole -> Biodomain: Endolysosome, Proteostasis, Synapse, Autophagy, Lipid Metabolism
+GO Term: Vacuolar Protein Processing -> Biodomain: Endolysosome, Proteostasis, Autophagy, Synapse, Lipid Metabolism
+GO Term: Protein Targeting To Peroxisome -> Biodomain: Lipid Metabolism, Oxidative Stress, Proteostasis, Synapse, Endolysosome
+GO Term: Protein Targeting To Mitochondrion -> Biodomain: Mitochondrial Metabolism, Synapse, Proteostasis, Oxidative Stress, Autophagy
+GO Term: Protein Processing Involved In Protein Targeting To Mitochondrion -> Biodomain: Mitochondrial Metabolism, Proteostasis, Oxidative Stress, Endolysosome, Autophagy
+GO Term: Lipid Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Fatty Acid Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Oxidative Stress, Endolysosome
+GO Term: Fatty Acid Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Autophagy, Oxidative Stress
+GO Term: Fatty Acid Beta-Oxidation -> Biodomain: Mitochondrial Metabolism, Lipid Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Unsaturated Fatty Acid Biosynthetic Process -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Synapse
+GO Term: Acyl-Coa Metabolic Process -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Oxidative Stress, Proteostasis, Autophagy
+GO Term: Neutral Lipid Metabolic Process -> Biodomain: Lipid Metabolism, Autophagy, Myelination, Proteostasis, Endolysosome
+GO Term: Acylglycerol Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Oxidative Stress
+GO Term: Monoacylglycerol Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Triglyceride Metabolic Process -> Biodomain: Lipid Metabolism, Proteostasis, Synapse, Endolysosome, Oxidative Stress
+GO Term: Triglyceride Mobilization -> Biodomain: Lipid Metabolism, Proteostasis, Mitochondrial Metabolism, Autophagy, Oxidative Stress
+GO Term: Membrane Lipid Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Phospholipid Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Phosphatidylethanolamine Biosynthetic Process -> Biodomain: Lipid Metabolism, Mitochondrial Metabolism, Autophagy, Synapse, Structural Stabilization
+GO Term: Phospholipid Transfer To Membrane -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Structural Stabilization
+GO Term: Glycerophospholipid Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Oxidative Stress
+GO Term: Diacylglycerol Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Phosphatidic Acid Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Endolysosome, Autophagy, Proteostasis
+GO Term: Phosphatidylglycerol Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Mitochondrial Metabolism, Autophagy
+GO Term: Phosphatidylcholine Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Autophagy, Endolysosome
+GO Term: Cdp-Choline Pathway -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Structural Stabilization
+GO Term: Phosphatidylserine Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Endolysosome, Autophagy, Apoptosis
+GO Term: Phosphatidylserine Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Autophagy, Mitochondrial Metabolism, Proteostasis
+GO Term: Phosphatidylserine Catabolic Process -> Biodomain: Lipid Metabolism, Endolysosome, Autophagy, Synapse, Proteostasis
+GO Term: Phosphatidylinositol Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Autophagy, Endolysosome, Proteostasis
+GO Term: Platelet Activating Factor Biosynthetic Process -> Biodomain: Lipid Metabolism, Immune Response, Synapse, Proteostasis, Oxidative Stress
+GO Term: Glycolipid Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Structural Stabilization, Endolysosome, Proteostasis
+GO Term: Sphingolipid Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Autophagy, Endolysosome
+GO Term: 3-Keto-Sphinganine Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Endolysosome, Proteostasis, Oxidative Stress
+GO Term: Sphinganine Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Sphinganine-1-Phosphate Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Endolysosome, Oxidative Stress, Proteostasis
+GO Term: Sphinganine-1-Phosphate Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Oxidative Stress, Autophagy
+GO Term: Sphingosine Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Ceramide Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Autophagy, Proteostasis, Oxidative Stress
+GO Term: Glycosylceramide Metabolic Process -> Biodomain: Lipid Metabolism, Endolysosome, Autophagy, Proteostasis, Synapse
+GO Term: Glucosylceramide Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Endolysosome, Autophagy, Proteostasis
+GO Term: Glucosylceramide Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Glucosylceramide Catabolic Process -> Biodomain: Lipid Metabolism, Endolysosome, Autophagy, Structural Stabilization, Proteostasis
+GO Term: Galactosylceramide Metabolic Process -> Biodomain: Lipid Metabolism, Myelination, Synapse, Structural Stabilization, Endolysosome
+GO Term: Galactosylceramide Biosynthetic Process -> Biodomain: Lipid Metabolism, Myelination, Synapse, Proteostasis, Autophagy
+GO Term: Galactosylceramide Catabolic Process -> Biodomain: Lipid Metabolism, Myelination, Synapse, Proteostasis, Endolysosome
+GO Term: Sphingomyelin Metabolic Process -> Biodomain: Synapse, Lipid Metabolism, Endolysosome, Proteostasis, Oxidative Stress
+GO Term: Sphingomyelin Catabolic Process -> Biodomain: Lipid Metabolism, Endolysosome, Synapse, Proteostasis, Autophagy
+GO Term: Sphingomyelin Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Endolysosome, Proteostasis, Autophagy
+GO Term: Glycosphingolipid Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Proteostasis, Endolysosome, Autophagy
+GO Term: Glycosphingolipid Biosynthetic Process -> Biodomain: Lipid Metabolism, Synapse, Myelination, Endolysosome, Proteostasis
+GO Term: Ganglioside Catabolic Process -> Biodomain: Lipid Metabolism, Structural Stabilization, Proteostasis, Autophagy, Endolysosome
+GO Term: Icosanoid Metabolic Process -> Biodomain: Lipid Metabolism, Immune Response, Oxidative Stress, Proteostasis, Synapse
+GO Term: Leukotriene Metabolic Process -> Biodomain: Immune Response, Lipid Metabolism, Oxidative Stress, Proteostasis, Endolysosome
+GO Term: Prostanoid Metabolic Process -> Biodomain: Lipid Metabolism, Immune Response, Oxidative Stress, Synapse, Proteostasis
+GO Term: Prostaglandin Metabolic Process -> Biodomain: Lipid Metabolism, Synapse, Immune Response, Oxidative Stress, Proteostasis
+Saved results to: Experiment/DeepSeek/01-Reference_free/05-FXS/Temp_0.1/go_biodomain_results_part_6.csv
+Logged runtime to: Experiment/DeepSeek/01-Reference_free/05-FXS/Temp_0.1/runtime_log.csv
