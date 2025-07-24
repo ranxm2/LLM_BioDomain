@@ -11,7 +11,7 @@ set -euo pipefail
 # Output: Experiment_summary/merged_go_biodomain_leaderboard.csv
 #──────────────────────────────────────────────────────────────────────────────#
 
-OUT="Experiment_summary/merged_go_biodomain_leaderboard.csv"
+OUT="Experiment_summary/merged_go_biodomain.csv"
 # Remove any existing merged file
 rm -f "$OUT"
 

@@ -63,4 +63,15 @@ with OUT_CSV.open("w", newline="") as f:
             }
             writer.writerow(row)
 
+
 print(f"Wrote summary to {OUT_CSV}")
+
+# Lodad the summary CSV
+df = pd.read_csv(OUT_CSV)
+
+# filter only with unknown in name
+df = df[df['file'].str.contains('unknown')]
+
+# Save the filtered DataFrame to a new CSV
+filtered_csv = Path("./Experiment_summary/unknown_by_rank_summary_filtered.csv")
+df.to_csv(filtered_csv, index=False)

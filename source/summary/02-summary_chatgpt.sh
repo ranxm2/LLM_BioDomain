@@ -200,15 +200,15 @@ python -m baselines.eval eval \
     --method_name 'chatgpt_name_structure_similarity_temperature_0.0'
 python -m baselines.eval eval \
     --result_path './Experiment_summary/01-AD/chatgpt/chatgpt_name_structure_similarity_temperature_0.1.json' \
-    --leaderboard_path './Experiment_summary/01-AD/chatgpt/chatgpt_name_structure_similarity_temperature_0.1_leaderboard.csv'
+    --leaderboard_path './Experiment_summary/01-AD/chatgpt/chatgpt_name_structure_similarity_temperature_0.1_leaderboard.csv' \
     --method_name 'chatgpt_name_structure_similarity_temperature_0.1'
 python -m baselines.eval eval \
     --result_path './Experiment_summary/01-AD/chatgpt/chatgpt_name_structure_similarity_temperature_0.5.json' \
-    --leaderboard_path './Experiment_summary/01-AD/chatgpt/chatgpt_name_structure_similarity_temperature_0.5_leaderboard.csv'
+    --leaderboard_path './Experiment_summary/01-AD/chatgpt/chatgpt_name_structure_similarity_temperature_0.5_leaderboard.csv' \
     --method_name 'chatgpt_name_structure_similarity_temperature_0.5'
 python -m baselines.eval eval \
     --result_path './Experiment_summary/01-AD/chatgpt/chatgpt_name_structure_similarity_temperature_0.9.json' \
-    --leaderboard_path './Experiment_summary/01-AD/chatgpt/chatgpt_name_structure_similarity_temperature_0.9_leaderboard.csv'
+    --leaderboard_path './Experiment_summary/01-AD/chatgpt/chatgpt_name_structure_similarity_temperature_0.9_leaderboard.csv' \
     --method_name 'chatgpt_name_structure_similarity_temperature_0.9'
 python -m baselines.eval eval \
     --result_path './Experiment_summary/01-AD/chatgpt/chatgpt_name_structure_similarity_temperature_0.0_unknown.json' \
