@@ -1,0 +1,6710 @@
+[
+  {
+    "GO_ID": "GO:0000422",
+    "Biodomain_true": {
+      "Autophagy": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Mitochondrial Function and Metabolism": 0.5,
+      "Apoptosis": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0000462",
+    "Biodomain_true": {
+      "Transcription and Translation Machinery": 1.0
+    },
+    "Biodomain_pred": {
+      "RNA Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0000725",
+    "Biodomain_true": {
+      "DNA Repair": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0000727",
+    "Biodomain_true": {
+      "DNA Repair": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0001561",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Lipid Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0001787",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0001881",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Intracellular Trafficking and Organelle Dynamics": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Signal Transduction": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0001955",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0002036",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0002228",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0002430",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0002532",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Apoptosis": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0002534",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0002566",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0002666",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0002686",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0002707",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0002715",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0002716",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0002826",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0002866",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0002883",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Immune System and Inflammation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0003009",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0003057",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0003071",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0003188",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "System and Developmental Process": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0003190",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Structural Stabilization": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0003198",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0003214",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Signal Transduction": 0.7,
+      "Cell Adhesion and Interaction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Transcription and Translation Machinery": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0003274",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Adhesion and Interaction": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Apoptosis": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0003358",
+    "Biodomain_true": {
+      "Neurodevelopment and Neuronal Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0003418",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006104",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Mitochondrial Function and Metabolism": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006121",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Mitochondrial Function and Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006261",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Signal Transduction": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006268",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006270",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006271",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006287",
+    "Biodomain_true": {
+      "DNA Repair": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006310",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006364",
+    "Biodomain_true": {
+      "Transcription and Translation Machinery": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "RNA Metabolism": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006414",
+    "Biodomain_true": {
+      "Transcription and Translation Machinery": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006415",
+    "Biodomain_true": {
+      "Transcription and Translation Machinery": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006457",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006458",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006505",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006508",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006515",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Protein Metabolism and Trafficking": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006613",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006614",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006616",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006617",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006620",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006621",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006633",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Lipid Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006636",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Lipid Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006656",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Lipid Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006658",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006692",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006699",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006707",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Lipid Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006825",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006839",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Mitochondrial Function and Metabolism": 0.9,
+      "Intracellular Trafficking and Organelle Dynamics": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006879",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006883",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Molecular Transport and Homeostasis": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006888",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006890",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006891",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006900",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006901",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006910",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006970",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006984",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Signal Transduction": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006991",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0006995",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0007000",
+    "Biodomain_true": {
+      "Transcription and Translation Machinery": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "RNA Metabolism": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0007019",
+    "Biodomain_true": {
+      "Structural Stabilization": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0007029",
+    "Biodomain_true": {
+      "Structural Stabilization": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0007032",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0007064",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Cycle": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0007143",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Cell Cycle": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0007144",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Cycle": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0007156",
+    "Biodomain_true": {
+      "Cell Adhesion and Interaction": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Adhesion and Interaction": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0007168",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0007254",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0007398",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0007512",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0008078",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0008300",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0008637",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Apoptosis": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Mitochondrial Function and Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0008654",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Lipid Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0009266",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0009408",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0009948",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Signal Transduction": 0.7,
+      "System and Developmental Process": 0.5,
+      "Cell Adhesion and Interaction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0010032",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Cell Cycle": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0010216",
+    "Biodomain_true": {
+      "Epigenetic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Epigenetic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Transcription and Translation Machinery": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0010447",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0010470",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0010498",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Apoptosis": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0010508",
+    "Biodomain_true": {
+      "Autophagy": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Autophagy": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0010663",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Apoptosis": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0010712",
+    "Biodomain_true": {
+      "Cell Adhesion and Interaction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Cell Adhesion and Interaction": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0010713",
+    "Biodomain_true": {
+      "Cell Adhesion and Interaction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Cell Adhesion and Interaction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0010719",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0010821",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Mitochondrial Function and Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0010822",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Mitochondrial Function and Metabolism": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Apoptosis": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0010823",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Mitochondrial Function and Metabolism": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0010827",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0014009",
+    "Biodomain_true": {
+      "Gliogenesis and Glial Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Gliogenesis and Glial Differentiation": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Apoptosis": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0014029",
+    "Biodomain_true": {
+      "Neurodevelopment and Neuronal Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Gliogenesis and Glial Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0014034",
+    "Biodomain_true": {
+      "Neurodevelopment and Neuronal Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0014037",
+    "Biodomain_true": {
+      "Gliogenesis and Glial Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0014037",
+    "Biodomain_true": {
+      "Gliogenesis and Glial Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0014051",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0014050",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0014722",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0015874",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0016050",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Intracellular Trafficking and Organelle Dynamics": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0016115",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0016239",
+    "Biodomain_true": {
+      "Autophagy": 1.0
+    },
+    "Biodomain_pred": {
+      "Autophagy": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0017038",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0018208",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0018401",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Cell Adhesion and Interaction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0019076",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0019348",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0019372",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0021781",
+    "Biodomain_true": {
+      "Gliogenesis and Glial Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Gliogenesis and Glial Differentiation": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0021782",
+    "Biodomain_true": {
+      "Gliogenesis and Glial Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Gliogenesis and Glial Differentiation": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Apoptosis": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0022615",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Intracellular Trafficking and Organelle Dynamics": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0023057",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0030101",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Cell Adhesion and Interaction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0030150",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Mitochondrial Function and Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0030163",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0030174",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Signal Transduction": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0030219",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0030308",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Apoptosis": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Cell Adhesion and Interaction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0097466",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0030490",
+    "Biodomain_true": {
+      "Transcription and Translation Machinery": 1.0
+    },
+    "Biodomain_pred": {
+      "RNA Metabolism": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0030522",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031017",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Cell Adhesion and Interaction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031018",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Signal Transduction": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Transcription and Translation Machinery": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031064",
+    "Biodomain_true": {
+      "Epigenetic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Epigenetic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Transcription and Translation Machinery": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031098",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031118",
+    "Biodomain_true": {
+      "Transcription and Translation Machinery": 1.0
+    },
+    "Biodomain_pred": {
+      "RNA Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031125",
+    "Biodomain_true": {
+      "Transcription and Translation Machinery": 1.0
+    },
+    "Biodomain_pred": {
+      "RNA Metabolism": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Signal Transduction": 0.3,
+      "Transcription and Translation Machinery": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031133",
+    "Biodomain_true": {
+      "Neurodevelopment and Neuronal Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Cell Adhesion and Interaction": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031204",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031297",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Neurotransmission and Synaptic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031348",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031640",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Cell Adhesion and Interaction": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031647",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Protein Metabolism and Trafficking": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031648",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031663",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031664",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031953",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032088",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Immune System and Inflammation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032229",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032386",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032387",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Intracellular Trafficking and Organelle Dynamics": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032430",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Signal Transduction": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032430",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032436",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032480",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032507",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032527",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032594",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032607",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032608",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032621",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032627",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032688",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032740",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032741",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032814",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Signal Transduction": 0.3,
+      "Cell Adhesion and Interaction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032815",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0032816",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0033157",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0033211",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0033262",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Cycle": 0.9,
+      "DNA Repair": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0033313",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Signal Transduction": 0.5,
+      "Cell Cycle": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0033314",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Cycle": 0.9,
+      "DNA Repair": 0.7,
+      "Signal Transduction": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0033559",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Lipid Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0034067",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0034085",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Cycle": 0.9,
+      "DNA Repair": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0034162",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0034342",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0034389",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Lipid Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0034498",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0034508",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Cell Cycle": 0.3,
+      "Structural Stabilization": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0034605",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0034976",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035023",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Apoptosis": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035278",
+    "Biodomain_true": {
+      "Epigenetic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "RNA Metabolism": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035356",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Lipid Metabolism": 0.9,
+      "Molecular Transport and Homeostasis": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Apoptosis": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035358",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035437",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035459",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035666",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035809",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035810",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035812",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035825",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035878",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Structural Stabilization": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035905",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "System and Developmental Process": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035907",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "System and Developmental Process": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035909",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Structural Stabilization": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035912",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "System and Developmental Process": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035914",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0035966",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0036109",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Lipid Metabolism": 0.5,
+      "Apoptosis": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0036265",
+    "Biodomain_true": {
+      "RNA Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "RNA Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0036295",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0036296",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0036297",
+    "Biodomain_true": {
+      "DNA Repair": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0036376",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0036498",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0036503",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0039531",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0039532",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0040008",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Cell Adhesion and Interaction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0040031",
+    "Biodomain_true": {
+      "RNA Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "RNA Metabolism": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Transcription and Translation Machinery": 0.5,
+      "Neurotransmission and Synaptic Regulation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042026",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Protein Metabolism and Trafficking": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042044",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Molecular Transport and Homeostasis": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042045",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Cell Adhesion and Interaction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042059",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042069",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042148",
+    "Biodomain_true": {
+      "DNA Repair": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042176",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042254",
+    "Biodomain_true": {
+      "Transcription and Translation Machinery": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042270",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042274",
+    "Biodomain_true": {
+      "Transcription and Translation Machinery": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042308",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042416",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042474",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "System and Developmental Process": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042532",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0042976",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0043124",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Immune System and Inflammation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0043277",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0043320",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0043401",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0043405",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Apoptosis": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0043407",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Apoptosis": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0043409",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0043504",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Mitochondrial Function and Metabolism": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0043506",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0043507",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0043508",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0043651",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Lipid Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0043652",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0043654",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0044743",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0044786",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Cycle": 0.9,
+      "DNA Repair": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0044788",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0044794",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0044827",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0044829",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0044830",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0044839",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Cycle": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0044872",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Lipid Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045005",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045017",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Lipid Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045048",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045050",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045059",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045112",
+    "Biodomain_true": {
+      "Cell Adhesion and Interaction": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Adhesion and Interaction": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045132",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Cell Cycle": 0.3,
+      "Structural Stabilization": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045176",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Cell Adhesion and Interaction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045185",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Intracellular Trafficking and Organelle Dynamics": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045341",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045345",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045586",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Cell Adhesion and Interaction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045652",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045654",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045730",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045732",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045824",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045835",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Cell Cycle": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045926",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Apoptosis": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045954",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0045989",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0046324",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0046328",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Signal Transduction": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0046330",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0046426",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0046456",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Immune System and Inflammation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0046457",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0046470",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Lipid Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0046474",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Lipid Metabolism": 0.5,
+      "Signal Transduction": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0046488",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0046825",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "RNA Metabolism": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0046902",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Mitochondrial Function and Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0048193",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0048194",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0048199",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0048207",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0048210",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0048261",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0048280",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0048534",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Immune System and Inflammation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Cell Adhesion and Interaction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0048840",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Signal Transduction": 0.7,
+      "Cell Adhesion and Interaction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0048853",
+    "Biodomain_true": {
+      "Neurodevelopment and Neuronal Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Cell Adhesion and Interaction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0048859",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "System and Developmental Process": 0.3,
+      "Gliogenesis and Glial Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0050435",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0050687",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0050765",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0050821",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Protein Metabolism and Trafficking": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0050872",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Cell Adhesion and Interaction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0050901",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051013",
+    "Biodomain_true": {
+      "Structural Stabilization": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051085",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051121",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051127",
+    "Biodomain_true": {
+      "Structural Stabilization": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Cell Adhesion and Interaction": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051131",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051132",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051205",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051382",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Cell Cycle": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Structural Stabilization": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051386",
+    "Biodomain_true": {
+      "Neurodevelopment and Neuronal Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Apoptosis": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051480",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051561",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Mitochondrial Function and Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051574",
+    "Biodomain_true": {
+      "Epigenetic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Epigenetic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Transcription and Translation Machinery": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051603",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Apoptosis": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051620",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051697",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Lipid Metabolism": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051788",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051934",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051935",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0051984",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Cell Cycle": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0055059",
+    "Biodomain_true": {
+      "Neurodevelopment and Neuronal Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0055078",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Molecular Transport and Homeostasis": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0060020",
+    "Biodomain_true": {
+      "Gliogenesis and Glial Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Gliogenesis and Glial Differentiation": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0060251",
+    "Biodomain_true": {
+      "Gliogenesis and Glial Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Gliogenesis and Glial Differentiation": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Apoptosis": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0060263",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0060317",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0060452",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0060623",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Cycle": 0.7,
+      "Apoptosis": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0060674",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0060716",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Signal Transduction": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0060837",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0060842",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0060856",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0061077",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0061136",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0061314",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Signal Transduction": 0.5,
+      "System and Developmental Process": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0061684",
+    "Biodomain_true": {
+      "Autophagy": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Autophagy": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0061912",
+    "Biodomain_true": {
+      "Autophagy": 1.0
+    },
+    "Biodomain_pred": {
+      "Autophagy": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0061919",
+    "Biodomain_true": {
+      "Autophagy": 1.0
+    },
+    "Biodomain_pred": {
+      "Autophagy": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0061982",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Cycle": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0065002",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0070192",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Cell Cycle": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0070302",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0070306",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Transcription and Translation Machinery": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0070537",
+    "Biodomain_true": {
+      "Epigenetic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Epigenetic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "RNA Metabolism": 0.5,
+      "Signal Transduction": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0070564",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0070669",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0070816",
+    "Biodomain_true": {
+      "Transcription and Translation Machinery": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "RNA Metabolism": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0070861",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Protein Metabolism and Trafficking": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0070863",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0070972",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071103",
+    "Biodomain_true": {
+      "Transcription and Translation Machinery": 1.0
+    },
+    "Biodomain_pred": {
+      "Epigenetic Regulation": 0.9,
+      "DNA Repair": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071139",
+    "Biodomain_true": {
+      "DNA Repair": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071166",
+    "Biodomain_true": {
+      "RNA Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "RNA Metabolism": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071257",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Signal Transduction": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071285",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071321",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071383",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071392",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071394",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071440",
+    "Biodomain_true": {
+      "Epigenetic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Epigenetic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Transcription and Translation Machinery": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071459",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "RNA Metabolism": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071468",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071501",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071806",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Intracellular Trafficking and Organelle Dynamics": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071816",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071901",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0072595",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0072599",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0072656",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Mitochondrial Function and Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0072683",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Cell Adhesion and Interaction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0085020",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0086100",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090085",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090114",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090116",
+    "Biodomain_true": {
+      "Epigenetic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Epigenetic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "RNA Metabolism": 0.5,
+      "Signal Transduction": 0.3,
+      "Transcription and Translation Machinery": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090162",
+    "Biodomain_true": {
+      "Structural Stabilization": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090177",
+    "Biodomain_true": {
+      "Neurodevelopment and Neuronal Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090208",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Lipid Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090235",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Cycle": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Transcription and Translation Machinery": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090240",
+    "Biodomain_true": {
+      "Epigenetic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Epigenetic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Transcription and Translation Machinery": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090241",
+    "Biodomain_true": {
+      "Epigenetic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Epigenetic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Transcription and Translation Machinery": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090281",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Calcium Homeostasis": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090289",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090316",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090317",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090329",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Transcription and Translation Machinery": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090461",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090559",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0090673",
+    "Biodomain_true": {
+      "Cell Adhesion and Interaction": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Adhesion and Interaction": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0097066",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0097067",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0097084",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0097201",
+    "Biodomain_true": {
+      "Transcription and Translation Machinery": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Transcription and Translation Machinery": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0097345",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Apoptosis": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1904892",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0098760",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0098780",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Mitochondrial Function and Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0098801",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0098927",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0099509",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0099612",
+    "Biodomain_true": {
+      "Neurodevelopment and Neuronal Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0140059",
+    "Biodomain_true": {
+      "Neurodevelopment and Neuronal Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Cell Adhesion and Interaction": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0140467",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0150093",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1900017",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1900078",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1900101",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Apoptosis": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1900264",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1901028",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Apoptosis": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1901029",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Apoptosis": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1901223",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Immune System and Inflammation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1901289",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Mitochondrial Function and Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1901798",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Apoptosis": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1901799",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1901800",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1901976",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Cycle": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "Transcription and Translation Machinery": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1901977",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Cycle": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Signal Transduction": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1902175",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Apoptosis": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1902235",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Apoptosis": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1902236",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Apoptosis": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1902255",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Apoptosis": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1902292",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Cycle": 0.9,
+      "DNA Repair": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1902415",
+    "Biodomain_true": {
+      "RNA Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "RNA Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1902498",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1902532",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1902548",
+    "Biodomain_true": {
+      "Response to Stimulus": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1902686",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Apoptosis": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Mitochondrial Function and Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1902749",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Cycle": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Apoptosis": 0.3,
+      "Transcription and Translation Machinery": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1902956",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Mitochondrial Function and Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1902969",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Cycle": 0.9,
+      "DNA Repair": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903003",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903050",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903051",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903052",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Apoptosis": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903071",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Autophagy": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903083",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "RNA Metabolism": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903121",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Apoptosis": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903509",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Molecular Transport and Homeostasis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903513",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903573",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Apoptosis": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903753",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903789",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903894",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903897",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903898",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903912",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903932",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Transcription and Translation Machinery": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1903943",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Apoptosis": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1904152",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1904292",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Intracellular Trafficking and Organelle Dynamics": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1904874",
+    "Biodomain_true": {
+      "RNA Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1904892",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1904893",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1904923",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Mitochondrial Function and Metabolism": 0.7,
+      "Autophagy": 0.5,
+      "Response to Stimulus": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1905216",
+    "Biodomain_true": {
+      "RNA Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "RNA Metabolism": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1905380",
+    "Biodomain_true": {
+      "RNA Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "RNA Metabolism": 0.7,
+      "Transcription and Translation Machinery": 0.5,
+      "Neurotransmission and Synaptic Regulation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1905456",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Immune System and Inflammation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Cell Adhesion and Interaction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1905710",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Apoptosis": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1905821",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Cell Cycle": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1905868",
+    "Biodomain_true": {
+      "RNA Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "RNA Metabolism": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1905897",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Immune System and Inflammation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1905906",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1990144",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Apoptosis": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Neurotransmission and Synaptic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1990403",
+    "Biodomain_true": {
+      "System and Developmental Process": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Gliogenesis and Glial Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Transcription and Translation Machinery": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1990542",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Mitochondrial Function and Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1990564",
+    "Biodomain_true": {
+      "Protein Metabolism and Trafficking": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1990709",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Intracellular Trafficking and Organelle Dynamics": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1990791",
+    "Biodomain_true": {
+      "Neurodevelopment and Neuronal Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Cell Adhesion and Interaction": 0.7,
+      "Signal Transduction": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1990918",
+    "Biodomain_true": {
+      "DNA Repair": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Response to Stimulus": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2000001",
+    "Biodomain_true": {
+      "DNA Repair": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Cell Cycle": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2000002",
+    "Biodomain_true": {
+      "DNA Repair": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2000105",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2000249",
+    "Biodomain_true": {
+      "Structural Stabilization": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Cell Adhesion and Interaction": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2000251",
+    "Biodomain_true": {
+      "Structural Stabilization": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Cell Adhesion and Interaction": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2000405",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Response to Stimulus": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2000425",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Immune System and Inflammation": 0.7,
+      "Apoptosis": 0.5,
+      "Neurotransmission and Synaptic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2000427",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Immune System and Inflammation": 0.7,
+      "Apoptosis": 0.5,
+      "Neurotransmission and Synaptic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2000523",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Cell Adhesion and Interaction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2000629",
+    "Biodomain_true": {
+      "RNA Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "RNA Metabolism": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2000638",
+    "Biodomain_true": {
+      "Signal Transduction": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2000641",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2000643",
+    "Biodomain_true": {
+      "Intracellular Trafficking and Organelle Dynamics": 1.0
+    },
+    "Biodomain_pred": {
+      "Intracellular Trafficking and Organelle Dynamics": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2000977",
+    "Biodomain_true": {
+      "Neurodevelopment and Neuronal Differentiation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurodevelopment and Neuronal Differentiation": 0.9,
+      "Signal Transduction": 0.7,
+      "Transcription and Translation Machinery": 0.5,
+      "Cell Adhesion and Interaction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0009890",
+    "Biodomain_true": {
+      "Mitochondrial Function and Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2001187",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2001198",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2001200",
+    "Biodomain_true": {
+      "Immune System and Inflammation": 1.0
+    },
+    "Biodomain_pred": {
+      "Immune System and Inflammation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2001233",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Apoptosis": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2001235",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Apoptosis": 0.5,
+      "Immune System and Inflammation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2001244",
+    "Biodomain_true": {
+      "Apoptosis": 1.0
+    },
+    "Biodomain_pred": {
+      "Apoptosis": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Immune System and Inflammation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:2001279",
+    "Biodomain_true": {
+      "Lipid Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Lipid Metabolism": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0031261",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Signal Transduction": 0.3,
+      "RNA Metabolism": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0071014",
+    "Biodomain_true": {
+      "RNA Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "RNA Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0099086",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Cell Adhesion and Interaction": 0.5,
+      "Signal Transduction": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0099524",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1990023",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "Cell Cycle": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Apoptosis": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0000217",
+    "Biodomain_true": {
+      "Transcription and Translation Machinery": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "RNA Metabolism": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0000400",
+    "Biodomain_true": {
+      "DNA Repair": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "RNA Metabolism": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0003964",
+    "Biodomain_true": {
+      "Cell Cycle": 1.0
+    },
+    "Biodomain_pred": {
+      "RNA Metabolism": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurotransmission and Synaptic Regulation": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Neurodevelopment and Neuronal Differentiation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0008821",
+    "Biodomain_true": {
+      "DNA Repair": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "Protein Metabolism and Trafficking": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0016530",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Protein Metabolism and Trafficking": 0.7,
+      "Molecular Transport and Homeostasis": 0.5,
+      "Epigenetic Regulation": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0016531",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Intracellular Trafficking and Organelle Dynamics": 0.3,
+      "Epigenetic Regulation": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0017116",
+    "Biodomain_true": {
+      "DNA Repair": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "RNA Metabolism": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0019870",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Signal Transduction": 0.5,
+      "Response to Stimulus": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0030145",
+    "Biodomain_true": {
+      "Molecular Transport and Homeostasis": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Signal Transduction": 0.3,
+      "Response to Stimulus": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0030983",
+    "Biodomain_true": {
+      "DNA Repair": 1.0
+    },
+    "Biodomain_pred": {
+      "DNA Repair": 0.9,
+      "Epigenetic Regulation": 0.7,
+      "Neurodevelopment and Neuronal Differentiation": 0.5,
+      "RNA Metabolism": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:0098882",
+    "Biodomain_true": {
+      "Neurotransmission and Synaptic Regulation": 1.0
+    },
+    "Biodomain_pred": {
+      "Neurotransmission and Synaptic Regulation": 0.9,
+      "Neurodevelopment and Neuronal Differentiation": 0.7,
+      "Protein Metabolism and Trafficking": 0.5,
+      "Cell Adhesion and Interaction": 0.3,
+      "Signal Transduction": 0.1
+    }
+  },
+  {
+    "GO_ID": "GO:1990935",
+    "Biodomain_true": {
+      "RNA Metabolism": 1.0
+    },
+    "Biodomain_pred": {
+      "RNA Metabolism": 0.9,
+      "Neurotransmission and Synaptic Regulation": 0.7,
+      "Epigenetic Regulation": 0.5,
+      "Neurodevelopment and Neuronal Differentiation": 0.3,
+      "Protein Metabolism and Trafficking": 0.1
+    }
+  }
+]

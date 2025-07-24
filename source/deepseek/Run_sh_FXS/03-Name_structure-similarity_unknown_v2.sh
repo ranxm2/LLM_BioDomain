@@ -35,7 +35,7 @@ python ./source/deepseek/deepseek_biodomain_name_structure_similarity_unknown_v2
   --df_go_path data/go_root_paths_FXS.csv \
   --obo_path data/go-basic.obo \
   --similarity_path data/go_jaccard_long_filtered.csv \
-  --result_dir Experiment/DeepSeek/02-FXS/03-Name_structure_similarity/Temp_${TEMP} \
+  --result_dir Experiment/DeepSeek/02-FXS/03-Name_structure_similarity/Unknown_0 \
   --array_index ${sub_array_index} \
   --work_dir /projects/compbio/users/xran2/wen/JX/02-AI-BioDomain/git_folder \
   --temperature ${TEMP}

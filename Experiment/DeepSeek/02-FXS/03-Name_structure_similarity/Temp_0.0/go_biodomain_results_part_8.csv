@@ -1,75 +1,67 @@
 node,nodeID,root node,root node ID,biodomain
-GOBP_LENS_FIBER_CELL_DIFFERENTIATION,GO:0070306,biological_process,GO:0008150,"Neurodevelopment and Neuronal Differentiation,System and Developmental Process,Cell Adhesion and Interaction,Cell Cycle,Structural Stabilization"
-GOBP_HISTONE_H2A_K63_LINKED_DEUBIQUITINATION,GO:0070537,biological_process,GO:0008150,"Epigenetic Regulation, Protein Metabolism and Trafficking, Transcription and Translation Machinery, Signal Transduction, Response to Stimulus"
-GOBP_POSITIVE_REGULATION_OF_VITAMIN_D_RECEPTOR_SIGNALING_PATHWAY,GO:0070564,biological_process,GO:0008150,"Signal Transduction  
-Molecular Transport and Homeostasis  
-Response to Stimulus  
-Epigenetic Regulation  
-Lipid Metabolism"
-GOBP_RESPONSE_TO_INTERLEUKIN_2,GO:0070669,biological_process,GO:0008150,"Immune System and Inflammation, Signal Transduction, Response to Stimulus, System and Developmental Process, Molecular Transport and Homeostasis"
-GOBP_PHOSPHORYLATION_OF_RNA_POLYMERASE_II_C_TERMINAL_DOMAIN,GO:0070816,biological_process,GO:0008150,"Signal Transduction, Transcription and Translation Machinery, Epigenetic Regulation, Protein Metabolism and Trafficking, Response to Stimulus"
-GOBP_REGULATION_OF_PROTEIN_EXIT_FROM_ENDOPLASMIC_RETICULUM,GO:0070861,biological_process,GO:0008150,"Protein Metabolism and Trafficking, Intracellular Trafficking and Organelle Dynamics, Molecular Transport and Homeostasis, Signal Transduction, Response to Stimulus"
+GOBP_LENS_FIBER_CELL_DIFFERENTIATION,GO:0070306,biological_process,GO:0008150,"Neurodevelopment and Neuronal Differentiation, System and Developmental Process, Cell Cycle, Cell Adhesion and Interaction, Structural Stabilization"
+GOBP_HISTONE_H2A_K63_LINKED_DEUBIQUITINATION,GO:0070537,biological_process,GO:0008150,"Epigenetic Regulation, Protein Metabolism and Trafficking, Transcription and Translation Machinery, Signal Transduction, DNA Repair"
+GOBP_POSITIVE_REGULATION_OF_VITAMIN_D_RECEPTOR_SIGNALING_PATHWAY,GO:0070564,biological_process,GO:0008150,"Signal Transduction, Lipid Metabolism, Response to Stimulus, Molecular Transport and Homeostasis, Transcription and Translation Machinery"
+GOBP_RESPONSE_TO_INTERLEUKIN_2,GO:0070669,biological_process,GO:0008150,"Immune System and Inflammation, Signal Transduction, Response to Stimulus, Transcription and Translation Machinery, System and Developmental Process"
+GOBP_PHOSPHORYLATION_OF_RNA_POLYMERASE_II_C_TERMINAL_DOMAIN,GO:0070816,biological_process,GO:0008150,"Transcription and Translation Machinery, Epigenetic Regulation, Signal Transduction, Protein Metabolism and Trafficking, RNA Metabolism"
+GOBP_REGULATION_OF_PROTEIN_EXIT_FROM_ENDOPLASMIC_RETICULUM,GO:0070861,biological_process,GO:0008150,"Protein Metabolism and Trafficking, Intracellular Trafficking and Organelle Dynamics, Molecular Transport and Homeostasis, Regulation of Cellular Process, Signal Transduction"
 GOBP_POSITIVE_REGULATION_OF_PROTEIN_EXIT_FROM_ENDOPLASMIC_RETICULUM,GO:0070863,biological_process,GO:0008150,"ERROR: Error code: 400 - {'error': {'message': ""The length of your prompt exceeds the model's max input limit 65536. Please reduce the length of your prompt and try again."", 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
-GOBP_PROTEIN_LOCALIZATION_TO_ENDOPLASMIC_RETICULUM,GO:0070972,biological_process,GO:0008150,"Protein Metabolism and Trafficking, Intracellular Trafficking and Organelle Dynamics, Molecular Transport and Homeostasis, System and Developmental Process, Structural Stabilization"
-GOBP_DNA_CONFORMATION_CHANGE,GO:0071103,biological_process,GO:0008150,"DNA Repair, Epigenetic Regulation, Transcription and Translation Machinery, Cell Cycle, Structural Stabilization"
-GOBP_RESOLUTION_OF_RECOMBINATION_INTERMEDIATES,GO:0071139,biological_process,GO:0008150,"DNA Repair, Cell Cycle, Structural Stabilization, Signal Transduction, Response to Stimulus"
-GOBP_RIBONUCLEOPROTEIN_COMPLEX_LOCALIZATION,GO:0071166,biological_process,GO:0008150,"RNA Metabolism, Molecular Transport and Homeostasis, Intracellular Trafficking and Organelle Dynamics, Protein Metabolism and Trafficking, Transcription and Translation Machinery"
-GOBP_CELLULAR_RESPONSE_TO_ELECTRICAL_STIMULUS,GO:0071257,biological_process,GO:0008150,"Response to Stimulus, Molecular Transport and Homeostasis, Signal Transduction, System and Developmental Process, Cell Adhesion and Interaction"
-GOBP_CELLULAR_RESPONSE_TO_LITHIUM_ION,GO:0071285,biological_process,GO:0008150,"Response to Stimulus
-Molecular Transport and Homeostasis
-System and Developmental Process
-Signal Transduction
-Intracellular Trafficking and Organelle Dynamics"
-GOBP_CELLULAR_RESPONSE_TO_CGMP,GO:0071321,biological_process,GO:0008150,"Response to Stimulus, Signal Transduction, Molecular Transport and Homeostasis, Cell Adhesion and Interaction, System and Developmental Process"
-GOBP_CELLULAR_RESPONSE_TO_STEROID_HORMONE_STIMULUS,GO:0071383,biological_process,GO:0008150,"Signal Transduction, Lipid Metabolism, Molecular Transport and Homeostasis, Response to Stimulus, Protein Metabolism and Trafficking"
-GOBP_CELLULAR_RESPONSE_TO_ESTRADIOL_STIMULUS,GO:0071392,biological_process,GO:0008150,"Response to Stimulus, Signal Transduction, Transcription and Translation Machinery, Molecular Transport and Homeostasis, Epigenetic Regulation"
-GOBP_CELLULAR_RESPONSE_TO_TESTOSTERONE_STIMULUS,GO:0071394,biological_process,GO:0008150,"Response to Stimulus, Lipid Metabolism, Signal Transduction, Molecular Transport and Homeostasis, Transcription and Translation Machinery"
-GOBP_REGULATION_OF_HISTONE_H3_K14_ACETYLATION,GO:0071440,biological_process,GO:0008150,"Epigenetic Regulation, Transcription and Translation Machinery, Protein Metabolism and Trafficking, Signal Transduction, Response to Stimulus"
-GOBP_PROTEIN_LOCALIZATION_TO_CHROMOSOME_CENTROMERIC_REGION,GO:0071459,biological_process,GO:0008150,"Protein Metabolism and Trafficking, Intracellular Trafficking and Organelle Dynamics, Cell Cycle, Structural Stabilization, Molecular Transport and Homeostasis"
-GOBP_CELLULAR_RESPONSE_TO_ACIDIC_PH,GO:0071468,biological_process,GO:0008150,"Response to Stimulus, Molecular Transport and Homeostasis, Intracellular Trafficking and Organelle Dynamics, Signal Transduction, System and Developmental Process"
-GOBP_CELLULAR_RESPONSE_TO_STEROL_DEPLETION,GO:0071501,biological_process,GO:0008150,"Response to Stimulus, Molecular Transport and Homeostasis, Lipid Metabolism, System and Developmental Process, Signal Transduction"
+GOBP_PROTEIN_LOCALIZATION_TO_ENDOPLASMIC_RETICULUM,GO:0070972,biological_process,GO:0008150,"Intracellular Trafficking and Organelle Dynamics, Protein Metabolism and Trafficking, Molecular Transport and Homeostasis, System and Developmental Process, Cellular Process"
+GOBP_DNA_CONFORMATION_CHANGE,GO:0071103,biological_process,GO:0008150,"DNA Repair, Epigenetic Regulation, Chromatin Organization, Transcription and Translation Machinery, Cell Cycle"
+GOBP_RESOLUTION_OF_RECOMBINATION_INTERMEDIATES,GO:0071139,biological_process,GO:0008150,"DNA Repair, Cell Cycle, Transcription and Translation Machinery, Molecular Transport and Homeostasis, Signal Transduction"
+GOBP_RIBONUCLEOPROTEIN_COMPLEX_LOCALIZATION,GO:0071166,biological_process,GO:0008150,"Molecular Transport and Homeostasis, Intracellular Trafficking and Organelle Dynamics, RNA Metabolism, Protein Metabolism and Trafficking, Structural Stabilization"
+GOBP_CELLULAR_RESPONSE_TO_ELECTRICAL_STIMULUS,GO:0071257,biological_process,GO:0008150,"Response to Stimulus, System and Developmental Process, Signal Transduction, Neurotransmission and Synaptic Regulation, Transcription and Translation Machinery"
+GOBP_CELLULAR_RESPONSE_TO_LITHIUM_ION,GO:0071285,biological_process,GO:0008150,"Response to Stimulus, Molecular Transport and Homeostasis, Signal Transduction, Neurotransmission and Synaptic Regulation, System and Developmental Process"
+GOBP_CELLULAR_RESPONSE_TO_CGMP,GO:0071321,biological_process,GO:0008150,"Signal Transduction, Molecular Transport and Homeostasis, Response to Stimulus, Neurotransmission and Synaptic Regulation, System and Developmental Process"
+GOBP_CELLULAR_RESPONSE_TO_STEROID_HORMONE_STIMULUS,GO:0071383,biological_process,GO:0008150,"Response to Stimulus, Signal Transduction, Transcription and Translation Machinery, Molecular Transport and Homeostasis, Lipid Metabolism"
+GOBP_CELLULAR_RESPONSE_TO_ESTRADIOL_STIMULUS,GO:0071392,biological_process,GO:0008150,"Response to Stimulus  
+Signal Transduction  
+Transcription and Translation Machinery  
+Protein Metabolism and Trafficking  
+Molecular Transport and Homeostasis"
+GOBP_CELLULAR_RESPONSE_TO_TESTOSTERONE_STIMULUS,GO:0071394,biological_process,GO:0008150,"Response to Stimulus, Signal Transduction, Molecular Transport and Homeostasis, Transcription and Translation Machinery, System and Developmental Process"
+GOBP_REGULATION_OF_HISTONE_H3_K14_ACETYLATION,GO:0071440,biological_process,GO:0008150,"Epigenetic Regulation, Transcription and Translation Machinery, Signal Transduction, Response to Stimulus, System and Developmental Process"
+GOBP_PROTEIN_LOCALIZATION_TO_CHROMOSOME_CENTROMERIC_REGION,GO:0071459,biological_process,GO:0008150,"Cell Cycle, Epigenetic Regulation, Intracellular Trafficking and Organelle Dynamics, Structural Stabilization, Protein Metabolism and Trafficking"
+GOBP_CELLULAR_RESPONSE_TO_ACIDIC_PH,GO:0071468,biological_process,GO:0008150,"Response to Stimulus, Molecular Transport and Homeostasis, System and Developmental Process, Signal Transduction, Intracellular Trafficking and Organelle Dynamics"
+GOBP_CELLULAR_RESPONSE_TO_STEROL_DEPLETION,GO:0071501,biological_process,GO:0008150,"Response to Stimulus, Lipid Metabolism, Molecular Transport and Homeostasis, Signal Transduction, System and Developmental Process"
 GOBP_PROTEIN_TRANSMEMBRANE_TRANSPORT,GO:0071806,biological_process,GO:0008150,"Molecular Transport and Homeostasis, Protein Metabolism and Trafficking, Intracellular Trafficking and Organelle Dynamics, Signal Transduction, System and Developmental Process"
 GOBP_TAIL_ANCHORED_MEMBRANE_PROTEIN_INSERTION_INTO_ER_MEMBRANE,GO:0071816,biological_process,GO:0008150,"Protein Metabolism and Trafficking, Intracellular Trafficking and Organelle Dynamics, Molecular Transport and Homeostasis, Structural Stabilization, System and Developmental Process"
 GOBP_NEGATIVE_REGULATION_OF_PROTEIN_SERINE_THREONINE_KINASE_ACTIVITY,GO:0071901,biological_process,GO:0008150,"ERROR: Error code: 400 - {'error': {'message': ""The length of your prompt exceeds the model's max input limit 65536. Please reduce the length of your prompt and try again."", 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
-GOBP_MAINTENANCE_OF_PROTEIN_LOCALIZATION_IN_ORGANELLE,GO:0072595,biological_process,GO:0008150,"Intracellular Trafficking and Organelle Dynamics, Protein Metabolism and Trafficking, Molecular Transport and Homeostasis, Mitochondrial Function and Metabolism, System and Developmental Process"
-GOBP_ESTABLISHMENT_OF_PROTEIN_LOCALIZATION_TO_ENDOPLASMIC_RETICULUM,GO:0072599,biological_process,GO:0008150,"Protein Metabolism and Trafficking, Intracellular Trafficking and Organelle Dynamics, Molecular Transport and Homeostasis, System and Developmental Process, Structural Stabilization"
-GOBP_MAINTENANCE_OF_PROTEIN_LOCATION_IN_MITOCHONDRION,GO:0072656,biological_process,GO:0008150,"Mitochondrial Function and Metabolism  
-Protein Metabolism and Trafficking  
-Intracellular Trafficking and Organelle Dynamics  
-Molecular Transport and Homeostasis  
-System and Developmental Process"
-GOBP_T_CELL_EXTRAVASATION,GO:0072683,biological_process,GO:0008150,"Immune System and Inflammation, Cell Adhesion and Interaction, Molecular Transport and Homeostasis, Response to Stimulus, Signal Transduction"
-GOBP_PROTEIN_K6_LINKED_UBIQUITINATION,GO:0085020,biological_process,GO:0008150,"Protein Metabolism and Trafficking, DNA Repair, Epigenetic Regulation, Intracellular Trafficking and Organelle Dynamics, Signal Transduction"
+GOBP_MAINTENANCE_OF_PROTEIN_LOCALIZATION_IN_ORGANELLE,GO:0072595,biological_process,GO:0008150,"Protein Metabolism and Trafficking, Intracellular Trafficking and Organelle Dynamics, Molecular Transport and Homeostasis, Mitochondrial Function and Metabolism, System and Developmental Process"
+GOBP_ESTABLISHMENT_OF_PROTEIN_LOCALIZATION_TO_ENDOPLASMIC_RETICULUM,GO:0072599,biological_process,GO:0008150,"Protein Metabolism and Trafficking, Intracellular Trafficking and Organelle Dynamics, Molecular Transport and Homeostasis, System and Developmental Process, Signal Transduction"
+GOBP_MAINTENANCE_OF_PROTEIN_LOCATION_IN_MITOCHONDRION,GO:0072656,biological_process,GO:0008150,"Mitochondrial Function and Metabolism, Intracellular Trafficking and Organelle Dynamics, Protein Metabolism and Trafficking, Molecular Transport and Homeostasis, System and Developmental Process"
+GOBP_T_CELL_EXTRAVASATION,GO:0072683,biological_process,GO:0008150,"Immune System and Inflammation, Cell Adhesion and Interaction, System and Developmental Process, Response to Stimulus, Signal Transduction"
+GOBP_PROTEIN_K6_LINKED_UBIQUITINATION,GO:0085020,biological_process,GO:0008150,"Protein Metabolism and Trafficking, DNA Repair, Molecular Transport and Homeostasis, Signal Transduction, System and Developmental Process"
 GOBP_ENDOTHELIN_RECEPTOR_SIGNALING_PATHWAY,GO:0086100,biological_process,GO:0008150,"Signal Transduction, Response to Stimulus, Molecular Transport and Homeostasis, System and Developmental Process, Transcription and Translation Machinery"
-GOBP_REGULATION_OF_PROTEIN_DEUBIQUITINATION,GO:0090085,biological_process,GO:0008150,"Protein Metabolism and Trafficking, Epigenetic Regulation, Intracellular Trafficking and Organelle Dynamics, Signal Transduction, Molecular Transport and Homeostasis"
-GOBP_COPII_COATED_VESICLE_BUDDING,GO:0090114,biological_process,GO:0008150,"Intracellular Trafficking and Organelle Dynamics, Protein Metabolism and Trafficking, Molecular Transport and Homeostasis, Structural Stabilization, System and Developmental Process"
-GOBP_C_5_METHYLATION_OF_CYTOSINE,GO:0090116,biological_process,GO:0008150,"Epigenetic Regulation, DNA Repair, System and Developmental Process, Transcription and Translation Machinery, Response to Stimulus"
-GOBP_ESTABLISHMENT_OF_EPITHELIAL_CELL_POLARITY,GO:0090162,biological_process,GO:0008150,"Cell Adhesion and Interaction, Structural Stabilization, Signal Transduction, Intracellular Trafficking and Organelle Dynamics, Molecular Transport and Homeostasis"
-GOBP_ESTABLISHMENT_OF_PLANAR_POLARITY_INVOLVED_IN_NEURAL_TUBE_CLOSURE,GO:0090177,biological_process,GO:0008150,"Neurodevelopment and Neuronal Differentiation  
-System and Developmental Process  
+GOBP_REGULATION_OF_PROTEIN_DEUBIQUITINATION,GO:0090085,biological_process,GO:0008150,"Protein Metabolism and Trafficking, Signal Transduction, Molecular Transport and Homeostasis, Intracellular Trafficking and Organelle Dynamics, Response to Stimulus"
+GOBP_COPII_COATED_VESICLE_BUDDING,GO:0090114,biological_process,GO:0008150,"Intracellular Trafficking and Organelle Dynamics, Molecular Transport and Homeostasis, Protein Metabolism and Trafficking, Cellular Component Organization, System and Developmental Process"
+GOBP_C_5_METHYLATION_OF_CYTOSINE,GO:0090116,biological_process,GO:0008150,"Epigenetic Regulation, DNA Repair, Transcription and Translation Machinery, System and Developmental Process, Response to Stimulus"
+GOBP_ESTABLISHMENT_OF_EPITHELIAL_CELL_POLARITY,GO:0090162,biological_process,GO:0008150,"Cell Adhesion and Interaction, System and Developmental Process, Structural Stabilization, Cell Cycle, Signal Transduction"
+GOBP_ESTABLISHMENT_OF_PLANAR_POLARITY_INVOLVED_IN_NEURAL_TUBE_CLOSURE,GO:0090177,biological_process,GO:0008150,"Neurodevelopment and Neuronal Differentiation, System and Developmental Process, Cell Adhesion and Interaction, Structural Stabilization, Neurotransmission and Synaptic Regulation"
+GOBP_POSITIVE_REGULATION_OF_TRIGLYCERIDE_METABOLIC_PROCESS,GO:0090208,biological_process,GO:0008150,"Lipid Metabolism, Molecular Transport and Homeostasis, Mitochondrial Function and Metabolism, Protein Metabolism and Trafficking, Signal Transduction"
+GOBP_REGULATION_OF_METAPHASE_PLATE_CONGRESSION,GO:0090235,biological_process,GO:0008150,"Cell Cycle  
+Molecular Transport and Homeostasis  
 Structural Stabilization  
-Cell Adhesion and Interaction  
-Response to Stimulus"
-GOBP_POSITIVE_REGULATION_OF_TRIGLYCERIDE_METABOLIC_PROCESS,GO:0090208,biological_process,GO:0008150,"Lipid Metabolism, Molecular Transport and Homeostasis, Signal Transduction, Mitochondrial Function and Metabolism, Response to Stimulus"
-GOBP_REGULATION_OF_METAPHASE_PLATE_CONGRESSION,GO:0090235,biological_process,GO:0008150,"Cell Cycle, Signal Transduction, Intracellular Trafficking and Organelle Dynamics, Structural Stabilization, System and Developmental Process"
-GOBP_POSITIVE_REGULATION_OF_HISTONE_H4_ACETYLATION,GO:0090240,biological_process,GO:0008150,"Epigenetic Regulation, Transcription and Translation Machinery, Signal Transduction, Response to Stimulus, System and Developmental Process"
-GOBP_NEGATIVE_REGULATION_OF_HISTONE_H4_ACETYLATION,GO:0090241,biological_process,GO:0008150,"Epigenetic Regulation, Transcription and Translation Machinery, Signal Transduction, Response to Stimulus, System and Developmental Process"
+System and Developmental Process  
+Signal Transduction"
+GOBP_POSITIVE_REGULATION_OF_HISTONE_H4_ACETYLATION,GO:0090240,biological_process,GO:0008150,"Epigenetic Regulation, Transcription and Translation Machinery, Signal Transduction, Protein Metabolism and Trafficking, Response to Stimulus"
+GOBP_NEGATIVE_REGULATION_OF_HISTONE_H4_ACETYLATION,GO:0090241,biological_process,GO:0008150,"Epigenetic Regulation, Protein Metabolism and Trafficking, Transcription and Translation Machinery, Signal Transduction, Response to Stimulus"
 GOBP_NEGATIVE_REGULATION_OF_CALCIUM_ION_IMPORT,GO:0090281,biological_process,GO:0008150,"Molecular Transport and Homeostasis, Signal Transduction, Intracellular Trafficking and Organelle Dynamics, Response to Stimulus, System and Developmental Process"
-GOBP_REGULATION_OF_OSTEOCLAST_PROLIFERATION,GO:0090289,biological_process,GO:0008150,"Cell Cycle, Immune System and Inflammation, Signal Transduction, System and Developmental Process, Molecular Transport and Homeostasis"
-GOBP_POSITIVE_REGULATION_OF_INTRACELLULAR_PROTEIN_TRANSPORT,GO:0090316,biological_process,GO:0008150,"Protein Metabolism and Trafficking  
+GOBP_REGULATION_OF_OSTEOCLAST_PROLIFERATION,GO:0090289,biological_process,GO:0008150,"Cell Cycle, Immune System and Inflammation, System and Developmental Process, Cell Adhesion and Interaction, Signal Transduction"
+GOBP_POSITIVE_REGULATION_OF_INTRACELLULAR_PROTEIN_TRANSPORT,GO:0090316,biological_process,GO:0008150,"Intracellular Trafficking and Organelle Dynamics, Protein Metabolism and Trafficking, Molecular Transport and Homeostasis, Signal Transduction, Response to Stimulus"
+GOBP_NEGATIVE_REGULATION_OF_INTRACELLULAR_PROTEIN_TRANSPORT,GO:0090317,biological_process,GO:0008150,"Protein Metabolism and Trafficking  
 Intracellular Trafficking and Organelle Dynamics  
 Molecular Transport and Homeostasis  
 Signal Transduction  
 System and Developmental Process"
-GOBP_NEGATIVE_REGULATION_OF_INTRACELLULAR_PROTEIN_TRANSPORT,GO:0090317,biological_process,GO:0008150,"Protein Metabolism and Trafficking, Intracellular Trafficking and Organelle Dynamics, Molecular Transport and Homeostasis, Signal Transduction, Response to Stimulus"
-GOBP_REGULATION_OF_DNA_TEMPLATED_DNA_REPLICATION,GO:0090329,biological_process,GO:0008150,"DNA Repair, Cell Cycle, Transcription and Translation Machinery, Epigenetic Regulation, Signal Transduction"
-GOBP_INTRACELLULAR_GLUTAMATE_HOMEOSTASIS,GO:0090461,biological_process,GO:0008150,"Molecular Transport and Homeostasis, Protein Metabolism and Trafficking, Neurotransmission and Synaptic Regulation, Intracellular Trafficking and Organelle Dynamics, System and Developmental Process"
-GOBP_REGULATION_OF_MEMBRANE_PERMEABILITY,GO:0090559,biological_process,GO:0008150,"Molecular Transport and Homeostasis, Intracellular Trafficking and Organelle Dynamics, Response to Stimulus, Signal Transduction, System and Developmental Process"
-GOBP_ENDOTHELIAL_CELL_MATRIX_ADHESION,GO:0090673,biological_process,GO:0008150,"Cell Adhesion and Interaction, System and Developmental Process, Structural Stabilization, Response to Stimulus, Signal Transduction"
-GOBP_RESPONSE_TO_THYROID_HORMONE,GO:0097066,biological_process,GO:0008150,"Response to Stimulus, Signal Transduction, Transcription and Translation Machinery, Molecular Transport and Homeostasis, System and Developmental Process"
-GOBP_CELLULAR_RESPONSE_TO_THYROID_HORMONE_STIMULUS,GO:0097067,biological_process,GO:0008150,"Signal Transduction, Molecular Transport and Homeostasis, Response to Stimulus, Mitochondrial Function and Metabolism, Cellular Response to Stimulus"
-GOBP_VASCULAR_ASSOCIATED_SMOOTH_MUSCLE_CELL_DEVELOPMENT,GO:0097084,biological_process,GO:0008150,"System and Developmental Process  
-Cell Development and Differentiation  
-Vascular Biology  
-Muscle Function and Development  
-Cellular Differentiation"
+GOBP_REGULATION_OF_DNA_TEMPLATED_DNA_REPLICATION,GO:0090329,biological_process,GO:0008150,"DNA Repair
+Cell Cycle
+Transcription and Translation Machinery
+Epigenetic Regulation
+Signal Transduction"
+GOBP_INTRACELLULAR_GLUTAMATE_HOMEOSTASIS,GO:0090461,biological_process,GO:0008150,"Molecular Transport and Homeostasis, Intracellular Trafficking and Organelle Dynamics, Neurotransmission and Synaptic Regulation, Protein Metabolism and Trafficking, Signal Transduction"
+GOBP_REGULATION_OF_MEMBRANE_PERMEABILITY,GO:0090559,biological_process,GO:0008150,"Molecular Transport and Homeostasis, Intracellular Trafficking and Organelle Dynamics, Signal Transduction, Response to Stimulus, System and Developmental Process"
+GOBP_ENDOTHELIAL_CELL_MATRIX_ADHESION,GO:0090673,biological_process,GO:0008150,"Cell Adhesion and Interaction, Structural Stabilization, System and Developmental Process, Molecular Transport and Homeostasis, Signal Transduction"
+GOBP_RESPONSE_TO_THYROID_HORMONE,GO:0097066,biological_process,GO:0008150,"Response to Stimulus, Signal Transduction, Molecular Transport and Homeostasis, Mitochondrial Function and Metabolism, System and Developmental Process"
+GOBP_CELLULAR_RESPONSE_TO_THYROID_HORMONE_STIMULUS,GO:0097067,biological_process,GO:0008150,"Response to Stimulus, Signal Transduction, Transcription and Translation Machinery, Molecular Transport and Homeostasis, System and Developmental Process"
+GOBP_VASCULAR_ASSOCIATED_SMOOTH_MUSCLE_CELL_DEVELOPMENT,GO:0097084,biological_process,GO:0008150,"System and Developmental Process, Neurodevelopment and Neuronal Differentiation, Cell Differentiation, Cell Adhesion and Interaction, Structural Stabilization"
