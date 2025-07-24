@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /projects/compbio/users/xran2/wen/JX/02-AI-BioDomain/git_folder
 set -euo pipefail
 
 

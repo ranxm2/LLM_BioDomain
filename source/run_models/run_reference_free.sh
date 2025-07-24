@@ -1,6 +1,5 @@
 #!/bin/bash
-
-
+cd /projects/compbio/users/xran2/wen/JX/02-AI-BioDomain/git_folder
 # Check result on AD data
 
 # With Name only
