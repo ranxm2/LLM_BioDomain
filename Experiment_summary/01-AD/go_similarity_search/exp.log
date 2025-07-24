@@ -1,0 +1,89 @@
+=== Running go_similarity_search for seed=42 ===
+Expansion‑based hits: 4512/7120 GO terms (63.4%)
+ - Synapse: expanded to 2248 GO terms
+ - Immune Response: expanded to 2629 GO terms
+ - Mitochondrial Metabolism: expanded to 0 GO terms
+ - Structural Stabilization: expanded to 0 GO terms
+ - Proteostasis: expanded to 0 GO terms
+ - Lipid Metabolism: expanded to 3449 GO terms
+ - Vasculature: expanded to 0 GO terms
+ - Endolysosome: expanded to 7088 GO terms
+ - Cell Cycle: expanded to 1 GO terms
+ - Apoptosis: expanded to 3645 GO terms
+ - Oxidative Stress: expanded to 0 GO terms
+ - Myelination: expanded to 5736 GO terms
+ - Metal Binding and Homeostasis: expanded to 0 GO terms
+ - Autophagy: expanded to 2551 GO terms
+ - Epigenetic: expanded to 0 GO terms
+ - APP Metabolism: expanded to 3985 GO terms
+ - DNA Repair: expanded to 2096 GO terms
+ - RNA Spliceosome: expanded to 0 GO terms
+ - Tau Homeostasis: expanded to 0 GO terms
+=== Evaluating results for seed=42 ===
+shape: (1, 5)
+┌─────────────┬─────────────┬──────────┬──────────┬─────────────────────────────────┐
+│ precision@1 ┆ precision@2 ┆ recall@1 ┆ recall@2 ┆ method                          │
+│ ---         ┆ ---         ┆ ---      ┆ ---      ┆ ---                             │
+│ f64         ┆ f64         ┆ f64      ┆ f64      ┆ str                             │
+╞═════════════╪═════════════╪══════════╪══════════╪═════════════════════════════════╡
+│ 0.203652    ┆ 0.127177    ┆ 0.199087 ┆ 0.247893 ┆ go_similarity_search_random_se… │
+└─────────────┴─────────────┴──────────┴──────────┴─────────────────────────────────┘
+=== Running go_similarity_search for seed=27 ===
+Expansion‑based hits: 4512/7120 GO terms (63.4%)
+ - Synapse: expanded to 2248 GO terms
+ - Immune Response: expanded to 2629 GO terms
+ - Mitochondrial Metabolism: expanded to 0 GO terms
+ - Structural Stabilization: expanded to 0 GO terms
+ - Proteostasis: expanded to 0 GO terms
+ - Lipid Metabolism: expanded to 3449 GO terms
+ - Vasculature: expanded to 0 GO terms
+ - Endolysosome: expanded to 7088 GO terms
+ - Cell Cycle: expanded to 1 GO terms
+ - Apoptosis: expanded to 3645 GO terms
+ - Oxidative Stress: expanded to 0 GO terms
+ - Myelination: expanded to 5736 GO terms
+ - Metal Binding and Homeostasis: expanded to 0 GO terms
+ - Autophagy: expanded to 2551 GO terms
+ - Epigenetic: expanded to 0 GO terms
+ - APP Metabolism: expanded to 3985 GO terms
+ - DNA Repair: expanded to 2096 GO terms
+ - RNA Spliceosome: expanded to 0 GO terms
+ - Tau Homeostasis: expanded to 0 GO terms
+=== Evaluating results for seed=27 ===
+shape: (1, 5)
+┌─────────────┬─────────────┬──────────┬──────────┬─────────────────────────────────┐
+│ precision@1 ┆ precision@2 ┆ recall@1 ┆ recall@2 ┆ method                          │
+│ ---         ┆ ---         ┆ ---      ┆ ---      ┆ ---                             │
+│ f64         ┆ f64         ┆ f64      ┆ f64      ┆ str                             │
+╞═════════════╪═════════════╪══════════╪══════════╪═════════════════════════════════╡
+│ 0.204775    ┆ 0.130899    ┆ 0.200281 ┆ 0.254354 ┆ go_similarity_search_random_se… │
+└─────────────┴─────────────┴──────────┴──────────┴─────────────────────────────────┘
+=== Running go_similarity_search for seed=2025 ===
+Expansion‑based hits: 4512/7120 GO terms (63.4%)
+ - Synapse: expanded to 2248 GO terms
+ - Immune Response: expanded to 2629 GO terms
+ - Mitochondrial Metabolism: expanded to 0 GO terms
+ - Structural Stabilization: expanded to 0 GO terms
+ - Proteostasis: expanded to 0 GO terms
+ - Lipid Metabolism: expanded to 3449 GO terms
+ - Vasculature: expanded to 0 GO terms
+ - Endolysosome: expanded to 7088 GO terms
+ - Cell Cycle: expanded to 1 GO terms
+ - Apoptosis: expanded to 3645 GO terms
+ - Oxidative Stress: expanded to 0 GO terms
+ - Myelination: expanded to 5736 GO terms
+ - Metal Binding and Homeostasis: expanded to 0 GO terms
+ - Autophagy: expanded to 2551 GO terms
+ - Epigenetic: expanded to 0 GO terms
+ - APP Metabolism: expanded to 3985 GO terms
+ - DNA Repair: expanded to 2096 GO terms
+ - RNA Spliceosome: expanded to 0 GO terms
+ - Tau Homeostasis: expanded to 0 GO terms
+=== Evaluating results for seed=2025 ===
+shape: (1, 5)
+┌─────────────┬─────────────┬──────────┬──────────┬─────────────────────────────────┐
+│ precision@1 ┆ precision@2 ┆ recall@1 ┆ recall@2 ┆ method                          │
+│ ---         ┆ ---         ┆ ---      ┆ ---      ┆ ---                             │
+│ f64         ┆ f64         ┆ f64      ┆ f64      ┆ str                             │
+╞═════════════╪═════════════╪══════════╪══════════╪═════════════════════════════════╡
+│ 0.206039    ┆ 0.129705    ┆ 0.201404 ┆ 0.252879 ┆ go_similarity_search_random_se… │

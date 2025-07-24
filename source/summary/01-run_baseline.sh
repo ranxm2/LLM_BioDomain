@@ -64,6 +64,61 @@ python -m baselines.eval eval \
 
 
 
+# Model 3: Go similarity
+mkdir -p Experiment_summary/01-AD/go_similarity
+
+SIM_PATH="./data/go_jaccard_long_filtered.csv"
+DATA_PATH="./data/AD_Biological_Domain_GO_annotate.csv"
+BASE_OUT="./Experiment_summary/01-AD/go_similarity"
+TOPK=5
+
+for SEED in 42 27 2025; do
+  OUT_DIR="${BASE_OUT}"
+  mkdir -p "${OUT_DIR}"
+
+  echo "=== Running go_similarity for seed=${SEED} ==="
+  python -m baselines.go_similarity \
+    --seed "${SEED}" \
+    --output_dir "${OUT_DIR}" \
+    --similarity_path "${SIM_PATH}" \
+    --dataset_path   "${DATA_PATH}" \
+    --topk            "${TOPK}"
+
+  echo "=== Evaluating results for seed=${SEED} ==="
+  python -m baselines.eval eval \
+    --result_path      "${OUT_DIR}/jaccard_seed_${SEED}.json" \
+    --leaderboard_path "${OUT_DIR}/jaccard_seed_${SEED}_leaderboard.csv" \
+    --method_name      "go_similarity_random_seed_${SEED}"
+done
+
+
+# Model 4: Go similarity search
+mkdir -p Experiment_summary/01-AD/go_similarity_search
+SIM_PATH="./data/go_jaccard_long_filtered.csv"
+DATA_PATH="./data/AD_Biological_Domain_GO_annotate.csv"
+BASE_OUT="./Experiment_summary/01-AD/go_similarity_search"
+TOPK=5
+
+for SEED in 42 27 2025; do
+  OUT_DIR="${BASE_OUT}"
+  mkdir -p "${OUT_DIR}"
+
+  echo "=== Running go_similarity_search for seed=${SEED} ==="
+  python -m baselines.go_similarity_search \
+    --seed "${SEED}" \
+    --output_dir "${OUT_DIR}" \
+    --similarity_path "${SIM_PATH}" \
+    --dataset_path   "${DATA_PATH}" \
+    --topk            "${TOPK}"
+
+  echo "=== Evaluating results for seed=${SEED} ==="
+  python -m baselines.eval eval \
+    --result_path      "${OUT_DIR}/similarity_expansion_seed_${SEED}.json" \
+    --leaderboard_path "${OUT_DIR}/similarity_expansion_seed_${SEED}_leaderboard.csv" \
+    --method_name      "go_similarity_search_random_seed_${SEED}"
+done
+
+
 
 #-----------------------------------------------------------------#
 #-------------- Case Study 2: FXS in the BioDomain  --------------#
@@ -132,3 +187,58 @@ python -m baselines.eval eval \
     --result_path './Experiment_summary/02-FXS/graph_traversal/seed_2025.json' \
     --leaderboard_path './Experiment_summary/02-FXS/graph_traversal/seed_2025_leaderboard.csv' \
     --method_name 'graph_traversal_random_seed_2025'
+
+
+# Model 3: Go similarity
+mkdir -p Experiment_summary/02-FXS/go_similarity
+
+SIM_PATH="./data/go_jaccard_long_filtered.csv"
+DATA_PATH="./data/FXS_bidomain_annotation_certain.csv"
+BASE_OUT="./Experiment_summary/02-FXS/go_similarity"
+TOPK=5
+
+for SEED in 42 27 2025; do
+  OUT_DIR="${BASE_OUT}"
+  mkdir -p "${OUT_DIR}"
+
+  echo "=== Running go_similarity_FXS for seed=${SEED} ==="
+  python -m baselines.go_similarity \
+    --seed "${SEED}" \
+    --output_dir "${OUT_DIR}" \
+    --similarity_path "${SIM_PATH}" \
+    --dataset_path   "${DATA_PATH}" \
+    --topk            "${TOPK}"
+
+  echo "=== Evaluating results for seed=${SEED} ==="
+  python -m baselines.eval eval \
+    --result_path      "${OUT_DIR}/jaccard_seed_${SEED}.json" \
+    --leaderboard_path "${OUT_DIR}/jaccard_seed_${SEED}_leaderboard.csv" \
+    --method_name      "go_similarity_random_seed_${SEED}"
+done
+
+
+# Model 4: Go similarity search
+mkdir -p Experiment_summary/02-FXS/go_similarity_search
+SIM_PATH="./data/go_jaccard_long_filtered.csv"
+DATA_PATH="./data/FXS_bidomain_annotation_certain.csv"
+BASE_OUT="./Experiment_summary/02-FXS/go_similarity_search"
+TOPK=5
+
+for SEED in 42 27 2025; do
+  OUT_DIR="${BASE_OUT}"
+  mkdir -p "${OUT_DIR}"
+
+  echo "=== Running go_similarity_search_FXS for seed=${SEED} ==="
+  python -m baselines.go_similarity_search_FXS \
+    --seed "${SEED}" \
+    --output_dir "${OUT_DIR}" \
+    --similarity_path "${SIM_PATH}" \
+    --dataset_path   "${DATA_PATH}" \
+    --topk            "${TOPK}"
+
+  echo "=== Evaluating results for seed=${SEED} ==="
+  python -m baselines.eval eval \
+    --result_path      "${OUT_DIR}/similarity_expansion_seed_${SEED}.json" \
+    --leaderboard_path "${OUT_DIR}/similarity_expansion_seed_${SEED}_leaderboard.csv" \
+    --method_name      "go_similarity_search_random_seed_${SEED}"
+done
