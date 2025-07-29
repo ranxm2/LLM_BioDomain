@@ -21,3 +21,29 @@ AD_BioDomain_GOID_map = {
     'RNA Spliceosome': None,
     'Tau Homeostasis': None,
 }
+
+# Biodomain to GO ID mapping
+# 7 out of 20 have GO IDs
+FXS_Biodomain_GO_map = {
+    'Apoptosis': 'GO:0006915',
+    'Autophagy': 'GO:0006914',
+    'Cell Adhesion and Interaction': None,
+    'Cell Cycle': 'GO:0007049',
+    'DNA Repair': 'GO:0006281',
+    'Epigenetic Regulation': None,
+    'Gliogenesis and Glial Differentiation': None,
+    'Immune System and Inflammation': None,
+    'Intracellular Trafficking and Organelle Dynamics': None,
+    'Lipid Metabolism': 'GO:0006629',
+    'Mitochondrial Function and Metabolism': None,
+    'Molecular Transport and Homeostasis': None,
+    'Neurodevelopment and Neuronal Differentiation': None,
+    'Neurotransmission and Synaptic Regulation': None,
+    'Protein Metabolism and Trafficking': None,
+    'Response to Stimulus': 'GO:0050896',
+    'RNA Metabolism': None,
+    'Signal Transduction': 'GO:0007165',
+    'Structural Stabilization': None,
+    'System and Developmental Process': None,
+    'Transcription and Translation Machinery': None
+}

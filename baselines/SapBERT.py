@@ -1,6 +1,6 @@
 import random
 import json
-from typing import List
+from typing import List, Literal
 
 import numpy as np
 from tqdm.auto import tqdm
@@ -8,17 +8,23 @@ import fire
 import polars as pl
 from pybiomedlink.linker import TransformerEmbLinker
 
-from .meta_data import AD_BioDomain_GOID_map
+from .meta_data import AD_BioDomain_GOID_map, FXS_Biodomain_GO_map
 
 def main(
     output_dir: str = './Experiment/00-Baselines/SapBERT',
     seed: int = 42,
     dataset_path: str = './data/AD_Biological_Domain_GO_annotate.csv',
     topk: int = 5,
+    biodomain_type: Literal['AD', 'FXS'] = 'AD',
 ):
     random.seed(seed)
-    AD_BioDomains = list(AD_BioDomain_GOID_map.keys())
-    linker = TransformerEmbLinker(AD_BioDomains, model_name="cambridgeltl/SapBERT-from-PubMedBERT-fulltext")
+    if biodomain_type == 'AD':
+        bio_domains = list(AD_BioDomain_GOID_map.keys())
+    elif biodomain_type == 'FXS':
+        bio_domains = list(FXS_Biodomain_GO_map.keys())
+    else:
+        raise ValueError(f'Unknown biodomain type: {biodomain_type}')
+    linker = TransformerEmbLinker(bio_domains, model_name="cambridgeltl/SapBERT-from-PubMedBERT-fulltext")
     # load the dataset
     df = pl.read_csv(
         dataset_path,

@@ -1,23 +1,27 @@
 import random
 import json
-from typing import List
+from typing import List, Literal
 
 import numpy as np
 import fire
 import polars as pl
 from pybiomedlink.linker import LevenshteinLinker
 
-from .meta_data import AD_BioDomain_GOID_map
+from .meta_data import AD_BioDomain_GOID_map, FXS_Biodomain_GO_map
 
 def main(
     output_dir: str = './Experiment/00-Baselines/LevEditDist',
     seed: int = 42,
     dataset_path: str = './data/AD_Biological_Domain_GO_annotate.csv',
     topk: int = 5,
+    biodomain_type: Literal["AD", "FXS"] = 'AD',
 ):
     random.seed(seed)
-    AD_BioDomains = list(AD_BioDomain_GOID_map.keys())
-    linker = LevenshteinLinker(AD_BioDomains)
+    if biodomain_type == "AD":
+        bio_domains = list(AD_BioDomain_GOID_map.keys())
+    elif biodomain_type == "FXS":
+        bio_domains = list(FXS_Biodomain_GO_map.keys())
+    linker = LevenshteinLinker(bio_domains)
     # load the dataset
     df = pl.read_csv(
         dataset_path,
