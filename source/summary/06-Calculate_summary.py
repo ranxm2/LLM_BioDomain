@@ -56,6 +56,8 @@ def extract_prefix(m):
     return m
 
 df['model'] = df['method'].apply(extract_prefix)
+# save the modified DataFrame
+df.to_csv('./Experiment_summary/merged_go_biodomain_label.csv', index=False)
 
 # 5. Compute mean and std for each model within each disease
 results = []
